@@ -280,7 +280,8 @@ if (document.URL.indexOf("iqiyi.com") >= 0){
         /* isWeixin = true; */
         if(isIDevice){
           if (isWeixin) {
-            window.open('https://kangear.github.io/smartspeaker/weixinopen.html?uri=' + ios_url);
+            /* window.open('https://kangear.github.io/smartspeaker/weixinopen.html?uri=' + ios_url); */
+            window.open('https://kangear.github.io/smartspeaker/weixinopen.html');
           } else {
             window.location = ios_url;
             if(isIDeviceIpad){
@@ -289,7 +290,8 @@ if (document.URL.indexOf("iqiyi.com") >= 0){
           }
         }else if(isAndroid) {
           if (isWeixin) {
-            window.open('https://kangear.github.io/smartspeaker/weixinopen.html?uri=' + android_url);
+            window.open('https://kangear.github.io/smartspeaker/weixinopen.html');
+            /* window.open('https://kangear.github.io/smartspeaker/weixinopen.html?uri=' + android_url); */
           } else {
             // window.location.href = 'newsapp://startup?s=uc'
             window.location.href = android_url;
