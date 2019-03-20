@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>网易新闻客户端</title>
+    <meta content="width=device-width,user-scalable=no" name="viewport">
+    <meta name="format-detection" content="telephone=no" />
+    <style>
+      body{background:  #F8F7F5 }
+      #guide{width: 100%;height:400px;background-size: 320px 400px; background-position: center top; background-repeat: no-repeat;}
+      .iosguide{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2015iosopen1.jpg");}
+      .androidguide{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2014androidopen.jpg");}
+      .iosguidedownload{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2015iosopen1.jpg");}
+      .androidguidedownload{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2014androidopen.jpg");}
+      .iosguideopen{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2015iosopen1.jpg");}
+      .androidguideopen{background-image:url("http://img2.cache.netease.com/m/newsapp/share/2014androidopen.jpg");}
+    </style>
+  </head>
+  <body ontouchstart="">
+    <div id="guide" class="guide"></div>
+    <iframe id="iframe" style="display: none !important;"></iframe>
+    <script>
+    ;(function(window,doc){
+      function localParam(search,hash){
+        search = search || window.location.search;
+        hash = hash || window.location.hash;
+        var fn = function(str,reg){
+          if(str){
+            var data = {};
+            str.replace(reg,function( $0, $1, $2, $3 ){
+              data[ $1 ] = $3;
+            });
+            return data;
+          }
+        }
+        return {search: fn(search,new RegExp( "([^?=&]+)(=([^&]*))?", "g" ))||{},hash: fn(hash,new RegExp( "([^#=&]+)(=([^&]*))?", "g" ))||{}};
+      }
+      var isAndroid=navigator.userAgent.match(/android/ig),
+        isIos=navigator.userAgent.match(/iphone|ipod/ig),
+        isIpad=navigator.userAgent.match(/ipad/ig),
+        isWeixin = (/MicroMessenger/ig).test(navigator.userAgent),
+        params = localParam(),
+        uri = params.search.uri,
+        iframe = document.getElementById('iframe');
+      if(isIos||isIpad){
+        document.getElementById("guide").classList.add('iosguideopen')
+      }else if (isAndroid){
+        document.getElementById("guide").classList.add('androidguideopen')
+      }
+/*
+      if(!isWeixin){
+        document.getElementById('iframe').src = uri;
+        setTimeout(function(){
+         
+            window.location.href = 'http://3g.163.com/newsapp';
+          
+        }, 200);
+      }
+*/
+    })(window,document);
+    </script>
+  </body>
+</html>

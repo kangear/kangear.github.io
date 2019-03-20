@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)https://3g.163.com/newsapp -->
+<html lang="zh" data-dpr="1" style="font-size: 100px;"><script async="" src="./网易新闻_files/antanalysis.min.js"></script><script type="text/javascript">Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25'; } });Object.defineProperty(window.navigator, 'vendor', { get: function(){ return 'Apple, Inc.'; } });Object.defineProperty(window.navigator, 'platform', { get: function(){ return 'iPhone'; } });</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>SmartSpeaker</title>
+    <script async="" src="./网易新闻_files/NTM-CQNTS2VV-13.js"></script><script>
+      (function (doc, win) {
+        var docEl = doc.documentElement,
+          isIOS = navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
+          dpr = isIOS? Math.min(win.devicePixelRatio, 3) : 1,
+          dpr = window.top === window.self? dpr : 1, //被iframe引用时，禁止缩放
+          dpr = 1,
+          scale = 1 / dpr,
+          resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize';
+        docEl.dataset.dpr = dpr;
+        var metaEl = doc.createElement('meta');
+        metaEl.name = 'viewport';
+        metaEl.content = 'initial-scale=' + scale + ',maximum-scale=' + scale + ', minimum-scale=' + scale;
+        docEl.firstElementChild.appendChild(metaEl);
+        var recalc = function () {
+            var width = docEl.clientWidth;
+            if (width / dpr > 750) {
+                width = 750 * dpr;
+            }
+            docEl.style.fontSize = 100 * (width / 750) + 'px';
+          };
+        recalc()
+        if (!doc.addEventListener) return;
+        win.addEventListener(resizeEvt, recalc, false);
+      })(document, window);
+    </script><meta name="viewport" content="initial-scale=1,maximum-scale=1, minimum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        -webkit-user-select: text; 
+      }
+      a,img{
+        -webkit-touch-callout: none;/*禁用长按弹出系统菜单*/
+        -webkit-tap-highlight-color: rgba(0,0,0,0);
+        outline: none;
+      }
+      body {
+        background: #ffffff;
+      }
+      .main-body {
+        position: relative;
+        width: 7.5rem;
+        margin: 0 auto;
+        /* height: 69.58rem; */
+	      overflow: hidden;
+      }
+      .placeholder-0 {
+        height: 17.5rem;
+      }
+      .placeholder-1 {
+        height: 12.8rem;
+      }
+      .placeholder-2 {
+        height: 11.43rem;
+      }
+      .placeholder-3 {
+        height: 11.88rem;
+      }
+      .placeholder-4 {
+        height: 13.12rem;
+      }
+      img {
+        width: 100%;
+      }
+      .btn1, .btn2 {
+        position: absolute;
+        width: 4.3rem;
+        height: .92rem;
+        left: 50%;
+        margin-left: -2.15rem;
+        -webkit-appearance: none;
+        background: transparent;
+        border: 0;
+      }
+      .btn1 {
+        top: 4.47rem;
+      }
+      .btn2 {
+        top: 63.67rem;
+      }
+    </style>
+  <style type="text/css" abt="234"></style><script>//console.log('a')
+</script><script>//remove 17173 video ad
+doAdblock();
+function doAdblock(){
+    (function() {
+        function A() {}
+        A.prototype = {
+            rules: {
+                '17173_in':{
+                    'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/PreloaderFile(Customer)?\.swf/,
+                    'replace':"http://swf.adtchrome.com/17173_in_20150522.swf"
+                },
+                '17173_out':{
+                    'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/PreloaderFileFirstpage\.swf/,
+                    'replace':"http://swf.adtchrome.com/17173_out_20150522.swf"
+                },
+                '17173_live':{
+                    'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/Player_stream(_firstpage)?\.swf/,
+                    'replace':"http://swf.adtchrome.com/17173_stream_20150522.swf"
+                },
+                '17173_live_out':{
+                    'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/Player_stream_(custom)?Out\.swf/,
+                    'replace':"http://swf.adtchrome.com/17173.out.Live.swf"
+                }
+            },
+            _done: null,
+            get done() {
+                if(!this._done) {
+                    this._done = new Array();
+                }
+                return this._done;
+            },
+            addAnimations: function() {
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = 'object,embed{\
+                -webkit-animation-duration:.001s;-webkit-animation-name:playerInserted;\
+                -ms-animation-duration:.001s;-ms-animation-name:playerInserted;\
+                -o-animation-duration:.001s;-o-animation-name:playerInserted;\
+                animation-duration:.001s;animation-name:playerInserted;}\
+                @-webkit-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @-ms-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @-o-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}';
+                document.getElementsByTagName('head')[0].appendChild(style);
+            },
+            animationsHandler: function(e) {
+                if(e.animationName === 'playerInserted') {
+                    this.replace(e.target);
+                }
+            },
+            replace: function(elem) {
+                if(this.done.indexOf(elem) != -1) return;
+                this.done.push(elem);
+                var player = elem.data || elem.src;
+                if(!player) return;
+                var i, find, replace = false;
+                for(i in this.rules) {
+                    find = this.rules[i]['find'];
+                    if(find.test(player)) {
+                        replace = this.rules[i]['replace'];
+                        if('function' === typeof this.rules[i]['preHandle']) {
+                            this.rules[i]['preHandle'].bind(this, elem, find, replace, player)();
+                        }else{
+                            this.reallyReplace.bind(this, elem, find, replace)();
+                        }
+                        break;
+                    }
+                }
+            },
+            reallyReplace: function(elem, find, replace) {
+                elem.data && (elem.data = elem.data.replace(find, replace)) || elem.src && ((elem.src = elem.src.replace(find, replace)) && (elem.style.display = 'block'));
+                var b = elem.querySelector("param[name='movie']");
+                this.reloadPlugin(elem);
+            },
+            reloadPlugin: function(elem) {
+                var nextSibling = elem.nextSibling;
+                var parentNode = elem.parentNode;
+                parentNode.removeChild(elem);
+                var newElem = elem.cloneNode(true);
+                this.done.push(newElem);
+                if(nextSibling) {
+                    parentNode.insertBefore(newElem, nextSibling);
+                } else {
+                    parentNode.appendChild(newElem);
+                }
+            },
+            init: function() {
+                var handler = this.animationsHandler.bind(this);
+                document.body.addEventListener('webkitAnimationStart', handler, false);
+                document.body.addEventListener('msAnimationStart', handler, false);
+                document.body.addEventListener('oAnimationStart', handler, false);
+                document.body.addEventListener('animationstart', handler, false);
+                this.addAnimations();
+            }
+        };
+        new A().init();
+    })();
+}
+//remove baidu search ad
+if(document.URL.indexOf('www.baidu.com') >= 0){
+    if(document && document.getElementsByTagName && document.getElementById && document.body){
+        var aa = function(){
+            var all = document.body.querySelectorAll("#content_left div,#content_left table");
+            for(var i = 0; i < all.length; i++){
+                if(/display:\s?(table|block)\s!important/.test(all[i].getAttribute("style"))){all[i].style.display= "none";all[i].style.visibility='hidden';}
+            }
+            all = document.body.querySelectorAll('.result.c-container[id="1"]');
+            //if(all.length == 1) return;
+            for(var i = 0; i < all.length; i++){
+                if(all[i].innerHTML && all[i].innerHTML.indexOf('广告')>-1){
+                    all[i].style.display= "none";all[i].style.visibility='hidden';
+                }
+            }
+        }
+        aa();
+        document.getElementById('wrapper_wrapper').addEventListener('DOMSubtreeModified',aa)
+    };
+}
+//remove sohu video ad
+if (document.URL.indexOf("tv.sohu.com") >= 0){
+    if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='fee_status=true'};
+}
+//remove 56.com video ad
+if (document.URL.indexOf("56.com") >= 0){
+    if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='fee_status=true'};
+}
+//fore iqiyi enable html5 player function
+if (document.URL.indexOf("iqiyi.com") >= 0){
+    if (document.cookie.indexOf("player_forcedType=h5_VOD")==-1){
+        document.cookie='player_forcedType=h5_VOD'
+        if(localStorage.reloadTime && Date.now() - parseInt(localStorage.reloadTime)<60000){
+            console.log('no reload')
+        }else{
+            location.reload()
+            localStorage.reloadTime = Date.now();
+        }
+    }
+}
+</script><style type="text/css">object,embed{                -webkit-animation-duration:.001s;-webkit-animation-name:playerInserted;                -ms-animation-duration:.001s;-ms-animation-name:playerInserted;                -o-animation-duration:.001s;-o-animation-name:playerInserted;                animation-duration:.001s;animation-name:playerInserted;}                @-webkit-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @-ms-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @-o-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}</style></head>
+  <body ontouchstart="">
+    <iframe id="iframe" style="display: none !important;" src="./网易新闻_files/saved_resource.html"></iframe>
+    <div class="main-body">
+      <div class="placeholder-0" data-loaded="1">
+        <img src="./网易新闻_files/download-01.jpg" alt="网易新闻 简单阅世界">
+      </div>
+      <div class="placeholder-1"><img src="./网易新闻_files/download-02.jpg"></div>
+      <div class="placeholder-2"><img src="./网易新闻_files/download-03.jpg"></div>
+      <div class="placeholder-3"><img src="./网易新闻_files/download-04.jpg"></div>
+      <div class="placeholder-4"><img src="./网易新闻_files/download-05.jpg"></div>
+      <div class="js-download btn1"></div>
+      <div class="js-download btn2"></div>
+    </div>
+    <script type="text/javascript">
+      function localParam(search, hash) {
+        var fn;
+        search = search || window.location.search;
+        hash = hash || window.location.hash;
+        fn = function(str, reg) {
+          var data;
+          if (str) {
+            data = {};
+            str.replace(reg, function($0, $1, $2, $3) {
+              data[$1] = $3;
+            });
+            return data;
+          }
+        };
+        return {
+          search: fn(search, new RegExp('([^?=&]+)(=([^&]*))?', 'g')) || {},
+          hash: fn(hash, new RegExp('([^#=&]+)(=([^&]*))?', 'g')) || {}
+        };
+      }
+      var source = localParam().search.s
+      // document.getElementById('iframe').src = 'newsapp://startup?s=' + source
+      document.querySelector('.main-body').addEventListener('click', function(e){
+        if (!e.target.classList.contains('js-download')) return
+        var isIDevicePhone = (/iphone|ipod/gi).test(navigator.platform);
+        var isIDeviceIpad = !isIDevicePhone && (/ipad/gi).test(navigator.platform);
+        var isIDevice = isIDevicePhone || isIDeviceIpad;
+        var isAndroid = !isIDevice && (/android/gi).test(navigator.userAgent);
+        var isandroid2_x = !isIDevice && (/android\s?2\./gi).test(navigator.userAgent);
+        var isIEMobile = !isIDevice && !isAndroid && (/MSIE/gi).test(navigator.userAgent);
+        var ua = navigator.userAgent.toLowerCase();
+        var isWeixin = ua.match(/micromessenger/gi);
+        var wxios = document.querySelector('.wxios');
+        var wxandroid = document.querySelector('.wxandroid');
+        var android_url = (!isandroid2_x) ? "http://3g.163.com/links/4304" : "http://3g.163.com/links/6264";
+        var ios_url = "https://itunes.apple.com/cn/app/smart-speaker/id1441369165?l=en&mt=8";
+        var wphone_url = "http://3g.163.com/links/3614";
+        isWeixin = true;
+        if(isIDevice){
+          if (isWeixin) {
+            window.open('http://3g.163.com/ntes/special/0034073A/weixinopen.html?uri=' + ios_url);
+          } else {
+            window.location = ios_url;
+            if(isIDeviceIpad){
+              return;
+            }
+          }
+        }else if(isAndroid) {
+          if (isWeixin) {
+            window.open('http://3g.163.com/ntes/special/0034073A/weixinopen.html?uri=' + android_url);
+          } else {
+            // window.location.href = 'newsapp://startup?s=uc'
+            window.location.href = android_url;
+            return;
+          }
+        }else if(isIEMobile){
+          window.location = wphone_url;
+          return;
+        } else {
+          window.open('http://www.163.com/special/00774IQ6/newsapp_download.html');
+          return;
+        }
+      })
+      document.addEventListener('WeixinJSBridgeReady', function() {
+        // 分享到朋友圈;
+        WeixinJSBridge.on('menu:share:timeline', function(argv) {
+          WeixinJSBridge.invoke('shareTimeline', {
+            "img_url": 'http://static.ws.126.net/utf8/3g/touch/images/new-logo.png',
+            "img_width": "150",
+            "img_height": "150",
+            "link": window.location.href,
+            "desc": '3g.163.com',
+            "title": '全网实时资讯，热点有料直播，快来下载吧！'
+          });
+        });
+        WeixinJSBridge.on('menu:share:appmessage', function(argv) {
+          WeixinJSBridge.invoke('sendAppMessage', {
+            "img_url": 'http://static.ws.126.net/utf8/3g/touch/images/new-logo.png',
+            "link": window.location.href,
+            "desc": '全网实时资讯，热点有料直播，快来下载吧！',
+            "title": '网易新闻'
+          });
+        });
+        WeixinJSBridge.on('menu:share:weibo', function(argv) {
+          WeixinJSBridge.invoke('shareWeibo', {
+            "desc": '全网实时资讯，热点有料直播，快来下载吧！',
+            "url": window.location.href
+          });
+        });
+        WeixinJSBridge.on('menu:share:qq', function(argv) {
+          WeixinJSBridge.invoke('shareQQ', {
+            "img_url": 'http://static.ws.126.net/utf8/3g/touch/images/new-logo.png',
+            "link": window.location.href,
+            "desc": '全网实时资讯，热点有料直播，快来下载吧！',
+            "title": '网易新闻'
+          });
+        });
+        WeixinJSBridge.on('menu:share:QZone', function(argv) {
+          WeixinJSBridge.invoke('shareQZone', {
+            "img_url": 'http://static.ws.126.net/utf8/3g/touch/images/new-logo.png',
+            "link": window.location.href,
+            "desc": '3g.163.com',
+            "title": '全网实时资讯，热点有料直播，快来下载吧！'
+          });
+        });
+      });
+      // 滚动加载图片
+      var imgs = document.querySelectorAll('[data-echo]')
+      var clientHeight = document.documentElement.clientHeight
+      document.addEventListener('scroll', scroll, false)
+      function scroll() {
+        var firstImg = document.querySelector('.placeholder-0')
+        var top = firstImg.getBoundingClientRect().top
+        var loaded = firstImg.dataset.loaded
+        if (top < clientHeight - 100 && !loaded) {
+          imgs.forEach(function(item){
+            var imgsrc = item.dataset.echo
+            item.innerHTML = '<img src="' + imgsrc + '" />'
+            item.removeAttribute('data-echo')
+          })
+          firstImg.dataset.loaded = 1
+        }
+      }
+    </script>
+<script type="text/javascript">
+(function(w, d, s, n) {
+var f = d.getElementsByTagName(s)[0],k = d.createElement(s); k.async = true;
+k.src = '//static.ws.126.net/utf8/3g/analytics/data1/'+n+'.js'; 
+f.parentNode.insertBefore(k, f); 
+})(window, document, 'script','NTM-CQNTS2VV-13');
+</script>
+  
+<script>
+(function() {
+var performance = window.performance;
+    if (!performance) {
+        return;
+    }
+    var send = function() {
+        var t = performance.timing;
+        var pobj = {};
+        var times = {};
+        var loadTime = t.loadEventEnd - t.connectStart;
+        times['redirect'] = t.redirectEnd - t.redirectStart;
+        times['appcache'] = t.domainLookupStart - t.fetchStart;
+        times['lookupDomain'] = t.domainLookupEnd - t.domainLookupStart;
+        times['TCPconnect'] = t.connectEnd - t.connectStart;
+        times['HTTPSconnect'] = t.secureConnectionStart != 0 ? (t.connectEnd - t.secureConnectionStart) : 0;
+        times['HTTPrequest'] = t.responseStart - t.requestStart;
+        times['unload'] = t.unloadEventEnd - t.unloadEventEnd;
+        times['HTTPresponse'] = t.responseEnd - t.responseStart;
+        times['DOMloaded'] = t.domComplete - t.domLoading;
+        times['DOMrender'] = t.domInteractive - t.domLoading;
+        times['domContentLoad'] = t.domContentLoadedEventEnd - t.domContentLoadedEventStart;
+        times['onloadEvent'] = t.loadEventEnd - t.loadEventStart;
+        times['TTFB'] = t.responseStart - t.fetchStart;
+        times['domReady'] = t.domContentLoadedEventEnd - t.navigationStart;
+        times['pageLoaded'] = t.loadEventEnd - t.navigationStart;
+        performance.getEntriesByType("paint").forEach(
+            function(e) {
+                pobj[e.name] = e.startTime
+            }
+        )
+
+        times.firstpaint = pobj['first-paint'];
+        times.firstcontentpaint = pobj['first-contentful-paint']
+
+        if (loadTime <= 0) {
+            setTimeout(function() {
+                send()
+            }, 200);
+            return;
+        };
+        NTESAntAnalysis.sendData({
+            projectid: "NTM-CQNTS2VV-13",
+            val_nm: "c-ntm",
+            val_act: "performance_mobile",
+            info: {
+                timing: times
+            }
+        })
+    };
+    send();
+})() 
+</script></body></html>
