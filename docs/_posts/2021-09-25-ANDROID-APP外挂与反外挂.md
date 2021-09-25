@@ -59,7 +59,90 @@ index 166d6b7..d2692d2 100644
 经过如此改造，`外挂方`又可以获取真实的`界面元素节点`。并进行外挂了。
 
 ## 防
-`APP方`很生气，居然可以这样。且听下回分解。
+`APP方`很生气，居然可以这样。且听下回分解。从`android.os.ServiceManager#sCache`入手，通过反射将修改其值，可以达到**屏蔽**`屏幕元素节点`。
+```java
+public static void disableAccessibility() {
+    if (!accessibilityDisabled) {
+        accessibilityDisabled = true;
+        try {
+            Class cls = Class.forName("android.os.ServiceManager");
+            if (cls != null) {
+                Field declaredField = cls.getDeclaredField("sCache");
+                if (declaredField != null) {
+                    boolean isAccessible = declaredField.isAccessible();
+                    declaredField.setAccessible(true);
+                    Object obj = declaredField.get(null);
+                    if (obj != null && (obj instanceof Map)) {
+                        ((Map) obj).put("accessibility", new IBinder() {
+                            public void dump(FileDescriptor fileDescriptor, String[] strArr) throws RemoteException {
+                            }
 
+                            public void dumpAsync(FileDescriptor fileDescriptor, String[] strArr) throws RemoteException {
+                            }
+
+                            public String getInterfaceDescriptor() throws RemoteException {
+                                return null;
+                            }
+
+                            public boolean isBinderAlive() {
+                                return true;
+                            }
+
+                            public void linkToDeath(DeathRecipient deathRecipient, int i) throws RemoteException {
+                            }
+
+                            public boolean pingBinder() {
+                                return true;
+                            }
+
+                            public IInterface queryLocalInterface(String str) {
+                                return null;
+                            }
+
+                            public boolean transact(int i, Parcel parcel, Parcel parcel2, int i2) throws RemoteException {
+                                return true;
+                            }
+
+                            public boolean unlinkToDeath(DeathRecipient deathRecipient, int i) {
+                                return true;
+                            }
+                        });
+                        declaredField.setAccessible(isAccessible);
+                    }
+                }
+            }
+        } catch (Exception e) {
+        }
+    }
+}
+```
+# 第三回合
+## 攻
+在第二回合，`App方`确实是防住了，又获取不了`屏幕元素节点`了。而`外挂方`又开始了新一轮的攻击。只要屏蔽其对`android.os.ServiceManager#sCache`通过反射进行的修改就可以了。制定出了A/B两个计划。A计划在`android.os.ServiceManager`中进行反制处理；B计划在`Field#setAccessible`进行反制。
+先实现B计划：
+```diff
+project libcore/
+diff --git a/ojluni/src/main/java/java/lang/reflect/Field.java b/ojluni/src/main/java/java/lang/reflect/Field.java
+index a691766..c6fff50 100644
+--- a/ojluni/src/main/java/java/lang/reflect/Field.java
++++ b/ojluni/src/main/java/java/lang/reflect/Field.java
+@@ -641,6 +641,15 @@ class Field extends AccessibleObject implements Member {
+     public native void setBoolean(Object obj, boolean z)
+         throws IllegalArgumentException, IllegalAccessException;
++ 
++    @Override public void setAccessible(boolean flag) throws SecurityException {
++        if (!"java.util.HashMap<java.lang.String, android.os.IBinder>".equals(getGenericType().toString())) {
++            super.setAccessible(flag);
++        }
++    }
++
++
++
+```
+三行代码搞定，想必这次又能将`APP方`气得吐血。
+
+## 防
+这。。。  
+待我归来。
 
 [1]: https://developer.android.com/reference/android/accessibilityservice/AccessibilityService
