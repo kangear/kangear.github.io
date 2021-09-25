@@ -9,7 +9,7 @@ typora-root-url: ../
 
 # 前言
 
-以Android为例，外挂一般是基于Android系统为辅助系统（洋文[AccessibilityService][1]）开发。辅助系统是Android为视力障碍人士提供的API接口，方便一些公司为视力障碍人士开发专门针对手机系统使用的一些服务，比如可以自动阅读微信文字，自动在美团购外卖，或者是在滴滴上打车。然而这个接口却被广泛用于外挂中，比如自动抢微信红包。  
+以Android为例，外挂一般是基于Android系统为辅助系统（洋文[AccessibilityService][1]）开发。辅助系统是Android为视力障碍人士提供的API接口，方便一些公司为视力障碍人士开发专门针对手机系统使用的一些服务，比如可以自动阅读微信文字，自动在美团购外卖，或者是在滴滴上打车。然而这个接口却被广泛用于外挂中，比如自动抢微信红包。抢单类App应用也比较广泛。  
 下面以武侠小说的方式来说明，「外挂方」攻，「App方」防。
 
 # 第一回合
@@ -39,7 +39,7 @@ public static void banAccessNodeInfo(Activity activity) {
 
 # 第二回合
 ## 攻
-经过上个回合，我们得知了`App方`是调用`setAccessibilityDelegate`。那么我们改系统不允许他调用。
+经过上个回合，我们得知了`App方`是调用`setAccessibilityDelegate`来让对象无效的。那么我们改系统不允许他调用。
 ```diff
 diff --git a/core/java/android/view/View.java b/core/java/android/view/View.java
 index 166d6b7..d2692d2 100644
@@ -59,7 +59,7 @@ index 166d6b7..d2692d2 100644
 经过如此改造，`外挂方`又可以获取真实的`界面元素节点`。并进行外挂了。
 
 ## 防
-`APP方`很生气，居然可以这样。且听下回分解。从`android.os.ServiceManager#sCache`入手，通过反射将修改其值，可以达到**屏蔽**`屏幕元素节点`。
+`APP方`很生气，居然可以这样。从`android.os.ServiceManager#sCache`入手，通过反射将修改其值，可以达到**屏蔽**`屏幕元素节点`。
 ```java
 public static void disableAccessibility() {
     if (!accessibilityDisabled) {
