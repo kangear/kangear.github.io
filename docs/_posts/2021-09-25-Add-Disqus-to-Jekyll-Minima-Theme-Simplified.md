@@ -7,6 +7,8 @@ typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
 
+# 一行代码为Github Pages Jekyll添加Disqus评论系统
+
 像添加`Google Analytics`一样，添加`Disqus`仅需要一行代码。如下：
 ```conf
 # Disqus Comments
