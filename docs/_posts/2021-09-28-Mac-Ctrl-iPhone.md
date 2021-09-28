@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在Mac上控制iPhone-远程调试利器"
-date:   2021-09-26 23:07:05 +0800
+date:   2021-09-28 11:38:05 +0800
 categories: jekyll update
 typora-copy-images-to: ../asserts
 typora-root-url: ../
