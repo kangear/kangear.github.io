@@ -26,6 +26,6 @@ Icon=/home/tony/Work/02_sw/android-studio-2020.3.1.24-linux/android-studio/bin/s
 Terminal=false
 Type=Application
 ```
-
+保存后即可在搜索栏搜索到应用，如下图所示：
 
 ![有帮助的截图](/assets/Screenshot from 2021-10-06 22-50-49.png)
