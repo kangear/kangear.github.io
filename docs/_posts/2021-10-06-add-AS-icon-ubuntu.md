@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu 20.04添加Android Studio图标"
-date:   2021-09-28 11:38:05 +0800
+date:   2021-10-06 22:56:05 +0800
 categories: jekyll update
 typora-copy-images-to: ../asserts
 typora-root-url: ../
