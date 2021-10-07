@@ -7,7 +7,7 @@ typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
 
-# How to Build LineageOS 16.04 ROM on Ubuntu 16.04
+# How to Build LineageOS 16.0 ROM on Ubuntu 16.04
 # 在Ubuntu 16.04上编译LineageOS 16.0(9.0)系统
 
 https://wiki.lineageos.org/devices/walleye/build
