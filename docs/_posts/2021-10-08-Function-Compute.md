@@ -137,4 +137,22 @@ The CA process either cannot be started or exited:ContainerStartDuration:2590961
 2020-04-16T11:33:08.264733118Z     at Function.Module._load (internal/modules/cjs/loader.js:585:3)
 ```
 
+# 预留实例计费
+按量计费的: 每小时费用：60*60*0.00011108=0.4 一个月228左右
+包年包月: 80一个月左右
+使用「预留实例」时要注意。
+
+# 错误：ENOSPC: System limit for number of file watchers reached, watch '/tmp/node-watch-472d3e1c60fc8'
+这是由于监听文件大于系统最高限制了，需要执行如下命令把限制放宽一些
+```
+sudo sysctl fs.inotify.max_user_watches=524288
+```
+
+# 长链接ws
+fc是不支持长链接的，比如ws。所以fc对还差很多。
+
+
+# 错误：xxx
+耗时请求前端超时后断开连接导致。前端设置超时时间长一些，fc性能不及ECS，相同请求在fc下就会慢一些。
+
 写于2021年6月
