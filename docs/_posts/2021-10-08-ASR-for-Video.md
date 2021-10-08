@@ -11,4 +11,4 @@ typora-root-url: ../
 
 https://yunmaovideo.com/add-subtitle/
 
-![有帮助的截图](/assets/f05f2e6ad7330b36062ce00e80f125a_1440w.jpg)
+![有帮助的截图](/assets/v2-bf05f2e6ad7330b36062ce00e80f125a_1440w.jpg)
