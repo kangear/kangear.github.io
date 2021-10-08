@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "failed: Connection closed before receiving a handshake response"
+title:  "A problem occurred starting process command ninja"
 date:   2021-10-08 18:20:05 +0800
 categories: jekyll update
 typora-copy-images-to: ../asserts
