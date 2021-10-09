@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu遇上U盘"
-date:   2021-10-08 18:20:05 +0800
+date:   2021-10-09 14:24:05 +0800
 categories: ubuntu
 typora-copy-images-to: ../asserts
 typora-root-url: ../
