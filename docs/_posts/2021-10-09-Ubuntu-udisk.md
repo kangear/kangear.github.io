@@ -21,13 +21,13 @@ typora-root-url: ../
 如果不在乎副作用，
 可以新建文件 `/etc/udisks2/mount_options.conf`
 写入
-```
+```conf
 [defaults]
 defaults=ro,flush
 allow=exec,noexec,nodev,nosuid,atime,noatime,nodiratime,ro,rw,sync,dirsync,noload,flush
 ```
 如果稍微在乎下其他文件系统的副作用，可以只修改 vfat、exfat 和 ntfs，即改为写入
-```
+```conf
 [defaults]
 defaults=ro
 allow=exec,noexec,nodev,nosuid,atime,noatime,nodiratime,ro,rw,sync,dirsync,noload,flush
@@ -36,7 +36,7 @@ exfat_defaults=uid=$UID,gid=$GID,iocharset=utf8,errors=remount-ro,flush
 ntfs_defaults=uid=$UID,gid=$GID,windows_names,flush
 ```
 如果觉得 flush 不够彻底，可以考虑加上 sync，但注意会让速度慢不少
-```
+```conf
 [defaults]
 defaults=ro
 allow=exec,noexec,nodev,nosuid,atime,noatime,nodiratime,ro,rw,sync,dirsync,noload,flush
@@ -47,11 +47,11 @@ ntfs_defaults=uid=$UID,gid=$GID,windows_names,flush,sync
 除了修改 udisks2 配置外，还可以用更高一级的 udev 规则，
 比如新建文件 /etc/udev/rules.d/10-usb-disk.rules
 写入
-```
+```conf
 ACTION=="add", BUS=="usb", ENV{ID_FS_TYPE}=="vfat|exfat|ntfs", ENV{mount_options}="rw,flush,sync"
 ```
 执行重载命令
-```
+```shell
 sudo udevadm control --reload-rules 
 ```
 再插入U盘不会有问题了。
