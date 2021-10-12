@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "App切到后台就断网，Android手机这个BUG如何克服"
+title:  "App切到后台就断网，Android手机这个BUG如何克服？"
 date:   2021-10-12 15:20:05 +0800
 categories: android
 typora-copy-images-to: ../asserts
