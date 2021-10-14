@@ -6,6 +6,8 @@ categories: android
 typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
+
+个人的`Google Play`长时间闲置，导致今天收到了`死刑判决书`。
 ```
 [最后一次通知]xxx：您的 Google Play 开发者帐号已被关闭
 
@@ -25,3 +27,5 @@ Google Play 团队敬上
 
 截图
 ![有帮助的截图](/assets/Selection_279.png)
+
+劝大家不要闲置`Google Play`上传App来保持活跃。
