@@ -7,7 +7,7 @@ typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
 
-个人的`Google Play`长时间闲置，导致今天收到了账号的`死刑判决书`。
+个人的`Google Play`长时间闲置，导致今天收到了账号的`终审死刑判决书`。
 ```
 [最后一次通知]xxx：您的 Google Play 开发者帐号已被关闭
 
