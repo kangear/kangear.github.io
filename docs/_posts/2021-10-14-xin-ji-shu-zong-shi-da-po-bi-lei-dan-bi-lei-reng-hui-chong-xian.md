@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新技术总是打破传统壁垒，但壁垒仍会偶然重现"
+title:  "被新技术打破传统壁垒，仍会偶尔出现"
 date:   2021-10-14 14:50:05 +0800
 categories: think
 typora-copy-images-to: ../asserts
