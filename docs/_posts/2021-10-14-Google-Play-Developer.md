@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Play开发者账号闲置会被注销，25美元注册费不退"
 date:   2021-10-14 15:37:05 +0800
-categories: think
+categories: android
 typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
