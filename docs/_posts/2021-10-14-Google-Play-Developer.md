@@ -28,4 +28,4 @@ Google Play 团队敬上
 截图
 ![有帮助的截图](/assets/Selection_279.png)
 
-劝大家不要闲置`Google Play`上传App来保持活跃。
+劝大家不要闲置`Google Play`，上传App来保持活跃，以免损失25美元注册费用。
