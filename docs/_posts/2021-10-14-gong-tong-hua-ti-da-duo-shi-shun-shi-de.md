@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "共同话语大多是瞬时"
+title:  "共同话语大多是瞬时的"
 date:   2021-10-14 11:13:05 +0800
 categories: think
 typora-copy-images-to: ../asserts
