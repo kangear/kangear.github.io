@@ -25,7 +25,7 @@ You must let us know whether your app is a COVID-19 contact tracing or status ap
 | *Stackoverflow答案* |
 
 
-来自：https://stackoverflow.com/a/69268210/2193455
+来自：[You must let us know whether your app is a COVID-19 contact tracing or status app on App on Play Store](https://stackoverflow.com/a/69268210/2193455)
 
 修改之后就可以提交了。
 
