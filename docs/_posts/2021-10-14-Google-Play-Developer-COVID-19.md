@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "您必须声明您的应用是否为COVID-19接触者追踪应用或感染状况应用"
-date:   2021-10-14 15:37:05 +0800
+date:   2021-10-14 18:57:05 +0800
 categories: android
 typora-copy-images-to: ../asserts
 typora-root-url: ../
