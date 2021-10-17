@@ -21,7 +21,7 @@ Pixel 2: walleye
 
 目前遇到的问题有：
 1. 代码能下载完，但是缺少`vendor`目录，这也是奇怪
-2. 没有了`breakfast`命令，也可以还没有支持，暂时使用aosp的命令在编译
+2. 没有了`breakfast`命令，也可以还没有支持，暂时使用aosp的命令在编译（https://source.android.com/setup/build/building）
 我已经在群里问了，有更新的话，我会更新到此文章上。
 
 
