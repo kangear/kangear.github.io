@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在Ubuntu 16.04上编译Android 12(LineageOS 19.0)"
-date:   2021-10-17 23:15:05 +0800
+date:   2021-10-17 23:35:05 +0800
 categories: android
 typora-copy-images-to: ../asserts
 typora-root-url: ../
