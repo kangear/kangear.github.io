@@ -18,8 +18,8 @@ typora-root-url: ../
 比如分享的文件链接：https://drive.weixin.qq.com/s/sdfsdfsf
 调试版本小程序可以，但是无法添加到【业务域名】，直接在小程序内打开行不通。不过，经过测试可以在[客服]聊天窗口打开链接，所以可以设置关键字回复的方式。
 
-| ![有帮助的截图](/assets/Selection_087.png) | 
-|:--:| 
+| ![有帮助的截图](/assets/Selection_087.jpg) |
+|:--:|
 | *添加业务域名失败截图* |
 
 
