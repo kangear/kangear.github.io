@@ -31,6 +31,10 @@ google_analytics: UA-208608166-1
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
 #    shortname: kangear
 
+#google:
+#  ad-client: "ca-pub-5984522345984184"
+#  ad-slot: "9439014959"
+
 # 类别
 jekyll-archives:
   enabled: all
@@ -53,6 +57,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
