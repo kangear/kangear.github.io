@@ -35,6 +35,14 @@ google_analytics: UA-208608166-1
 #  ad-client: "ca-pub-5984522345984184"
 #  ad-slot: "9439014959"
 
+# 搜索
+webmaster_verifications:
+  google: I515YPtISI31CKCXQ-I3amwWFSS8KyQcvhA8oZtT6Ps
+  # bing: 1234
+  # alexa: 1234
+  # yandex: 1234
+  # baidu: 1234
+
 # 类别
 jekyll-archives:
   enabled: all
