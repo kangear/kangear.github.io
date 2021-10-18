@@ -11,7 +11,7 @@ typora-root-url: ../
 
 
 # 方案A
-```
+```html
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,13 +28,13 @@ typora-root-url: ../
 from: [Make your Jekyll Github Pages appear on Google search result (2 steps)][1]
 
 # 方案B
-```
+```conf
 google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 ```
 from: [jekyll github repo code][2]
 
 # 方案C
-```
+```conf
 webmaster_verifications:
   google: 1234
   bing: 1234
