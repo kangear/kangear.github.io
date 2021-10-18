@@ -7,7 +7,7 @@ typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
 
-网上查到的方案好几种，其实大部分都过时了。我用的是`方案C`，简单又明了。他们都无一例外的没有讲那一串`乱码`从哪里来。那个是从`Google Search console`而来。每个网站不一样，要去获取自己的`Settings->Ownership verification`。拿到`google-site-verification`之后可以根据以下方案来填写。
+网上查到的方案好几种，其实大部分都过时了。我用的是`方案C`，简单又明了。他们都无一例外的没有讲那一串`乱码`从哪里来。那个是从`Google Search Console`而来。每个网站不一样，要去获取自己的`Settings->Ownership verification`。拿到`google-site-verification`之后可以根据以下方案来填写。
 
 
 # 方案A
