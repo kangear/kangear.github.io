@@ -25,7 +25,7 @@ Android启动顺序是 固化代码 -> 引导程序(Bootloader) -> 内核(kernel
 
 为了加深理解我们来对比一下邻居，Windows、MacOS和iOS。
 
-固化代码，我们在Windows、MacOS和iOS上很少听到。因为Windows上相对单一都是Intel芯片，你的电脑我的电脑都是Intel没有不同，就没有人讨论；MacOS和iOS上因为相对比较封闭，也就没有讨论。
+固化代码，我们在Windows、MacOS和iOS上很少听到。因为Windows上相对单一都是Intel芯片，你的电脑我的电脑都是Intel没有不同，就没有人讨论；MacOS和iOS上因为相对比较封闭，也就没有讨论。为什么Android里要讲固化代码呢？因为会有所不同，比如高通芯片都有一个`9008模式`，这个就是`固化代码`来实现的。
 
 引导程序，Windows上可以理解为常常说的BIOS。
 
