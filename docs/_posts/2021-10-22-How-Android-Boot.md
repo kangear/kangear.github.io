@@ -43,5 +43,5 @@ Android启动顺序是 固化代码 -> 引导程序(Bootloader) -> 内核(kernel
 |            | 固化代码      | 固化代码 |         |
 
 
-去[Youtube](youtu.be/dNvlNFnTmjk)上看讲解。
+去[Youtube](https://youtu.be/dNvlNFnTmjk)上看讲解。
 
