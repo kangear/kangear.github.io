@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "服务器宕机20分钟，BUG定位实录"
-date:   2021-10-24 18:42:05 +0800
-categories: blog
+date:   2021-10-24 22:30:05 +0800
+categories: server
 typora-copy-images-to: ../asserts
 typora-root-url: ../
 ---
@@ -22,4 +22,4 @@ typora-root-url: ../
 长期方案  
 1. 重启服务器要保证微服务完全重启
 2. 充分利用阿里云的`云监控（CloudMonitor）`功能，加入了多个人接收邮件，并把单独设置了`运维`邮箱可以绑定到服务器老大的手机上；
-
+3. 充分利用第三方工具，比如`https://downdetector.com/`
