@@ -26,3 +26,5 @@ typora-root-url: ../
 
 谁有这方面经验，可以告知。
 
+[油管](https://www.youtube.com/watch?v=Ep6RlEgFyhA)查看视频版。
+
