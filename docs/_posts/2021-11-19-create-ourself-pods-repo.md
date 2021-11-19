@@ -79,4 +79,8 @@ https://github.com/kangear/SwiftChart/releases/tag/1.0.2
 |:--:|
 | *SwiftChart指定仓库commit* |
 
-那么答案就有了，也不需要创建私有仓库，只需要指定一下`commit`即可。
+那么答案就有了，也不需要创建私有仓库，只需要指定一下`commit`即可，如下：
+
+| ![有帮助的截图](/assets/Podfile_swiftchart.png) |
+|:--:|
+| *SwiftChart完美配置* |
