@@ -32,14 +32,14 @@ platform :ios
 ```
 
 build.gradle子
-```podfile
+```gradle
 implementation 'org.greenrobot:eventbus:3.2.0'
 ```
 
 由于Pod仓库管理的是C代码，应该会更加方便创建。
 
 # Swift5.8版本报错
-```
+```Podfile
 pod 'SwiftChart', '~> 1.0.1'
 ```
 
@@ -61,7 +61,7 @@ https://github.com/kangear/SwiftChart/releases/tag/1.0.2
 ```
 
 又在网上查到如何指定仓库地址，然后就指定了，最后的修改如下：
-```
+```Podfile
    pod 'SwiftChart', :git => 'https://github.com/kangear/SwiftChart.git', :tag => '1.0.2'
 ```
 
@@ -71,7 +71,7 @@ https://github.com/kangear/SwiftChart/releases/tag/1.0.2
 
 
 经过测试OK。又突发奇想，只指定tag，那么能指定`commit`吗？如果可以的话，我还可以指定到原仓库地址，如下：
-```
+```Podfile
    pod 'SwiftChart', :git => 'https://github.com/gpbl/SwiftChart.git', :commit => '4949a94'
 ```
 
