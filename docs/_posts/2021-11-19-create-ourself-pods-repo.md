@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "自建Pod仓库-解决SwiftChart不兼容最新版Swift问题"
+title:  "iOS第一课：解决SwiftChart不兼容最新版Swift问题"
 date:   2021-11-19 14:43:05 +0800
 categories: iOS
 typora-copy-images-to: ../asserts
