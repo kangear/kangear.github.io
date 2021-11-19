@@ -60,7 +60,7 @@ pod 'SwiftChart', '~> 1.0.1'
 https://github.com/kangear/SwiftChart/releases/tag/1.0.2
 ```
 
-又在网上查到如何指定仓库地址，然后就指定了，最后的修改如下：
+又在网上查到如何指定仓库地址([CocoaPods中Podfile语法][1])，然后就指定了，最后的修改如下：
 ```Podfile
    pod 'SwiftChart', :git => 'https://github.com/kangear/SwiftChart.git', :tag => '1.0.2'
 ```
@@ -84,3 +84,6 @@ https://github.com/kangear/SwiftChart/releases/tag/1.0.2
 | ![有帮助的截图](/assets/Podfile_swiftchart.png) |
 |:--:|
 | *SwiftChart完美配置* |
+
+
+[1]: https://www.jianshu.com/p/900db3060f0f
