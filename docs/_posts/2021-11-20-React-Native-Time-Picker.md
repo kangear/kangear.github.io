@@ -7,7 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-一定正常使用是RN的Android工程，clone到另外一台电脑上，`yarn`下载依赖就编译不过去了，报如下错误：
+一个正常使用是RN的Android工程，clone到另外一台电脑上，`yarn`下载依赖就编译不过去了，报如下错误：
 
 ```
 node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/pickers/AndroidNative.java:57: 错误: 不兼容的类型: int无法转换为String
