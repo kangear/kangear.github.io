@@ -25,7 +25,7 @@ Package.json中的配置如下：
 |          *版本历史*          |
 
 
-根据经验推测是开发者推了最新版，但是兼容不好，需要强制为当前版本，根据package.json的使用说明如下：
+根据经验推测是开发者推了最新版，但是兼容不好，需要强制为当前版本，根据[这里][1]的package.json的使用说明如下：
 | ![有帮助的截图](/assets/WX20211120-160350.png) |
 |:--:|
 | Package.json说明 |
@@ -47,3 +47,6 @@ index 4141cb3..c005c87 100644
    "devDependencies": {
      "@babel/core": "^7.8.4"
 ```
+
+
+[1]: https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json
