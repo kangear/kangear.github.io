@@ -25,14 +25,9 @@ typora-root-url: ../
 | :----------------------------------------: |
 |          *电话号码组成树状图*          |
 
-```youtube-embed
-{
-   "width": "560",
-   "height": "315",
-   "src": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-   "title": "YouTube video player",
-   "frameborder": "0",
-   "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-   "allowfullscreen": true
-}
-```
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
