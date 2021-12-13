@@ -108,3 +108,9 @@ cat `find . -name '*.java' -print` > 1.txt
 | ![有帮助的截图](/assets/软著样例.jpg) |
 | :----------------------------------------: |
 |          *软著样例*          |
+
+
+
+<iframe width="100%" height="100vh" src="https://www.youtube.com/embed/RII0GdItQ-I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="100vh" src="https://www.youtube.com/embed/Gpil08MHzx8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
