@@ -28,3 +28,6 @@ Hello,大家好，今天分享一下：非代码能力。
 | ![有帮助的截图](/assets/rn_slow.png) |
 | :----------------------------------------: |
 |          *架构和流程图*          |
+
+
+<iframe width="100%" height="100vh" src="https://www.youtube.com/embed/ha32vwpmNG0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
