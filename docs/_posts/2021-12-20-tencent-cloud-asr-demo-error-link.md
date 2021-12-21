@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "腾讯语音识别应用实例之使用云函数接入录音文件识别"
+title:  "腾讯语音识别应用实例-使用云函数接入录音文件识别"
 date:   2021-12-20 21:53:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
