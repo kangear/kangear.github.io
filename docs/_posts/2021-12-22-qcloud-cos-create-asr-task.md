@@ -29,7 +29,7 @@ typora-root-url: ../
 
 地址：https://github.com/tencentyun/cos-wx-sdk-v5
 
-可以很简单的实现上传文件到COS中，所谓简单重点是不用户作很复杂的`签名`工作。如下：
+可以很简单的实现上传文件到COS中，所谓简单是指SDK和Demo比较丰富，不用户作很复杂的`签名`工作就可以跑起来。如下：
 
 ```js
 // 存储桶名称，由bucketname-appid 组成，appid必须填入，可以在COS控制台查看存储桶名称。 https://console.cloud.tencent.com/cos5/bucket
