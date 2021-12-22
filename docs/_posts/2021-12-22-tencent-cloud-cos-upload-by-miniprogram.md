@@ -48,16 +48,25 @@ typora-root-url: ../
 
 在demo源码中添加如下参数即可跑通
 
-| 参数 | 所属 | 描述 |
-| :-----| :---- | :---- |
-| Bucket | COS | 对象存储的Bucket参数，比如test-123456789 |
-| Region | COS | 对象存储的Region参数，比如ap-shanghai|
-| SecretId | CAM | API密钥管理中的SecretId |
-| SecretKey | CAM | API密钥管理的SecretKey |
+| 参数 | 所属 | 位置 | 描述 |
+| :-----| :---- | :---- | :---- |
+| Bucket | COS | miniprogram/pages/index/index.js | 对象存储的Bucket参数，比如test-123456789 |
+| Region | COS | miniprogram/pages/index/index.js | 对象存储的Region参数，比如ap-shanghai|
+| Bucket | COS | cloudfunctions/sts/index.js | 对象存储的Bucket参数，比如test-123456789 |
+| Region | COS | cloudfunctions/sts/index.js | 对象存储的Region参数，比如ap-shanghai|
+| SecretId | CAM | cloudfunctions/sts/index.js | API密钥管理中的SecretId |
+| SecretKey | CAM | cloudfunctions/sts/index.js | API密钥管理的SecretKey |
+
+官网提醒其他配置别忘记配置，小程序后台要添加 域名白名单。
 
 ## 直接开用
 
 在小程序中选择文件就可以直接上传成功，在对象存储控制台就可以看到上传后的文件。
+
+| ![有帮助的截图](/assets/WX20211222-151042.png) | ![有帮助的截图](/assets/WX20211222-151231.png) | ![有帮助的截图](/assets/WX20211222-150855.png) |
+| :----------------: | :----------------------------------------: |:----------------------------------------: |
+|          *第一步*          |         *第二步*          |         *第三步*          |
+
 
 ## 不需要考虑的东西
 
