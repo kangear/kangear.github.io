@@ -21,6 +21,22 @@ typora-root-url: ../
 | :----------------------------------------: |
 |          *控制台创建任务*          |
 
+对应的接口
+
+```shell
+curl 'https://image.cloud.tencent.com/voice_job/create?_language=zh&_format=json&_uin=100022907677&_ownerUin=100022907677&mc_gtk=84298440&_=1640078071827' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'Origin: https://console.cloud.tencent.com' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+```
 
 # 问题
 这个`COS语音识别功用`算是跨界，一边在`COS`，一边是`数据万象`。代码实现创建任务的话有以下问题，比如COS的SDK比较丰富，但是不包含`创建语音识别任务`这个功能；而`数据万象`的文档又只是简单描述，处于两不管的状态，让人觉得很无奈。
