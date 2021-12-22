@@ -46,18 +46,22 @@ typora-root-url: ../
 在demo源码中添加如下参数即可跑通
 
 | 参数 | 所属 | 描述 |
-| :-----:| :----: | :----: |
+| :-----| :---- | :---- |
 | Bucket | COS | 对象存储的Bucket参数，比如test-123456789 |
 | Region | COS | 对象存储的Region参数，比如ap-shanghai|
 | SecretId | CAM | API密钥管理中的SecretId |
 | SecretKey | CAM | API密钥管理的SecretKey |
+
+## 直接开用
+
+在小程序中选择文件就可以直接上传成功，在对象存储控制台就可以看到上传后的文件。
 
 ## 不需要考虑的东西
 
 采用此方案，文中的很多名词都不需要理会。
 
 | 参数 | 描述 |
-| :-----:| :----: |
+| :-----| :---- |
 | tmpSecretId | 。。。 |
 | tmpSecretKey | 。。。|
 | sessionToken | 。。。 |
