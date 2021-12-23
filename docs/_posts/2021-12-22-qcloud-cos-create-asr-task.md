@@ -113,5 +113,61 @@ wx.chooseImage({
 # 结论
 在COS的SDK上加上创建语音识别任务的功能，或者把万象数据下的创建语音识别任务的demo搞得全面一点，让快速上手。
 
+# 腾讯云的反馈
+给了我一个基于COS SDK的万象调用接口的代码片段，经过测试比较好用。要远比万象文档上讲的简洁呢。
+
+## 1. Demo
+```js
+// config里的信息 自己替换下 QueueId在CI控制台可查
+function CreateSpeechJobs() {
+    var config = {
+        Bucket: '',
+        Region: '',
+        InputKey: 'test.mp3',
+        OutputKey: 'speech.txt',
+        QueueId: 'p72918c3e41d54ebf9d5bf4ce4c9fd711',
+    };
+    var host = config.Bucket + '.ci.' + config.Region + '.myqcloud.com';
+    var url = 'https://' + host + '/asr_jobs';
+    cos.request({
+        Bucket: config.Bucket,
+        Region: config.Region,
+        Method: 'POST',
+        Key: 'asr_jobs',
+        Url: url,
+        Body: {
+            Tag: 'SpeechRecognition',
+            Input: {
+                Object: config.InputKey,
+            },
+            Operation: {
+                SpeechRecognition: {
+                    EngineModelType: '16k_zh',
+                    ChannelNum: '1',
+                    ResTextFormat: '1',
+                },
+                Output: {
+                    Bucket: config.Bucket,
+                    Region: config.Region,
+                    Object: config.OutputKey,
+                },
+            },
+            QueueId: config.QueueId,
+        },
+    },
+    function(err, data) {
+        console.log(err || data);
+    });
+}
+```
+
+## 2. 关于sts权限配置
+
+resource是这样的：`'qcs::ci:' + config.region + ':uid/' + AppId + ':bucket/' + LongBucketName + '/' + config.allowPrefix`
+`allowActions`可以设置成`['name/ci:CreateAsrJobs']`，这个就是最小粒度的授权
+
+配置了这个才会不报`401`错误。
+
+此问题暂告一段落。
 
 [1]: https://cloud.tencent.com/document/product/460/46228
