@@ -10,6 +10,7 @@ typora-root-url: ../
 iPhone注重隐私但是又平衡了便利性，没有给出禁止APP读取`剪贴板`的功能。APP现在也可以关闭自动读取，以下是我整理的功能。
 
 # 关闭APP剪贴板主动读取
+
 | Logo | APP | 用途 | 方法 |
 | :----: | :----: | :---- | :---- |
 | <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/c9/bc/b9c9bc20-2a09-59d8-30ee-96ae56b3f33b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp" alt="drawing" width="50"/> | 微信 | 无 |无需 |
