@@ -29,6 +29,8 @@ typora-root-url: ../
 | webm | .webm | video/webm | ? |  无 |  https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-webm-file.webm
 
 
+另外`rtmp\rtsp\hls`是格式但是并非视频格式。
+
 参考：
 1. https://sample-videos.com/
 2. https://zh.wikipedia.org/wiki/视频文件格式
