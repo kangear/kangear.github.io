@@ -8,6 +8,7 @@ typora-root-url: ../
 ---
 
 # 视频格式mine以及测试链接对照表
+
 | 格式 | 后缀名 | MIME | 大类 | 小程序 | 链接 |
 | :---- | ----: | :----: | :---- | :---- | :---- |
 | FLV | .flv | video/x-flv | Flash Video |  无 | https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-flv-file.flv |
