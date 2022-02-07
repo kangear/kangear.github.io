@@ -7,6 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
+
 `云函数`(AWS称为lambda)无论是阿里还是腾讯家的，基本依赖是最为令人头痛。而官方教程不出意外总是那么的晦涩难懂。一口气能列出多种新概念。还是自己总结的方法好用。以Python环境为例子：
 
 麻烦在于使用了一个`itunes-iap`模块， 需要按照 AWS 官方文档创建个部署包。
