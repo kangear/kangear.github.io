@@ -7,7 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-准备在aws上写一个lambda + api gateway。实现的功能比较简单就是根据APP ID获取其对应的图标。这样在使用Markdown写文章时就可以直接引用。为什么不使用静态文件呢？因为我还需要做CDN加速，而且图标会进行微调。不如直接引用，API就调用iTunes的以下为例子。但是`API GATEWAY`还不会使用，所以先把项目计划书写到这里，后续再完善。
+准备在aws上写一个lambda + api gateway。实现的功能比较简单就是根据APP ID获取其对应的图标。这样在使用Markdown写文章时就可以直接引用。为什么不使用静态文件呢？因为我还需要做CDN加速，而且图标会进行微调。不如直接引用，API就调用iTunes的以下为例子。但是`API GATEWAY`还不会使用，所以先把项目计划书写到这里，后续再完善。其中`artworkUrl60`就是微信的图标。
 
 # 微信请求例子
 ```shell
