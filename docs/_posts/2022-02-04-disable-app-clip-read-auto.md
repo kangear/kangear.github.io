@@ -23,5 +23,5 @@ iPhone注重隐私但是又平衡了便利性，没有给出禁止APP读取`剪�
 | <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/e1/ef/4ae1ef91-3926-20a8-41ce-18c19c124ff9/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/230x0w.webp" alt="drawing" width="50"/> | 小火箭 | 方便配置 | Setting-Allow Detect Clipboard |
 | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/64/70/a5647030-c13d-c279-ea29-1a9028fa1b8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="drawing" width="50"/> | **交通银行** | 未知 | 暂无他法 |
 | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/da/dc/01/dadc0192-6435-39bd-5b11-9cc2505e6a7d/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="drawing" width="50"/> | **手机营业厅**(中国联通) | 未知 | 暂无他法 |
-| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/da/dc/01/dadc0192-6435-39bd-5b11-9cc2505e6a7d/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="drawing" width="50"/> | 百度 | 未知 | 暂无他法 |
+| <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/db/88/d9/db88d955-02ad-a989-aef0-15c2eb412021/source/60x60bb.jpg" alt="drawing" width="50"/> | 百度 | 未知 | 暂无他法 |
 | 。。。| xxx | 未知 | 暂无他法 |
