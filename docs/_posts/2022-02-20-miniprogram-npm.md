@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "小程序使用npm依赖"
+title:  "小程序使用npm安装依赖"
 date:   2022-02-20 22:55:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
