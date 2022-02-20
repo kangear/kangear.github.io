@@ -15,8 +15,13 @@ typora-root-url: ../
 
 实现`lambda function`的文件叫`lambda_function.py`，而且此文件得存在于`<code_dir>`文件夹的根
 ```
-pip install itunes-iap -t <code_dir>
-cd <code_dir>; zip -r ../r01.zip *
+cd <code_dir>
+# 生成requirements.txt
+pip install pipreqs && pipreqs .
+# 安装依赖到本目录
+pip install --target . -r requirements.txt
+# 压缩
+zip -r ../r01.zip * -x "venv/*"
 ```
 然后把打包生成的 r01.zip 通过 Lambda Console 上传发布即可。
 
