@@ -7,6 +7,10 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
+https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html
+
+以上是原文，但是描述的不够通俗，按照我自己的理解写了一遍。
+
 # npm安装第一个包
 在`app.json`所在目录（比如miniprogram）下执行
 ```
