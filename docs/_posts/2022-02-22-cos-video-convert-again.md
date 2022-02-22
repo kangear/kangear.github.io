@@ -19,6 +19,7 @@ serverless ⚡components
 - 执行 "cd transcode-app && serverless deploy" 部署应用
 
 transcode-app › 创建成功
+% 
 ```
 
 # 创建API
