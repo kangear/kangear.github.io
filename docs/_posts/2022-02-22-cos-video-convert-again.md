@@ -54,22 +54,22 @@ transcode-video: Cannot read property 'Namespace' of null
 ```
 
 # 部署成功
+按照如下修改
 ```diff
-diff --git a/transcode/src/index.py b/transcode/src/index.py
-index 994ae19..f5ec85f 100644
---- a/transcode/src/index.py
-+++ b/transcode/src/index.py
-@@ -10,8 +10,8 @@ import traceback
- import subprocess
- import threading
-
--from qcloud_cos_v5 import CosConfig
--from qcloud_cos_v5 import CosS3Client
-+# from qcloud_cos_v5 import CosConfig
-+# from qcloud_cos_v5 import CosS3Client
-
- # 控制log输出级别
- logger = logging.getLogger()
+diff --git a/transcode/serverless.yml b/transcode/serverless.yml
+index 75793ee..834661c 100644
+--- a/transcode/serverless.yml
++++ b/transcode/serverless.yml
+@@ -13,13 +13,13 @@ inputs:
+   timeout: 43200 # 函数执行超时时间, 单位秒, 即本demo目前最大支持12h运行时长
+   region: ${env:REGION} # 函数区域，统一在环境变量中定义
+   asyncRunEnable: true # 开启长时运行
+-  cls: # 函数日志
+-    logsetId: ${output:${stage}:${app}:cls-video.logsetId}  # cls日志集 cls-video为cls组件的实例名称
+-    topicId: ${output:${stage}:${app}:cls-video.topicId}  # cls日志主题
++  # cls: # 函数日志
++  #   logsetId: ${output:${stage}:${app}:cls-video.logsetId}  # cls日志集 cls-video为cls组件的实例名称
++  #   topicId: ${output:${stage}:${app}:cls-video.topicId}  # cls日志主
 ```
 
 ```console
@@ -122,7 +122,12 @@ triggers:
 邀请您填写调查问卷: https://www.surveymonkey.com/r/slcusage
 **************************************************
 
-yuanbaokang@mac transcode-app %
+%
 ```
+总结，其实就是A依赖B，B依赖A的问题。部署成功之后再放开释放就可以了。Linux启动时也会有这种依赖问题，他们是使用systemd，可以看看大师的文章《[LINUX PID 1 和 SYSTEMD][1]》。如果云函数的部署能简单到`真一键`，cos代创建，sls代创建，AppKey代创建会让初学都更快上手，初学者未来就大学者。
 
 # 试用
+试用无任何反应，技术支持给的反馈是内部问题`配置下发延迟，开发同学在看`。继续等一下结果吧。
+
+
+[1]: https://coolshell.cn/articles/17998.html
