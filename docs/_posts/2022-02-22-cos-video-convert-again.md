@@ -25,6 +25,10 @@ transcode-app › 创建成功
 # 创建API
 https://console.cloud.tencent.com/cam/capi
 
+| ![有帮助的截图](/assets/WX20220201-112153.png) |
+| :----------------------------------------: |
+|          *原问题*          |
+
 # 创建角色transcodeRole
 
 | ![有帮助的截图](/assets/WX20220222-093809.png) |
