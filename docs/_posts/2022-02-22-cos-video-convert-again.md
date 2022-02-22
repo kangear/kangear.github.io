@@ -10,7 +10,7 @@ typora-root-url: ../
 官方教程：https://cloud.tencent.com/document/product/583/51451
 
 # 安装transcode-app
-```shell-session
+```console
 % sls init transcode-app
 
 serverless ⚡components
@@ -29,7 +29,7 @@ https://console.cloud.tencent.com/cam/capi
 
 # 报错
 报错`Cannot read property 'Namespace' of null`
-```shell-session
+```console
 % sls deploy
 
 serverless ⚡components
@@ -72,7 +72,7 @@ index 994ae19..f5ec85f 100644
  logger = logging.getLogger()
 ```
 
-```shell-session
+```console
 % sls deploy
 
 serverless ⚡components
