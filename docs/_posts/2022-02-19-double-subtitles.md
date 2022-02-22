@@ -26,6 +26,12 @@ https://www.assemblyai.com/blog/how-to-add-subtitles-to-your-mux-videos-with-pyt
 | :----------------------------------------: |
 |          *原问题*          |
 
+把`subtitles.srt`下载到`/tmp/`目录下，然后执行这个命令
+
+```
+ffmpeg -i mymovie.mp4 -vf subtitles=subtitles.srt mysubtitledmovie.mp4
+```
+
 
 参考：
 1. https://transfy.cloud.tencent.com/
