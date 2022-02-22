@@ -19,13 +19,18 @@ serverless ⚡components
 - 执行 "cd transcode-app && serverless deploy" 部署应用
 
 transcode-app › 创建成功
-% 
+%
 ```
 
 # 创建API
 https://console.cloud.tencent.com/cam/capi
 
 # 创建角色transcodeRole
+
+| ![有帮助的截图](/assets/WX20220222-093809.png) |
+| :----------------------------------------: |
+|          *原问题*          |
+
 来自：https://cloud.tencent.com/document/product/583/51451#role
 
 # 报错
