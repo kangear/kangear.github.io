@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "微信小程序PC版上传文件提示MicroBlogger_Preparing"
+title:  "微信小程序PC版wx.chooseVideo提示MicroBlogger_Preparing"
 date:   2022-02-22 22:55:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
