@@ -90,5 +90,8 @@ END RequestId:d022792c-e00a-4d57-8de9-c4f9940304c2
 Report RequestId:d022792c-e00a-4d57-8de9-c4f9940304c2 Duration:2607ms Memory:3072MB MemUsage:29.789383MB
 ```
 
+结论：还是ffmpeg报错，mp4转mp4会报错。
+
+
 
 [1]: /cloud/2022/02/22/cos-video-convert-again.html
