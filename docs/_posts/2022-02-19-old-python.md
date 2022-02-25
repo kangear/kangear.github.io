@@ -10,3 +10,4 @@ typora-root-url: ../
 | 旧 | 新 | MIME | 大类 | 小程序 | 链接 |
 | :---- | ----: | :----: | :---- | :---- | :---- |
 | md5 | hashlib | 无 | 无 |  无 | 无 |
+| urllib | urllib.request | 无 | 无 |  无 | 无 |
