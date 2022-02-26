@@ -32,7 +32,7 @@ typora-root-url: ../
 |          导入成功效果         |
 
 ### 导入失败处理方法
-如果处理以下导入失败的提示，将v1版转换为v2版重新再导。
+如果处理以下导入失败的提示，将v1版转换为v2版重新再导。[converting-postman-collections-from-v1-to-v2][6]
 ```
 1 invalid import format(s)
 Postman Collection Format v1 is no longer supported and can not be imported directly. You may
@@ -179,3 +179,4 @@ An error occurred (AccessDeniedException) when calling the CreateJob operation: 
 [3]: https://docs.aws.amazon.com/mediaconvert/latest/ug/postman-collection-files.html#postman-collection-POST
 [4]: https://us-west-2.console.aws.amazon.com/mediaconvert/home?region=us-west-2#/jobs/list
 [5]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/python.html
+[6]: https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#converting-postman-collections-from-v1-to-v2
