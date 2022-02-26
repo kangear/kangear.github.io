@@ -26,8 +26,8 @@ typora-root-url: ../
 # 关于endpoints
 
 | OK | 来源 | 报错 | 结论  | 链接 |
-| :---- | ----: | :----: | :----  | :---- |
-| NO | [docs推荐1][2] | Unable to determine service/operation name to be authorized |  无 | https://mediaconvert.us-west-2.amazonaws.com/2017-08-29/endpoints |
+| :---- | :---- | :---- | :----  | :---- |
+| NO | [docs推荐1][2] | Unable to determine service/operation name to be authorized | 不成功别用 | https://mediaconvert.us-west-2.amazonaws.com/2017-08-29/endpoints |
 | NO | 添加PATH | SSL validation failed for EOF occurred in violation of protocol| PATH错了 | https://mlboolfjb.mediaconvert.us-west-2.amazonaws.com/2017-08-29/jobs |
 | OK | 去掉PATH | 'HTTPStatusCode': 201 |  使用工具获取的，正确 | https://mlboolfjb.mediaconvert.us-west-2.amazonaws.com |
 | NO | [docs推荐2][1] | SSL validation failed for | 看错，并非ID  | https://238417667751.mediaconvert.us-west-2.amazonaws.com |
