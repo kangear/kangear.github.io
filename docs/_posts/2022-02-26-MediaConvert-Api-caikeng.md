@@ -76,7 +76,7 @@ convert your collection to Format v2
 
 # 官方例子
 [AWS Elemental MediaConvert CreateJob Example Using the SDK for Python][5]
-```
+```python
 import json
 import boto3
 
@@ -93,7 +93,7 @@ mediaconvert_client.create_job(**job_object)
 ```
 
 # 实际成功的例子
-```
+```python
 import json
 import boto3
 
@@ -148,7 +148,7 @@ Error: Client network socket disconnected before secure TLS connection was estab
 解决方案是网址由`https://238417667751.mediaconvert.us-west-2.amazonaws.com/2017-08-29/jobs`改为`https://mlboolfjb.mediaconvert.us-west-2.amazonaws.com/2017-08-29/jobs`。
 
 ## Postman遇到
-```
+```json
 {
     "errorType": "BadRequestException",
     "httpStatus": 400,
