@@ -9,15 +9,15 @@ typora-root-url: ../
 
 在界面上操作终于成功，给一个MP4文件添加了Burn in的字幕。下面试用API进行一次操作，结果摸索一天不能成功。以下是操作完成的正确步骤
 
-# 先使用Postman
+# 1.先使用Postman
 从[MediaConvert create resources collection][3]找到Postman专用集合，导入到Postman APP中。
 
 | ![有帮助的截图](/assets/WX20220226-175140.png) |
 | :----------------------------------------: |
 |          Postman测试集合         |
 
-# 导入Postman
-`File` -> `Import...`将内容贴入。
+# 2.导入Postman
+`File` -> `Import...`，选择`Raw text`将内容贴入。
 
 | ![有帮助的截图](/assets/WX20220226-175743.png) |
 | :----------------------------------------: |
