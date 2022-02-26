@@ -95,3 +95,4 @@ An error occurred (AccessDeniedException) when calling the CreateJob operation: 
 
 [1]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/python.html
 [2]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/getting-started.html
+[3]: https://docs.aws.amazon.com/mediaconvert/latest/ug/postman-collection-files.html#postman-collection-POST
