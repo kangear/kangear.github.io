@@ -173,6 +173,11 @@ Error: getaddrinfo ENOTFOUND 238417667751.mediaconvert.us-west-2.amazonaws.com
 An error occurred (AccessDeniedException) when calling the CreateJob operation: Unable to determine service/operation name to be authorized
 ```
 
+合成中文字幕时出错：(srt被破坏后会出现这个错误)
+```
+Failed to initialize pipeline [Caption file [s3://fpoon/42cefd6c-d36f-49dd-8ef1-88caf93dab25.srt] does not appear to be the correct type.]. (IS)
+```
+
 
 [1]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/python.html
 [2]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/getting-started.html
