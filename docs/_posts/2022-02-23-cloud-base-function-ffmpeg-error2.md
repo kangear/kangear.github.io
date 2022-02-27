@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "云函数中的transcode-video偶发失败"
+title:  "云函数transcode-video转非avi格式出错"
 date:   2022-02-23 00:55:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-试用《[腾讯云部署流式转码应用][1]》的`transcode-video`，非常不稳定，里面正常时而不正常。
+试用《[腾讯云部署流式转码应用][1]》的`transcode-video`(mp4转avi)，非常不稳定，里面正常时而不正常。
 
 以下是日志，但是没有明显失败的原因。
 ```
@@ -90,8 +90,6 @@ END RequestId:d022792c-e00a-4d57-8de9-c4f9940304c2
 Report RequestId:d022792c-e00a-4d57-8de9-c4f9940304c2 Duration:2607ms Memory:3072MB MemUsage:29.789383MB
 ```
 
-结论：还是ffmpeg报错，mp4转mp4会报错。
-
-
+结论：输出格式设置为flv/mp4格式等都会报错，这是什么原因呢？
 
 [1]: /cloud/2022/02/22/cos-video-convert-again.html
