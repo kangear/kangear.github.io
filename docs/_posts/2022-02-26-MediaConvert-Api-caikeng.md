@@ -178,6 +178,18 @@ An error occurred (AccessDeniedException) when calling the CreateJob operation: 
 Failed to initialize pipeline [Caption file [s3://fpoon/42cefd6c-d36f-49dd-8ef1-88caf93dab25.srt] does not appear to be the correct type.]. (IS)
 ```
 
+```
+Failure reason
+The input media file length is too small. Minimum audio duration is 0.500000 milliseconds. Check the length of the file and try your request again.
+```
+上传文件后要time.sleep(1)
+
+```
+Failure reason
+Your audio file must have a speech segment long enough in duration to perform automatic language identification. Provide an audio file with someone speaking for a longer period of time and try your request again.
+```
+视频中语音比较少
+
 
 [1]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/python.html
 [2]: https://docs.aws.amazon.com/mediaconvert/latest/apireference/getting-started.html
