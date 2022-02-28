@@ -14,7 +14,7 @@ typora-root-url: ../
 具体步骤是：
 
 实现`lambda function`的文件叫`lambda_function.py`，而且此文件得存在于`<code_dir>`文件夹的根
-```
+```shell
 cd <code_dir>
 # 生成requirements.txt
 pip install pipreqs && pipreqs .
