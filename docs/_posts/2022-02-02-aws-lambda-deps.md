@@ -10,6 +10,8 @@ typora-root-url: ../
 
 `云函数`(AWS称为lambda)无论是阿里还是腾讯家的，基本依赖是最为令人头痛。而官方教程不出意外总是那么的晦涩难懂。一口气能列出多种新概念。还是自己总结的方法好用。以Python环境为例子：
 
+
+# 一阶
 麻烦在于使用了一个`itunes-iap`模块， 需要按照 AWS 官方文档创建个部署包。
 具体步骤是：
 
@@ -28,3 +30,48 @@ zip -r ../r01.zip * -x "venv/*"
 来自：https://www.jianshu.com/p/e78d9b4aa796
 
 让`API Gateway`有多远就滚多远，使用`AWS-SDK`可以直接`invoke`云函数。或者有一天，我了解了前者，就不会让它滚。但是现在就是月多远就滚多远！
+
+# 二阶
+当我用上`google cloud`相关依赖，问题不断出来，类似如下的：
+```
+AWS lamba No module named 'google.protobuf'
+Unable to import module 'lambda_function': cannot import name 'cygrpc' from 'grpc._cython'
+```
+
+原因`google protobuf`和`protobuf`有点近亲，让人混淆，前者被装到`lib64`目录下了，导致怎么打包都不行，都会报错找不到。`cygrpc`是必须打包环境和`lambda`环境完全一致`AMZN2+Python3.8`，复杂的函数不能使用3.7和3.9，因为前者环境不好找，后者EC2上不好装，装也是第三方，会有不兼容的情况。其实按照二阶段方法，还更好用了，至少代码目录没有那么乱了。依赖合成子目录，其实可以写一个`PyCharm`插件来实现打包和上传。
+
+以下是完整步骤：
+# AMZN2+Python3.8
+使用Google Cloud的sdk一定要在以下环境上打包，否则会出现各种奇怪的依赖问题。因为有些深的库，兼容性会差一些。
+```shell
+sudo amazon-linux-extras install python3.8
+```
+
+# venv
+```shell
+pip3 install virtualenv && virtualenv -p python3.8 venv
+source venv/bin/activate
+```
+
+# 安装依赖
+```shell
+pip install -r requirements.txt --upgrade
+```
+
+# test
+```shell
+python lambda_function.py
+```
+
+# 一键zip
+```shell
+cd venv/lib/python*/site-packages && zip -r ../../../../my-deployment-package.zip . && cd -
+cd venv/lib64/python*/site-packages && zip -gr ../../../../my-deployment-package.zip * && cd -
+zip -g my-deployment-package.zip *.py *.json
+
+# 传到本地
+sz my-deployment-package.zip
+
+# 上传
+aws lambda update-function-code --function-name MyLambdaFunction --zip-file fileb://my-deployment-package.zip
+```
