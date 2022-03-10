@@ -11,3 +11,4 @@ typora-root-url: ../
 | :---- | ----: | :----: | :---- | :---- | :---- |
 | md5 | hashlib | 无 | 无 |  无 | 无 |
 | urllib | urllib.request | 无 | 无 |  无 | 无 |
+| google-cloud | google.xxxx | 无 | 无 |  无 | 无 |
