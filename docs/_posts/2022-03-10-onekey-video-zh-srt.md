@@ -17,7 +17,7 @@ typora-root-url: ../
 | :---- | :---- | :---- | :---- |
 | √相册/聊天 | √阿里云 | √谷歌云 | √Amazon MediaConvert  |
 | √Twitter | √谷歌云 | - |  ffmpeg |
-| YouTube       | xAmazon Transcrible | - | - |
+| YouTube       | Amazon Transcrible | - | - |
 | Facebook      | 百度云 | -| - |
 | Instagram     | IBM云 | - |  - |
 | TikTok        | Azure | - |  - |
