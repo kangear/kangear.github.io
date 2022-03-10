@@ -9,7 +9,7 @@ typora-root-url: ../
 
 一键中文字幕，架构图如下
 
-| ![有帮助的截图](/assets/onkey_srt_jiagou.jpg) |
+| ![有帮助的截图](/assets/onekey_srt_jiagou.jpg) |
 | :----------------------------------------: |
 |          *软件架构图*          |
 
