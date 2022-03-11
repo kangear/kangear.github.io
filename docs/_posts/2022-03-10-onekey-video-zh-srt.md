@@ -34,16 +34,20 @@ typora-root-url: ../
 
 | 视频源 | 语音识别 | 翻译 | 合成字幕 |
 | :---- | :---- | :---- | :---- |
-| √相册/聊天 | √阿里云 | √谷歌云 | √Amazon MediaConvert  |
-| √Twitter | √谷歌云 | - |  √內嵌字幕 |
+| √相册/聊天     | √阿里云 | √谷歌云 | √Amazon MediaConvert  |
+| √Twitter      | √谷歌云 | - |  √內嵌字幕 |
 | YouTube       | Amazon Transcrible | - | CC字幕 |
 | Facebook      | 百度云 | -| ffmpeg |
 | Instagram     | IBM云 | - |  - |
 | TikTok        | Azure | - |  - |
 | 相册不压缩      | 讯飞 | - |  - |
-| 网页       | 腾讯云 | - |  - |
-| APP  | DeepSpeech | - |  - |
+| 网页           | 腾讯云 | - |  - |
+| APP           | DeepSpeech | - |  - |
 | -             | 原字幕OCR | - |  - |
 | -             | [GCP Video Intelligence][1] | - |  - |
+| -             | [video-subtitle-extractor][2] | - |  - |
+| -             | [colab][3] | - |  - |
 
 [1]: https://cloud.google.com/video-intelligence/docs/feature-text-detection
+[2]: https://github.com/YaoFANGUK/video-subtitle-extractor
+[3]: https://colab.research.google.com/
