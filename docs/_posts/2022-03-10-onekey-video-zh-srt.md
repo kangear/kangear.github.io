@@ -35,9 +35,9 @@ typora-root-url: ../
 | 视频源 | 语音识别 | 翻译 | 合成字幕 |
 | :---- | :---- | :---- | :---- |
 | √相册/聊天 | √阿里云 | √谷歌云 | √Amazon MediaConvert  |
-| √Twitter | √谷歌云 | - |  ffmpeg |
-| YouTube       | Amazon Transcrible | - | - |
-| Facebook      | 百度云 | -| - |
+| √Twitter | √谷歌云 | - |  √內嵌字幕 |
+| YouTube       | Amazon Transcrible | - | CC字幕 |
+| Facebook      | 百度云 | -| ffmpeg |
 | Instagram     | IBM云 | - |  - |
 | TikTok        | Azure | - |  - |
 | 相册不压缩      | 讯飞 | - |  - |
