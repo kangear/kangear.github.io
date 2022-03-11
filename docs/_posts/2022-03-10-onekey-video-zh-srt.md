@@ -44,3 +44,6 @@ typora-root-url: ../
 | 网页       | 腾讯云 | - |  - |
 | APP  | DeepSpeech | - |  - |
 | -             | 原字幕OCR | - |  - |
+| -             | [GCP Video Intelligence][1] | - |  - |
+
+[1]: https://cloud.google.com/video-intelligence/docs/feature-text-detection
