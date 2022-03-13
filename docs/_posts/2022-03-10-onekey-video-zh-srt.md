@@ -34,15 +34,17 @@ typora-root-url: ../
 
 | 视频源 | 语音识别 | 翻译 | 合成字幕 |
 | :---- | :---- | :---- | :---- |
-| √相册/聊天     | √阿里云 | √谷歌云 | √Amazon MediaConvert  |
-| √Twitter      | √谷歌云 | - |  √內嵌字幕 |
-| YouTube       | Amazon Transcrible | - | CC字幕 |
-| Facebook      | 百度云 | -| ffmpeg |
+| √相册/聊天     | √阿里云              | √谷歌翻译          | √Amazon MediaConvert  |
+| √Twitter      | √谷歌云              | [阿里翻译][5]      |  √內嵌字幕 |
+| YouTube       | Amazon Transcrible  | [阿里图片翻译][6]   | CC字幕 |
+| Facebook      | 百度云               |            -     | ffmpeg |
 | Instagram     | IBM云 | - |  - |
 | TikTok        | Azure | - |  - |
 | 相册不压缩      | 讯飞 | - |  - |
 | 网页           | 腾讯云 | - |  - |
 | APP           | DeepSpeech | - |  - |
+| -             | 有道云 | - |  - |
+| -             | [Azure语音翻译][4] | - |  - |
 | -             | 原字幕OCR | - |  - |
 | -             | [GCP Video Intelligence][1] | - |  - |
 | -             | [video-subtitle-extractor][2] | - |  - |
@@ -51,3 +53,6 @@ typora-root-url: ../
 [1]: https://cloud.google.com/video-intelligence/docs/feature-text-detection
 [2]: https://github.com/YaoFANGUK/video-subtitle-extractor
 [3]: https://colab.research.google.com/
+[4]: https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-translation/
+[5]: https://www.aliyun.com/product/ai/domain_alimt?spm=5176.22414175.J_8058803260.32.6e2e412e7jD7mq
+[6]: https://www.aliyun.com/product/ai/alimt/certifictetranslation?spm=5176.22414175.J_8058803260.33.6e2e412e7jD7mq
