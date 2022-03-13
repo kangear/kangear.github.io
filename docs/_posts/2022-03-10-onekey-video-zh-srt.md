@@ -34,8 +34,8 @@ typora-root-url: ../
 
 | 视频源 | 语音识别 | 翻译 | 合成字幕 |
 | :---- | :---- | :---- | :---- |
-| √相册/聊天     | √阿里云              | √谷歌翻译          | √Amazon MediaConvert  |
-| √Twitter      | √谷歌云              | [阿里翻译][5]      |  √內嵌字幕 |
+| √相册/聊天     | √[]阿里云][8]        | √[谷歌翻译][9]     | √Amazon MediaConvert  |
+| √Twitter      | √[谷歌云][7]         | [阿里翻译][5]      |  √內嵌字幕 |
 | YouTube       | Amazon Transcrible  | [阿里图片翻译][6]   | CC字幕 |
 | Facebook      | 百度云               |            -     | ffmpeg |
 | Instagram     | IBM云 | - |  - |
@@ -56,3 +56,6 @@ typora-root-url: ../
 [4]: https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-translation/
 [5]: https://www.aliyun.com/product/ai/domain_alimt?spm=5176.22414175.J_8058803260.32.6e2e412e7jD7mq
 [6]: https://www.aliyun.com/product/ai/alimt/certifictetranslation?spm=5176.22414175.J_8058803260.33.6e2e412e7jD7mq
+[7]: https://cloud.google.com/speech-to-text
+[8]: https://ai.aliyun.com/nls
+[9]: https://cloud.google.com/translate
