@@ -25,8 +25,15 @@ YouTube少量在自动识别字幕，但是不支持翻译。Twitter更不支持
 | [讯飞][1]([实时语音转写][2]) | 采样率为16K，采样深度为16bit的pcm_s16le音频  | -   | - |
 | [Chrome(Live Caption)][5] | Chrome自带功能，本为听力障碍者使用Twitter/Youtube测试均可           |            -     | - |
 
-# Live Caption效果图
+# Chrome Live Caption（重点）
 
+## 打开方法
+
+| ![有帮助的截图](/assets/WX20220317-233315.png) |
+| :----------------------------------------: |
+|          打开方法        |
+
+## 效果
 | ![有帮助的截图](/assets/WX20220317-230616.png) |
 | :----------------------------------------: |
 |          Chrome Live Caption效果1        |
@@ -40,13 +47,13 @@ YouTube少量在自动识别字幕，但是不支持翻译。Twitter更不支持
 |          Chrome Live Caption效果 直播        |
 
 # 结论
-如果只看英文字幕，可以使用`Chrome Live Caption`功能，非常好用。就像和`Siri`对话练习英文一样，看似扯蛋，其实比较实用。如果需要实时中文字幕，则需要我再进一步调研和开发。
+如果只看英文字幕（英文阅读能力强，听力弱的），可以使用`Chrome Live Caption`功能，非常好用。就像和`Siri`对话练习英文一样，看似扯蛋，其实比较实用。如果需要实时中文字幕，则需要我再进一步调研和开发。
 
 未整理资料
 
-https://aws.amazon.com/cn/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/
-https://github.com/luvletter2333/Live-SubTitle
-https://support.google.com/youtube/answer/3068031?hl=zh-Hans
+https://aws.amazon.com/cn/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/  
+https://github.com/luvletter2333/Live-SubTitle  
+https://support.google.com/youtube/answer/3068031?hl=zh-Hans  
 
 
 [1]: https://www.xfyun.cn/services/rtasr
