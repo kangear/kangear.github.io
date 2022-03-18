@@ -12,6 +12,7 @@ typora-root-url: ../
 # Chrome自带字幕功能Live Caption（重点）
 
 ## 效果
+
 | ![有帮助的截图](/assets/WX20220317-230616.png) |
 | :----------------------------------------: |
 |          Chrome Live Caption效果1        |
