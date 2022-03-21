@@ -107,6 +107,7 @@ cp pget_0.1.1_Linux_x86_64/pget pget1/bin/
 cd pget1
 zip -r ../pget1.zip .
 ```
+不好用，复杂一点的网址就报错。
 
 ## axel
 不成功
