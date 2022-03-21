@@ -109,19 +109,7 @@ zip -r ../pget1.zip .
 ```
 
 ## axel
-```
-wget https://github.com/axel-download-accelerator/axel/releases/download/v2.17.11/axel-2.17.11.tar.gz
-tar xvf axel-2.17.11.tar.gz
-```
-
-```
-mkdir -p axel/bin
-cd axel-2.17.11
-
-cp axel-2.17.11/axel axel/bin/
-cd pget1
-zip -r ../axel.zip .
-```
+不成功
 
 ## aria2
 ```
