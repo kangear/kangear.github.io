@@ -21,6 +21,9 @@ typora-root-url: ../
 | [微软机翻][1] | 每月200万字 | -  | - |
 | [讯飞机翻][10] | 200万字符(终身) | 2250元/25000万字符  | -(字符长度上限是5000字符)  |
 | [华为机翻][11] | 每月100万字符 | 50元/百万字符  | -  |
+| [IBM机翻][13] | 每月100万字符 | $0.02/THOUSAND CHAR  | -  |
+| [京东机翻][12] | 免费试用500次 | 24元/百万字符  | -  |
+| [Amazon机翻][12] | 每月200万字(首年) | $15/百万字符  | -  |
 | [阿里文档翻译][1] | - | -  | - |
 | [DeepL Free][5] | 每月50万字 |            -     | - |
 | [微信翻译][6] | 提供英汉互翻，每次最大600Byte | -     | - |
@@ -55,3 +58,5 @@ typora-root-url: ../
 [9]: https://ai.youdao.com/product-fanyi-text.s
 [10]: https://www.xfyun.cn/services/xftrans?target=price
 [11]: https://www.huaweicloud.com/pricing.html?tab=detail#/nlp
+[12]: https://neuhub.jd.com/market/api/471
+[13]: https://cloud.ibm.com/catalog/services/language-translator
