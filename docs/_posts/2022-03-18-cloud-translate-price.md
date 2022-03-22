@@ -19,7 +19,8 @@ typora-root-url: ../
 | [有道机翻][9] | 每月5百万字符 | 48元/百万字符  | 5(字符长度上限是2000字符) |
 | [阿里机翻][1] | 每月100万字 | 50元/百万字符  | 50(字符长度上限是5000字符) |
 | [微软机翻][1] | 每月200万字 | -  | - |
-| [讯飞机翻][1] | 200万字符(终身) | 2250元/25000万字符  | -(字符长度上限是5000字符)  |
+| [讯飞机翻][10] | 200万字符(终身) | 2250元/25000万字符  | -(字符长度上限是5000字符)  |
+| [华为机翻][11] | 每月100万字符 | 50元/百万字符  | -  |
 | [阿里文档翻译][1] | - | -  | - |
 | [DeepL Free][5] | 每月50万字 |            -     | - |
 | [微信翻译][6] | 提供英汉互翻，每次最大600Byte | -     | - |
@@ -52,3 +53,5 @@ typora-root-url: ../
 [7]: https://cloud.baidu.com/doc/MT/s/ykqq95r2y
 [8]: https://cloud.tencent.com/document/product/551/35017
 [9]: https://ai.youdao.com/product-fanyi-text.s
+[10]: https://www.xfyun.cn/services/xftrans?target=price
+[11]: https://www.huaweicloud.com/pricing.html?tab=detail#/nlp
