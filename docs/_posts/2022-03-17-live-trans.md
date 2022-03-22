@@ -51,6 +51,49 @@ typora-root-url: ../
 | [讯飞][1]([实时语音转写][2]) | 采样率为16K，采样深度为16bit的pcm_s16le音频  | -   | - |
 | [Chrome(Live Caption)][5] | Chrome自带功能，本为听力障碍者使用Twitter/Youtube测试均可           |            -     | - |
 
+# 推特Live
+https://twitter.com/i/broadcasts/1MnxnkaVLyOKO
+
+https://twitter.com/i/events/1504148547049963526
+
+| ![有帮助的截图](/assets/WX20220322-230338.png) |
+| :----------------------------------------: |
+|          -        |
+
+又叫`events`又叫`broadcasts`还没有搞清楚实现逻辑，但是能看到支持CC，应该是Twitter自己实现的。
+
+```json
+{"broadcasts":{"1MnxnkaVLyOKO":{"id":"1MnxnkaVLyOKO","broadcast_id":"1MnxnkaVLyOKO","media_key":"28_1506239529874706436","media_id":"1506239529874706436","created_at_ms":"1647950463137","updated_at_ms":"1647962052452","language":"en","image_url":"https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/live_thumbnail/us-east-1/eyJkIjowfQ/5nGWql69wDF2KNG5Qo5bNSSbPJsLdLLBB-VswKnzatm069gn2GIMJtjICrb2F6v3xgCZPfONLQrzRcLuOwxYTg/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMU1ueG5rYVZMeU9LTyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE2NDc5NjIwNjEsIkdyYW50ZWRUbyI6InR3LTIyOTQ5NDg3NyIsIlN0cmVhbU5hbWUiOiI1bkdXcWw2OXdERjJLTkc1UW81Yk5TU2JQSnNMZExMQkItVnN3S256YXRtMDY5Z24yR0lNSnRqSUNyYjJGNnYzeGdDWlBmT05MUXJ6UmNMdU93eFlUZyIsImV4cCI6MTY0ODEzNDg2MX0.2U2s97fBpLZusxxae0Gwx7PI78YiVv1vw9UL1F6GfE8&service=proxsee&digest=05c5x4JJJwi6hlvl5V7N-wqcf3nJhfAtkvDIdVVH30o&ts=823981030","image_url_small":"https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/live_thumbnail/us-east-1/eyJkIjoxMjh9/5nGWql69wDF2KNG5Qo5bNSSbPJsLdLLBB-VswKnzatm069gn2GIMJtjICrb2F6v3xgCZPfONLQrzRcLuOwxYTg/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMU1ueG5rYVZMeU9LTyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE2NDc5NjIwNjEsIkdyYW50ZWRUbyI6InR3LTIyOTQ5NDg3NyIsIlN0cmVhbU5hbWUiOiI1bkdXcWw2OXdERjJLTkc1UW81Yk5TU2JQSnNMZExMQkItVnN3S256YXRtMDY5Z24yR0lNSnRqSUNyYjJGNnYzeGdDWlBmT05MUXJ6UmNMdU93eFlUZyIsImV4cCI6MTY0ODEzNDg2MX0.2U2s97fBpLZusxxae0Gwx7PI78YiVv1vw9UL1F6GfE8&service=proxsee&digest=05c5x4JJJwi6hlvl5V7N-wqcf3nJhfAtkvDIdVVH30o&ts=823981030","image_url_medium":"https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/live_thumbnail/us-east-1/eyJkIjozNjB9/5nGWql69wDF2KNG5Qo5bNSSbPJsLdLLBB-VswKnzatm069gn2GIMJtjICrb2F6v3xgCZPfONLQrzRcLuOwxYTg/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMU1ueG5rYVZMeU9LTyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE2NDc5NjIwNjEsIkdyYW50ZWRUbyI6InR3LTIyOTQ5NDg3NyIsIlN0cmVhbU5hbWUiOiI1bkdXcWw2OXdERjJLTkc1UW81Yk5TU2JQSnNMZExMQkItVnN3S256YXRtMDY5Z24yR0lNSnRqSUNyYjJGNnYzeGdDWlBmT05MUXJ6UmNMdU93eFlUZyIsImV4cCI6MTY0ODEzNDg2MX0.2U2s97fBpLZusxxae0Gwx7PI78YiVv1vw9UL1F6GfE8&service=proxsee&digest=05c5x4JJJwi6hlvl5V7N-wqcf3nJhfAtkvDIdVVH30o&ts=823981030","status":"Confirmation hearing for Supreme Court nominee Judge Ketanji Brown Jackson (Day 2)","broadcast_source":"livecms","available_for_replay":true,"user_id":"1060690","twitter_user_id":"15675138","user_display_name":"C-SPAN","username":"cspan","twitter_username":"cspan","profile_image_url":"https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_reasonably_small.png","state":"RUNNING","is_locked":false,"friend_chat":false,"has_moderation":true,"height":540,"width":960,"camera_rotation":0,"has_location":false,"lat":0.0,"lng":0.0,"total_watching":"11873","total_watched":"176851","start_ms":"1647953541642","ping_ms":"1647962052452","private_chat":false,"is_high_latency":true,"version":1167}},"events":{}}
+```
+
+关键词`chunk`、`m3u8`、`ts`。
+
+```
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA-SEQUENCE:5834
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-START:TIME-OFFSET=0.01
+#EXT-X-PROGRAM-DATE-TIME:2022-03-22T15:15:33.254Z
+#EXTINF:2.000,
+chunk_1647962129264366544_5834_a.ts?type=live
+#EXT-X-PROGRAM-DATE-TIME:2022-03-22T15:15:35.261Z
+#EXTINF:2.000,
+```
+
+使用`M3U8 finder and HLS player`插件可以找到真实播放链接，并且可以直接播放。
+```
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5nGWql69wDF2KNG5Qo5bNSSbPJsLdLLBB-VswKnzatm069gn2GIMJtjICrb2F6v3xgCZPfONLQrzRcLuOwxYTg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+```
+
+| ![有帮助的截图](/assets/WX20220322-233151.png) |
+| :----------------------------------------: |
+|          -        |
+
+那么接下来的思路就是，怎么实现m3u8的语音识别。
+
 
 未整理资料
 
