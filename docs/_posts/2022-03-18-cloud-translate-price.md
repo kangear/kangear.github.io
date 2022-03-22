@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "云厂商翻译大比拼"
+title:  "20家机器翻译大比拼"
 date:   2022-03-18 21:51:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
