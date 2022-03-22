@@ -15,6 +15,7 @@ typora-root-url: ../
 | [谷歌][1] | 每月50万字 | $20/百万字符  | - |
 | [百度翻译API][1] | 每月200万字 | 49元/百万字符  | 10 |
 | [百度机器翻译][7] | 500万字符(终身) | 49元/百万字符 或 1000万/450  | 100 |
+| [腾讯机翻][8] | 每月5百万字符 | 58元/百万字符  | 5(字符长度上限是2000字符) |
 | [阿里机翻][1] | 每月100万字 | 50元/百万字符  | 50(字符长度上限是5000字符) |
 | [阿里文档翻译][1] | - | -  | - |
 | [DeepL Free][5] | 每月50万字 |            -     | - |
@@ -39,37 +40,6 @@ typora-root-url: ../
 | :---- | :---- | :---- | :---- |
 | [百度][4] | 技术服务费8万/年+8元/语种/台 |-|-|
 
-
-```js
-
-    let content = `
-1
-00:05:00,400 --> 00:05:15,300
-This is an example of
-a subtitle.
-
-2
-00:05:16,400 --> 00:05:25,300
-This is an example of
-a subtitle - 2nd subtitle.`;
-
-    plugin.translate({
-      lfrom:"en_US",
-      lto:"zh_CN",
-      content: content,
-      success: function(res) {
-        if(res.retcode == 0) {
-          console.log("result", res.result)
-        } else {
-          console.warn("翻译失败", res)
-        }
-      },
-      fail: function(res) {
-        console.log("网络失败",res)
-      }
-    })
-```
-
 [1]: https://api.fanyi.baidu.com/product/113
 [2]: https://api.fanyi.baidu.com/product/21
 [3]: https://tongchuan.baidu.com/
@@ -77,3 +47,4 @@ a subtitle - 2nd subtitle.`;
 [5]: https://www.deepl.com/en/docs-api/
 [6]: https://developers.weixin.qq.com/doc/offiaccount/Intelligent_Interface/AI_Open_API.html
 [7]: https://cloud.baidu.com/doc/MT/s/ykqq95r2y
+[8]: https://cloud.tencent.com/document/product/551/35017
