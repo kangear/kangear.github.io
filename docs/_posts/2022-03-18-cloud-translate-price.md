@@ -16,7 +16,7 @@ typora-root-url: ../
 | [百度翻译API][1] | 每月200万字 | 49元/百万字符  | 10 |
 | [百度机器翻译][7] | 500万字符(终身) | 49元/百万字符 或 1000万/450  | 100 |
 | [腾讯机翻][8] | 每月5百万字符 | 58元/百万字符  | 5(字符长度上限是2000字符) |
-| [有道机翻][8] | 每月5百万字符 | 48元/百万字符  | 5(字符长度上限是2000字符) |
+| [有道机翻][9] | 每月5百万字符 | 48元/百万字符  | 5(字符长度上限是2000字符) |
 | [阿里机翻][1] | 每月100万字 | 50元/百万字符  | 50(字符长度上限是5000字符) |
 | [阿里文档翻译][1] | - | -  | - |
 | [DeepL Free][5] | 每月50万字 |            -     | - |
@@ -49,3 +49,4 @@ typora-root-url: ../
 [6]: https://developers.weixin.qq.com/doc/offiaccount/Intelligent_Interface/AI_Open_API.html
 [7]: https://cloud.baidu.com/doc/MT/s/ykqq95r2y
 [8]: https://cloud.tencent.com/document/product/551/35017
+[9]: https://ai.youdao.com/product-fanyi-text.s
