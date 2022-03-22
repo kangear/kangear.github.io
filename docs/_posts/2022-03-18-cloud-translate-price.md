@@ -13,7 +13,8 @@ typora-root-url: ../
 | 厂家 | 免费额度 | 超出部分 | QPS（每秒访问量） |
 | :---- | :---- | :---- | :---- |
 | [谷歌][1] | 每月50万字 | $20/百万字符  | - |
-| [百度][1] | 每月200万字 | 49元/百万字符  | 10 |
+| [百度翻译API][1] | 每月200万字 | 49元/百万字符  | 10 |
+| [百度机器翻译][7] | 500万字符(终身) | 49元/百万字符 或 1000万/450  | 100 |
 | [阿里机翻][1] | 每月100万字 | 50元/百万字符  | 50(字符长度上限是5000字符) |
 | [阿里文档翻译][1] | - | -  | - |
 | [DeepL Free][5] | 每月50万字 |            -     | - |
@@ -75,3 +76,4 @@ a subtitle - 2nd subtitle.`;
 [4]: http://api.fanyi.baidu.com/product/31
 [5]: https://www.deepl.com/en/docs-api/
 [6]: https://developers.weixin.qq.com/doc/offiaccount/Intelligent_Interface/AI_Open_API.html
+[7]: https://cloud.baidu.com/doc/MT/s/ykqq95r2y
