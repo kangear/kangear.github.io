@@ -133,3 +133,12 @@ os.system(cmd)
 其中
 1. ` --check-certificate=false`不验证书
 2. `-d /`如果没有这个会报错，因为lambda fs是只读的
+
+## youtube_dl
+```
+mkdir -p youtube-dl/bin
+cd youtube-dl/bin
+wget https://youtube-dl.org/downloads/latest/youtube-dl youtube-dl/bin/
+cd ../
+zip -r ../youtube-dl.zip .
+```
