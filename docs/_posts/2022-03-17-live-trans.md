@@ -50,6 +50,7 @@ typora-root-url: ../
 | [百度云][3]                | 目前只支持pcm格式的原始音频数据， 16000采样率， 单声道，16bits，小端序 | -      |  - |
 | [讯飞][1]([实时语音转写][2]) | 采样率为16K，采样深度为16bit的pcm_s16le音频  | -   | - |
 | [Chrome(Live Caption)][5] | Chrome自带功能，本为听力障碍者使用Twitter/Youtube测试均可           |            -     | - |
+| [安卓自带Live Transcribe][6] | Chrome自带功能，本为听力障碍者使用Twitter/Youtube测试均可           |            -     | - |
 
 # 推特Live
 https://twitter.com/i/broadcasts/1MnxnkaVLyOKO
@@ -92,7 +93,21 @@ https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5nGWql69wDF2KNG5Qo5bN
 | :----------------------------------------: |
 |          -        |
 
-那么接下来的思路就是，怎么实现m3u8的语音识别。
+那么接下来的思路就是，怎么实现m3u8的语音识别。像带字幕的这种应该是使用的是`webvtt`应该也能截取并翻译。ffmpeg也支持推直播了。
+
+```shell
+ffmpeg -i video.mp4 -i subtitle.srt \
+-preset slow -g 60 -sc_threshold 0 \
+-map 0 -map 0 -map 0 -map 1 \
+-s:v:0 640x360 -c:v:0 h264 -b:v:0 500k \
+-s:v:1 854x480 -c:v:1 h264 -b:v:1 1000k \
+-s:v:2 1280x720 -c:v:2 h264 -b:v:2 2000K \
+-c:a copy -c:s webvtt \
+-f hls -hls_playlist_type vod -var_stream_map "v:0,a:0 v:1,a:1 v:2,a:2" \
+-master_pl_name master.m3u8 -hls_time 6 -hls_list_size 0 -hls_allow_cache 1 -start_number 1 \
+-hls_segment_filename "output/hls/%v/seg-%d.ts" output/hls/%v/index.m3u8
+```
+来自：https://stackoverflow.com/questions/67663932/how-to-add-a-subtitle-to-an-hls-playlist-using-ffmpeg
 
 
 未整理资料
@@ -107,3 +122,4 @@ https://support.google.com/youtube/answer/3068031?hl=zh-Hans
 [3]: https://cloud.baidu.com/product/speech/realtime_asr
 [4]: https://help.aliyun.com/document_detail/84428.html
 [5]: https://support.google.com/chrome/answer/10538231?hl=en
+[6]: https://www.android.com/accessibility/live-transcribe/

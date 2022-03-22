@@ -40,6 +40,7 @@ typora-root-url: ../
 | 厂家 | 免费额度 | 超出部分 | QPS（每秒访问量） |
 | :---- | :---- | :---- | :---- |
 | [百度AI同传][3] | 虚拟声卡来hook声音并进行同传，收费有点吓人|-|-|
+| [有道实时语音翻译][9] | 996元/100小时 | -  | 5(字符长度上限是2000字符) |
 
 # 离线翻译
 
@@ -60,3 +61,4 @@ typora-root-url: ../
 [11]: https://www.huaweicloud.com/pricing.html?tab=detail#/nlp
 [12]: https://neuhub.jd.com/market/api/471
 [13]: https://cloud.ibm.com/catalog/services/language-translator
+[14]: https://ai.youdao.com/streamingAudio.s
