@@ -46,6 +46,7 @@ typora-root-url: ../
 
 | 视频源 | 支持格式 | - | - |
 | :---- | :---- | :---- | :---- |
+| [谷歌云][7]                | 目前只支持pcm格式的原始音频数据， 16000采样率， 单声道，16bits，小端序 | -      |  - |
 | [阿里云][4]                | PCM（无压缩的PCM或WAV文件）、16 bit采样位数、单声道（mono）        | -     | -  |
 | [百度云][3]                | 目前只支持pcm格式的原始音频数据， 16000采样率， 单声道，16bits，小端序 | -      |  - |
 | [讯飞][1]([实时语音转写][2]) | 采样率为16K，采样深度为16bit的pcm_s16le音频  | -   | - |
@@ -110,6 +111,14 @@ ffmpeg -i video.mp4 -i subtitle.srt \
 来自：https://stackoverflow.com/questions/67663932/how-to-add-a-subtitle-to-an-hls-playlist-using-ffmpeg
 
 
+# 理清的思路
+
+1. 对M3U8/HLS视频流进行实时语音识别并翻译
+2. 对WEBVTT格式字幕进行翻译
+
+后者不好抓取，先使用前者，前者比较通用。
+
+
 未整理资料
 
 https://aws.amazon.com/cn/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/  
@@ -123,3 +132,4 @@ https://support.google.com/youtube/answer/3068031?hl=zh-Hans
 [4]: https://help.aliyun.com/document_detail/84428.html
 [5]: https://support.google.com/chrome/answer/10538231?hl=en
 [6]: https://www.android.com/accessibility/live-transcribe/
+[7]: https://cloud.google.com/speech-to-text/docs/endless-streaming-tutorial
