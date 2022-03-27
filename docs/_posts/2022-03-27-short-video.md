@@ -9,13 +9,14 @@ typora-root-url: ../
 
 # 短视频平台
 
-| APP | 特推小程序 | 域名 | 例子 |
+| APP | 特推视频下载_小程序 | 域名 | 例子 |
 | :---- | :---- | :---- | :---- |
+| 直接视频链接 | 已支持 | xxx.com/1.mp4 | - |
 | [Twitter][1] | 已支持 | twitter.com mobile.twitter.com | - |
 | [YouTube Shorts][2] | 已支持 | youtube.com youtu.be  | - |
 | [TikTok][3] | - | -  | - |
 | [Snapchat][4] | 已支持 | -  | - |
-| [Instagram][5] | - | -  | https://www.instagram.com/tv/CbdmWyDPwkk |
+| [Instagram][5] | - | -  | -|
 | [Facebook][6] | 已支持 | -  | - |
 | 微信视频号 | - | -  | - |
 
