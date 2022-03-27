@@ -9,7 +9,7 @@ typora-root-url: ../
 
 # 短视频平台
 
-| APP | 特推视频下载_小程序 | 域名 | 例子 |
+| APP | 特推小程序 | 域名 | 例子 |
 | :---- | :---- | :---- | :---- |
 | [Twitter][1] | 已支持 | twitter.com mobile.twitter.com | - |
 | [YouTube Shorts][2] | 已支持 | youtube.com youtu.be  | - |
