@@ -15,7 +15,7 @@ typora-root-url: ../
 | [YouTube Shorts][2] | 已支持 | youtube.com youtu.be  | - |
 | [TikTok][3] | - | -  | - |
 | [Snapchat][4] | 已支持 | -  | - |
-| [Instagram][5] | - | -  | - |
+| [Instagram][5] | - | -  | https://www.instagram.com/tv/CbdmWyDPwkk |
 | [Facebook][6] | 已支持 | -  | - |
 | 微信视频号 | - | -  | - |
 
