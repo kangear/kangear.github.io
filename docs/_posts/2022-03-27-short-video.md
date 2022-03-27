@@ -11,12 +11,12 @@ typora-root-url: ../
 
 | APP | 备注 | 域名 | 例子 |
 | :---- | :---- | :---- | :---- |
-| [Twitter][1] | 140秒 | twitter.com mobile.twitter.com | - |
-| [YouTube Shorts][2] | youtube.com youtu.be | -  | - |
+| [Twitter][1] | 140秒，已支持 | twitter.com mobile.twitter.com | - |
+| [YouTube Shorts][2] | 已支持 | youtube.com youtu.be  | - |
 | [TikTok][3] | - | -  | - |
-| [Snapchat][4] | - | -  | - |
+| [Snapchat][4] | 已支持 | -  | - |
 | [Instagram][5] | - | -  | - |
-| [Facebook][6] | - | -  | - |
+| [Facebook][6] | 已支持 | -  | - |
 | 微信视频号 | - | -  | - |
 
 [1]: twitter.com
