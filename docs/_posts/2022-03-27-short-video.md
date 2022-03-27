@@ -20,6 +20,8 @@ typora-root-url: ../
 | [Facebook][6] | 已支持 | -  | - |
 | 微信视频号 | - | -  | - |
 
+基于：https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl/extractor
+
 [1]: twitter.com
 [2]: youtube.com
 [3]: tiktok.com
