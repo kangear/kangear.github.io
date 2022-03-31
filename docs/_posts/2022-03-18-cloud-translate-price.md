@@ -16,7 +16,7 @@ typora-root-url: ../
 | [百度翻译API][1] | 每月200万字 | 49元/百万字符  | 10 |
 | [百度机器翻译][7] | 500万字符(终身) | 49元/百万字符 或 1000万/450  | 100 |
 | [腾讯机翻][8] | 每月5百万字符 | 58元/百万字符  | 5(字符长度上限是2000字符) |
-| [有道机翻][9] | 每月5百万字符 | 48元/百万字符  | 5(字符长度上限是2000字符) |
+| [有道机翻][9] | 每月5百万字符(终身) | 48元/百万字符  | 5(字符长度上限是2000字符) |
 | [阿里机翻][1] | 每月100万字 | 50元/百万字符  | 50(字符长度上限是5000字符) |
 | [微软机翻][1] | 每月200万字 | -  | - |
 | [讯飞机翻][10] | 200万字符(终身) | 2250元/25000万字符  | -(字符长度上限是5000字符)  |
@@ -34,6 +34,9 @@ typora-root-url: ../
 | 厂家 | 免费额度 | 超出部分 | QPS（每秒访问量） |
 | :---- | :---- | :---- | :---- |
 | [百度][2] | 每月可享1万次免费调用次数 | 0.025/次  | - |
+| [百度翻译API][15] | - | 0.025/次  | -(无时间轴) |
+| [微软语音翻译][17] | - | 0.025/次  | -(无时间轴) |
+
 
 # 同传
 
@@ -62,3 +65,6 @@ typora-root-url: ../
 [12]: https://neuhub.jd.com/market/api/471
 [13]: https://cloud.ibm.com/catalog/services/language-translator
 [14]: https://ai.youdao.com/streamingAudio.s
+[15]: https://fanyi-api.baidu.com/doc/25
+[16]: https://help.aliyun.com/product/54853.html?spm=5176.22414175.sslink.1.45693bddf1b5Bx
+[17]: https://docs.microsoft.com/zh-cn/azure/cognitive-services/speech-service/get-started-speech-translation?tabs=script%2Cwindowsinstall
