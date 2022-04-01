@@ -22,9 +22,9 @@ typora-root-url: ../
 
 基于：https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl/extractor
 
-[1]: twitter.com
-[2]: youtube.com
-[3]: tiktok.com
-[4]: snapchat.com
-[5]: instagram.com
-[6]: facebook.com
+[1]: https://twitter.com
+[2]: https://youtube.com
+[3]: https://tiktok.com
+[4]: https://snapchat.com
+[5]: https://instagram.com
+[6]: https://facebook.com
