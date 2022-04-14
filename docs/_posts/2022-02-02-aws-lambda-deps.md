@@ -78,14 +78,14 @@ aws lambda update-function-code --function-name MyLambdaFunction --zip-file file
 
 # 三阶
 ## Create the Lambda FFmpeg layer
-```
+```shell
 wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
 wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz.md5
 md5sum -c ffmpeg-release-amd64-static.tar.xz.md5
 tar xvf ffmpeg-release-amd64-static.tar.xz
 ```
 
-```
+```shell
 mkdir -p ffmpeg/bin
 cp ffmpeg-4.3.1-amd64-static/ffmpeg ffmpeg/bin/
 cd ffmpeg
@@ -96,12 +96,12 @@ zip -r ../ffmpeg.zip .
 同样也可以创建`pget`的
 
 ## pget layer
-```
+```shell
 wget https://github.com/Code-Hex/pget/releases/download/v0.1.1/pget_0.1.1_Linux_x86_64.tar.gz
 tar xvf pget_0.1.1_Linux_x86_64.tar.gz
 ```
 
-```
+```shell
 mkdir -p pget1/bin
 cp pget_0.1.1_Linux_x86_64/pget pget1/bin/
 cd pget1
@@ -113,12 +113,12 @@ zip -r ../pget1.zip .
 不成功
 
 ## aria2
-```
+```shell
 wget https://github.com/q3aql/aria2-static-builds/releases/download/v1.36.0/aria2-1.36.0-linux-gnu-64bit-build1.tar.bz2
 tar xvf aria2-1.36.0-linux-gnu-64bit-build1.tar.bz2
 ```
 
-```
+```shell
 mkdir -p aria2/bin
 cd aria2-1.36.0-linux-gnu-64bit-build1
 cp aria2c ca-certificates.crt ../aria2/bin/
@@ -135,10 +135,26 @@ os.system(cmd)
 2. `-d /`如果没有这个会报错，因为lambda fs是只读的
 
 ## youtube_dl
-```
+```shell
 mkdir -p youtube-dl/bin
 cd youtube-dl/bin
 wget https://youtube-dl.org/downloads/latest/youtube-dl youtube-dl/bin/
 cd ../
 zip -r ../youtube-dl.zip .
+```
+
+## tor
+```shell
+mkdir -p tor/bin
+cd tor/bin
+wget https://raw.githubusercontent.com/qrtt1/aws-lambda-tor/master/tor
+cd ../
+zip -r ../tor_aws_lambda_layer.zip .
+```
+
+## google-chrome
+```shell
+https://github.com/shelfio/chrome-aws-lambda-layer
+
+arn:aws:lambda:us-west-2:764866452798:layer:chrome-aws-lambda:25
 ```
