@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "云上实现Chrome F2功能"
+title:  "云端实现Chrome F2功能(生成HAR)"
 date:   2022-05-22 17:51:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
