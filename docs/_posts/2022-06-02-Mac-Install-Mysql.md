@@ -20,3 +20,7 @@ sudo chown -R _mysql:mysql /usr/local/var/mysql
 sudo mysql.server start
 ```
 来自：https://stackoverflow.com/a/40736952/2193455
+
+
+接着看：
+https://flaviocopes.com/mysql-how-to-install/
