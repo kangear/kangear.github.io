@@ -11,7 +11,7 @@ typora-root-url: ../
 
 | 头像 | 群昵称 | Tag|
 | ------------- |:-------------:|:-------------:|
-|![在这里插入图片描述](https://img-blog.csdnimg.cn/ca94b1a2fe134c8db1624cfb7949f7f0.jpeg#pic_center =50x50)| 袁保康    |`物联网`、`Android`、`Linux`、`北京`、`打印机驱动`、`腾讯连连`、`涂鸦智能`、`阿里云`、`飞燕`、`米家`、`ESP32`、`乐鑫`、`8266`、`智能门锁`、`微微胖`、`颜值担当`
+|![在这里插入图片描述](/assets/kangear.jpg)| 袁保康    |`物联网`、`Android`、`Linux`、`北京`、`打印机驱动`、`腾讯连连`、`涂鸦智能`、`阿里云`、`飞燕`、`米家`、`ESP32`、`乐鑫`、`8266`、`智能门锁`、`微微胖`、`颜值担当`
 |![在这里插入图片描述](https://img-blog.csdnimg.cn/519edb081c7a4017ba858f45ec2d8924.jpeg#pic_center =50x50)| 咖啡豆    |`前端`、`JS`、`ReactNative`、`辽宁`
 |![在这里插入图片描述](https://img-blog.csdnimg.cn/3657a6f8022d437f974e7824514f5c07.jpeg#pic_center =50x50)| 孚尔姆智能15019380404梁工    |`嵌入式`、`硬件`、`软件`、`江苏`、`无锡`
 |![在这里插入图片描述](https://img-blog.csdnimg.cn/9fe36fdc41ae4bc3ad05e2102ee56dc3.jpeg#pic_center =50x50)| 神探钰    |`网站`、`app`、`游戏盾防御小章鱼`
