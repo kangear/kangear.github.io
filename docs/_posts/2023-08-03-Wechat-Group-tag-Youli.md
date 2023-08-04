@@ -14,7 +14,7 @@ typora-root-url: ../
 
 | 头像 | 群昵称 | Tag|
 | ------------- |:-------------:|:-------------:|
-|<table><img src="../assets/kangear.jpg" width="50" height="50"/></table>| 袁保康    |`物联网`、`Android`、`Linux`、`北京`、`打印机驱动`、`腾讯连连`、`涂鸦智能`、`阿里云`、`飞燕`、`米家`、`ESP32`、`乐鑫`、`8266`、`智能门锁`、`微微胖`、`颜值担当`
+|<table><img src="/assets/kangear.jpg" width="50" height="50"/></table>| 袁保康    |`物联网`、`Android`、`Linux`、`北京`、`打印机驱动`、`腾讯连连`、`涂鸦智能`、`阿里云`、`飞燕`、`米家`、`ESP32`、`乐鑫`、`8266`、`智能门锁`、`微微胖`、`颜值担当`
 |<table><img src="../assets/咖啡豆.jpg" width="50" height="50"/></table>| 咖啡豆    |`前端`、`JS`、`ReactNative`、`辽宁`
 |<table><img src="../assets/孚尔姆智能15019380404梁工.jpg" width="50" height="50"/></table>| 孚尔姆智能15019380404梁工    |`嵌入式`、`硬件`、`软件`、`江苏`、`无锡`
 |<table><img src="../assets/神探钰.jpg" width="50" height="50"/></table>| 神探钰    |`网站`、`app`、`游戏盾防御小章鱼`
