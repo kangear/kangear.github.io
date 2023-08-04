@@ -43,7 +43,7 @@ typora-root-url: ../
 |<img src="../assets/咖啡豆.jpg" width="50" height="50"/>| 咖啡豆    |`前端`、`JS`、`ReactNative`、`辽宁`
 |<img src="../assets/咖啡豆.jpg" width="50" height="50"/>| 咖啡豆    |`前端`、`JS`、`ReactNative`、`辽宁`
 |<img src="../assets/咖啡豆.jpg" width="50" height="50"/>| 咖啡豆    |`前端`、`JS`、`ReactNative`、`辽宁`
-|<ul><li><img src="../assets/咖啡豆.jpg" width="50" height="50"/></li><li>咖啡豆</li></ul>|`前端`、`JS`、`ReactNative`、`辽宁`
+|<ul><img src="../assets/咖啡豆.jpg" width="50" height="50"/>咖啡豆</ul>|`前端`、`JS`、`ReactNative`、`辽宁`
 |<ul><li><img src="../assets/咖啡豆.jpg" width="50" height="50"/></li><li>咖啡豆</li></ul>|`前端`、`JS`、`ReactNative`、`辽宁`
 |<ul><li><img src="../assets/咖啡豆.jpg" width="50" height="50"/></li><li>咖啡豆</li></ul>|`前端`、`JS`、`ReactNative`、`辽宁`
 |{::nomarkdown}<ul><li><img src="../assets/咖啡豆.jpg" width="50" height="50"/></li><li>咖啡豆</li><li>one</li></ul>{:/}
