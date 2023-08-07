@@ -1,5 +1,13 @@
-# 北京邮理科技有限公司
-欢迎大家的加入！！！
+---
+layout: post
+title:  "北京邮理科技有限公司"
+date:   2023-08-07 18:57:05 +0800
+categories: cloud
+typora-copy-images-to: ../assets
+typora-root-url: ../
+---
+# 欢迎大家的加入！！！
+
 ## 联系方式
 
 ### 微信
