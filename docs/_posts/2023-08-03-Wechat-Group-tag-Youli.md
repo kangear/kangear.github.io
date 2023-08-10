@@ -41,5 +41,6 @@ typora-root-url: ../
 |![在这里插入图片描述](/assets/huanhuan.jpg)| Foon欢欢    |`想转go`、`激光切割`、`折弯`、`深圳`、`TGA`|
 |![在这里插入图片描述](/assets/xiaoyuxianguan.jpg)| 小鱼仙官    |`电商`、`电商管理`、`图书`、`新乡`、`求活`|
 |![在这里插入图片描述](/assets/kangear.jpg)| 罗有清    |`信用卡`、`交通银行`、`交行`、`北京`、`石景山`、`广西`、`北漂`、`90后`|
+|![在这里插入图片描述](/assets/JackSparrow.jpg)| Jack Sparrow  |`物联网`、`音视频`、`微服务开源作者`、`车联网`、`深圳`|
 | … |…  |…|
 
