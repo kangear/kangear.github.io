@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 技术客的一亩三分地
-email: baokang325@gmail.com
+title: 前端小哥郭明霞的小天地
+# email: baokang325@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   分享技术、结交天下朋友是我毕生的追求。像王守仁一样“格”物。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kangear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gmx101010.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -26,18 +26,18 @@ url: "https://kangear.github.io" # the base hostname & protocol for your site, e
 google_analytics: UA-208608166-1
 
 # Disqus Comments 虽有广告，但无评论不博客
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: kangear
+# disqus:
+#     # Leave shortname blank to disable comments site-wide.
+#     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+#     shortname: kangear
 
 #google:
 #  ad-client: "ca-pub-5984522345984184"
 #  ad-slot: "9439014959"
 
 # 搜索
-webmaster_verifications:
-  google: I515YPtISI31CKCXQ-I3amwWFSS8KyQcvhA8oZtT6Ps
+# webmaster_verifications:
+#   google: I515YPtISI31CKCXQ-I3amwWFSS8KyQcvhA8oZtT6Ps
   # bing: 1234
   # alexa: 1234
   # yandex: 1234
