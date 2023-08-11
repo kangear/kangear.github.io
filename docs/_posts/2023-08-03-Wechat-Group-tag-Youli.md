@@ -39,5 +39,6 @@ typora-root-url: ../
 |![在这里插入图片描述](/assets/tengxunyunfuwu.jpg)| 腾讯云服务  |`腾讯云`、`王牌代理商`|
 |![在这里插入图片描述](/assets/huanhuan.jpg)| Foon欢欢    |`想转go`、`激光切割`、`折弯`、`深圳`、`TGA`|
 |![在这里插入图片描述](/assets/xiaoyuxianguan.jpg)| 小鱼仙官    |`电商`、`电商管理`、`图书`、`新乡`、`求活`|
+|![在这里插入图片描述](/assets/yanjiu.jpg)| AAA小尹，北京金通首信烟酒    |`北京实体烟酒店`、`北京丰台`|
 | … |…  |…|
 
