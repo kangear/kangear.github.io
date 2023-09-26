@@ -26,10 +26,10 @@ url: "https://kangear.github.io" # the base hostname & protocol for your site, e
 google_analytics: UA-208608166-1
 
 # Disqus Comments 虽有广告，但无评论不博客
-disqus:
+# disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: kangear
+    # shortname: kangear
 
 #google:
 #  ad-client: "ca-pub-5984522345984184"
