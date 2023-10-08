@@ -14,6 +14,9 @@ https://pan.baidu.com/s/1AmOvrlOwTVAKdBpi5awzng?pwd=si4a
 
 目录：
 ```
-Android Studio
- android-studio-2020.3.1.18-mac_arm.zip
+.
+└── Android Studio
+    └── android-studio-2020.3.1.18-mac_arm.zip
+
+2 directories, 1 file
 ```
