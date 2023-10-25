@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RTL8270CF (WBR3) 烧录后启动总是停在Fast connect profile is empty, abort fast connection"
+title:  "RTL8720CF (WBR3) 烧录后启动总是停在Fast connect profile is empty, abort fast connection"
 date:   2023-10-25 17:51:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
