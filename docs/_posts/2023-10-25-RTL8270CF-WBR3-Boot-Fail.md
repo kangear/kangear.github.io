@@ -51,3 +51,7 @@ init_thread(55), Available heap 0x19808
 
 这里提供一下正常启动的唯一一次日志信息：
 ![screenshot-20231025-204204|382x500](/assets/WX20231025-205628.png)
+
+
+
+在IC原厂的提问链接：https://forum.amebaiot.com/t/rtl8270cf-wbr3-fast-connect-profile-is-empty-abort-fast-connection/2352
