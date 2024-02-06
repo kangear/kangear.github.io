@@ -15,5 +15,5 @@ permalink: /about/
 
 在`Github Pages`上写博客真爽，可以随时随地写，可以自由自在的写。
 
-YouTube: [技术平民化](https://www.youtube.com/channel/UCL1Z0mboHI3Y5OgCheEn6Ug)
+YouTube: [技术平民化](https://www.youtube.com/channel/UCL1Z0mboHI3Y5OgCheEn6Ug)  
 Telegram：[程序员创客之家](https://t.me/youlicreator)
