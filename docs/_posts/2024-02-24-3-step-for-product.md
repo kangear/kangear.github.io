@@ -7,7 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-三省六部
+三省六部 
 
 明朝有三省六部，我的团队也需要有类似的组织架构。
 
