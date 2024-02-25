@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "嵌软方案三步走"
-date:   2024-02-24 17:51:05 +0800
+date:   2024-02-25 17:51:05 +0800
 categories: cloud
 typora-copy-images-to: ../assets
 typora-root-url: ../
