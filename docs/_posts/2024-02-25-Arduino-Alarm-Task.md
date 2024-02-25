@@ -19,7 +19,7 @@ https://www.pjrc.com/teensy/td_libs_TimeAlarms.html
 | :----------------------------------------: |
 |          *TimeAlarms*          |
 
-# 
+# digital-clock
 
 https://projecthub.arduino.cc/plouc68000/simplest-uno-digital-clock-ever-03c185
 
