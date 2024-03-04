@@ -24,6 +24,11 @@ typora-root-url: ../
 |          * 串口Demo *          |          * 串口名字 *          |
 
 
+# PINOUT
+| ![有帮助的截图](/assets/FT4S7MBJ98RBEZI.jpg) | ![有帮助的截图](/assets/docs/F8VOF5RJ98RBEZH.png) |
+| :----------------------------------------: | :----------------------------------------: |
+|          * Arduino风格管脚 *          |          * 外围引脚 *          |
+
 补充配置电路板
 ```
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
