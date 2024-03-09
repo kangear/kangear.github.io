@@ -77,9 +77,9 @@ void powerCallback(JsonVariant p)
     int PowerState = p["powerstate"];
     if (PowerState == 1)
     {
-        digitalWrite(LED_BUILTIN, HIGH);
-    } else if(PowerState == 0){
         digitalWrite(LED_BUILTIN, LOW);
+    } else if(PowerState == 0){
+        digitalWrite(LED_BUILTIN, HIGH);
     }
 }
 ```
