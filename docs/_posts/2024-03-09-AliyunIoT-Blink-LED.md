@@ -9,7 +9,9 @@ typora-root-url: ../
 
 关键字：`阿里云`、`物联网`、`飞燕`
 
-# HelloWorld
+本文记录了使用Arduino D1（ESP8266）点灯的完整过程。
+
+# 先试试开发板
 
 开发板型号：Arudino D1
 
