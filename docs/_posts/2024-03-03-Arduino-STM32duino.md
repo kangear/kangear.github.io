@@ -25,7 +25,8 @@ typora-root-url: ../
 
 
 # PINOUT
-| ![有帮助的截图](/assets/FT4S7MBJ98RBEZI.jpg) | ![有帮助的截图](/assets/docs/F8VOF5RJ98RBEZH.png) |
+
+| ![有帮助的截图](/assets/FT4S7MBJ98RBEZI.jpg) | ![有帮助的截图](/assets/F8VOF5RJ98RBEZH.png) |
 | :----------------------------------------: | :----------------------------------------: |
 |          * Arduino风格管脚 *          |          * 外围引脚 *          |
 
