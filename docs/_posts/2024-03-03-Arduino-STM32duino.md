@@ -74,3 +74,12 @@ void loop() {
   Serial1.println("Hello World! Here is Serial1");
 }
 ```
+
+# 资源配置
+
+默认D0、D1不可用，需要按照如下图所示：
+
+| ![有帮助的截图](/assets/4fd8daead63fd88975c348e112e1bc0.jpg) |
+| :----------------------------------------: |
+|          *修复D0 D1不可用问题*          |
+
