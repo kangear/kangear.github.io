@@ -30,6 +30,10 @@ typora-root-url: ../
 | :----------------------------------------: | :----------------------------------------: |
 |          *Arduino风格管脚*          |          *外围引脚*          |
 
+| ![有帮助的截图](/assets/微信截图_20240320155403.png) |
+| :----------------------------------------: |
+|          *数据手册中管脚对应图*          |
+
 补充配置电路板
 ```
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
