@@ -24,7 +24,7 @@ twitter_username: cuntouwumingshi
 github_username:  kangear
 
 # Google Analytics
-google_analytics: UA-208608166-1
+google_analytics: G-3YXFSKSKRY
 
 # Disqus Comments 虽有广告，但无评论不博客
 # disqus:
@@ -62,8 +62,9 @@ jekyll-archives:
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-archives
   - jekyll-sitemap
