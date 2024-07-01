@@ -37,7 +37,7 @@ typora-root-url: ../
 | :----------------------------------------: |
 |          *修复D0 D1不可用问题*          |
 
-## 这样就可以使用Serial2
+## 使用Serial2
 如果要用D1D0所在的串口，则需要软件上直接使用Serial2，这一点和ESP32类似。
 ```cpp
 // the setup function runs once when you press reset or power the board
