@@ -40,7 +40,6 @@ typora-root-url: ../
 ## 这样就可以使用Serial2
 如果要用D1D0所在的串口，则需要软件上直接使用Serial2，这一点和ESP32类似。
 ```cpp
-/* cpp
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -92,7 +91,6 @@ For STM32F103C8T6 board, the default Serial is actually mapped to the 2nd serial
 |          *Serial1的使用*          |
 
 ```cpp
-/* 
 HardwareSerial Serial1(PA10, PA9);
 
 // the setup function runs once when you press reset or power the board
