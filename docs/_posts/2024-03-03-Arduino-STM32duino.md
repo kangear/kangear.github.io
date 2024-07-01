@@ -62,9 +62,13 @@ void loop() {
 
 # 引脚图
 
-| ![有帮助的截图](/assets/FT4S7MBJ98RBEZI.jpg) | ![有帮助的截图](/assets/F8VOF5RJ98RBEZH.png) |
+| ![有帮助的截图](/assets/nucleo_f103rb_2018_07_06_arduino_left.png) | ![有帮助的截图](/assets/nucleo_f103rb_2018_07_06_arduino_right.png) |
 | :----------------------------------------: | :----------------------------------------: |
-|          *Arduino风格管脚*          |          *外围引脚*          |
+|          *Arduino风格管脚 左*          |          *Arduino风格管脚 右*          |
+
+| ![有帮助的截图](/assets/F8VOF5RJ98RBEZH.png) |
+| :----------------------------------------: |
+|          *外围引脚*          |
 
 | ![有帮助的截图](/assets/微信截图_20240320155403.png) |
 | :----------------------------------------: |
@@ -113,6 +117,9 @@ void loop() {
   Serial1.println("Hello World! Here is Serial1");
 }
 ```
+
+硬件链接
+
 
 # 资源配置
 
