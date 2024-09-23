@@ -66,6 +66,9 @@ typora-root-url: ../
 
 我体验的目的也十分明确，只是为了弄明白设备配网时`8位数字代码`从哪里来，是技术上的还是商务上的，如果已经证明主要是技术上的，如果商务上没有做，只是会出现未认证，使用起来倒无关紧要。这个HomeBridge如果要引入小米设备的控制，比如小米扫地机器人，还需要像黑客一样填写其IP地址型号等信息[这里][2]，这个一般消费者搞不定，所以`销售HomeBridge网关`并非我这次体验的重点方向。
 
+另外，涂鸦选择主动贴贴HomeBridge，《[集成 Home Assistant 和 Homebridge][3]》。
+
 [1]: https://sspai.com/post/67784
 [2]: https://github.com/homebridge-xiaomi-roborock-vacuum/homebridge-xiaomi-roborock-vacuum
+[3]: https://developer.tuya.com/cn/docs/iot/HA_HB_Bestpractice?id=Kamfbszoffjmw
 
