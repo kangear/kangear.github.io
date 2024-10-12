@@ -49,7 +49,13 @@ https://iot.mi.com/new/doc/accesses/direct-access/extension-development/quick-st
 ```
 npm start com.xiaomi.demo
 ```
-实际会遇到[米家Beta调试时总出现 设备已离线 弹窗][2]，调试的时候需要保证文件夹名字就是设备的model名字才会关联起来：
+实际会遇到[米家Beta调试时总出现 设备已离线 弹窗][2]，调试的时候需要保证`文件夹名字`就是设备的`model名字`才会关联起来，以下是正确的创建方法：
+
+1. 先在[小米Iot控制台]创建设备，假设model为aaa.bbb.ccc
+2. 在[小米AIoT平台高仿真系统][1]创建虚拟设备
+3. 把`com.xiaomi.demo`复制为`aaa.bbb.ccc`
+4. 执行`npm start aaa.bbb.ccc`来启动
+
 
 | ![有帮助的截图](/assets/c50a008e5e158cc64461e171743f966.jpg) | ![有帮助的截图](/assets/7ffbd8b498a137e163b743d5a728cdc.jpg) |
 | :----------------------------------------: | :----------------------------------------: |
@@ -57,3 +63,4 @@ npm start com.xiaomi.demo
 
 [1]: https://vd.iot.mi.com/home
 [2]: https://kangear.github.io/cloud/2024/10/01/Mijia-Beta-Device-offline-Dialog.html
+[3]: https://iot.mi.com/fe-op/productCenter
