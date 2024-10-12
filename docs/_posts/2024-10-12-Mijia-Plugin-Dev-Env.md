@@ -24,7 +24,7 @@ typora-root-url: ../
 |  开发环境  | 微信开发者工具 | vscode + cmd终端  | Android Studio  |  |
 |  项目关联  | AppId | 包名  | ApplicationId  |  |
 |  连接  | 互联网 | WiFi  | USB/WiFi  |  |
-|  账户  | 需成为开发者 | 需成为开发者  | -  |  |
+|  账户  | 需成为开发者（企业/个人） | 需成为开发者（企业/有限个人）  | -  |  |
 |  调试状态   | 默认 | 扫码  | 打开开发者选项  |  |
 |  入口图标  | 自动生成 | [小米AIoT平台高仿真系统][1] 上添加设备 | -   | - |
 |  进入界面  | 自动 | 点击设备 | 自动 | - |
@@ -51,7 +51,7 @@ npm start com.xiaomi.demo
 ```
 实际会遇到[米家Beta调试时总出现 设备已离线 弹窗][2]，调试的时候需要保证`文件夹名字`就是设备的`model名字`才会关联起来，以下是正确的创建方法：
 
-1. 先在[小米Iot控制台]创建设备，假设model为aaa.bbb.ccc
+1. 先在[小米Iot控制台][3]创建设备，假设model为aaa.bbb.ccc
 2. 在[小米AIoT平台高仿真系统][1]创建虚拟设备
 3. 把`com.xiaomi.demo`复制为`aaa.bbb.ccc`
 4. 执行`npm start aaa.bbb.ccc`来启动
