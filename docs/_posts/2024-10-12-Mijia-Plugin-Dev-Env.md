@@ -34,12 +34,16 @@ typora-root-url: ../
 
 首先需要吐槽的是，互联网仿佛是一个巨大的垃圾桶，我仿佛是那个拾荒者，米家这种平台向互联网上丢了很多文档，而我的这个拾荒者需要翻来覆去的寻找我真正需要的内容。就好比想知道生火的方法，会搜索出钻木取火的相关介绍，好容易找到适合自己的打火机方式，有些步骤的理解却需要从钻木取火流程中获取。
 
-最新的入口：   
+最新的入口：  
+``` 
 https://iot.mi.com/v2/new/doc/plugin/quickstart/quick-start
+```
 
 过时的入口：   
+```
 https://github.com/MiEcosystem/miot-plugin-sdk/tree/master
 https://iot.mi.com/new/doc/accesses/direct-access/extension-development/quick-start/the-first-extension
+```
 
 按照正确入口安装后环境后，想运行一个Demo，一般会按照`不修改一行代码`的思路，比如：
 ```
