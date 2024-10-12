@@ -13,7 +13,7 @@ typora-root-url: ../
 
 | ![有帮助的截图](/assets/63eb7bb4f859ab4dfa6e097fb054849.jpg) |
 | :----------------------------------------: |
-|          *命令行*          |
+|          *效果演示*          |
 
 # 和微信小程序对比
 
@@ -52,4 +52,4 @@ npm start com.xiaomi.demo
 |          *点击设备后弹窗*          |         *HelloWorld*          |
 
 [1]: https://vd.iot.mi.com/home
-[2]: cloud/2024/10/01/Mijia-Beta-Device-offline-Dialog.html
+[2]: https://kangear.github.io/cloud/2024/10/01/Mijia-Beta-Device-offline-Dialog.html
