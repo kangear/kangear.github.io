@@ -45,17 +45,22 @@ https://github.com/MiEcosystem/miot-plugin-sdk/tree/master
 https://iot.mi.com/new/doc/accesses/direct-access/extension-development/quick-start/the-first-extension
 ```
 
+# 运行第一个插件
+
 按照正确入口安装后环境后，想运行一个Demo，一般会按照`不修改一行代码`的思路，比如：
 ```
 npm start com.xiaomi.demo
 ```
-实际会遇到[米家Beta调试时总出现 设备已离线 弹窗][2]，调试的时候需要保证`文件夹名字`就是设备的`model名字`才会关联起来，以下是正确的创建方法：
+实际会遇到[米家Beta调试时总出现 设备已离线 弹窗][2]，调试的时候需要保证`文件夹名字`就是设备的`model名字`才会关联起来，以下是正确的创建方法。
 
-1. 先在[小米Iot控制台][3]创建设备，假设model为aaa.bbb.ccc
+1. 先在[小米Iot控制台][3]创建设备，假设model为`aaa.bbb.ccc`
 2. 在[小米AIoT平台高仿真系统][1]创建虚拟设备
 3. 把`com.xiaomi.demo`复制为`aaa.bbb.ccc`
 4. 执行`npm start aaa.bbb.ccc`来启动
 
+| ![有帮助的截图](/assets/微信截图_20241013113527.png) | ![有帮助的截图](/assets/微信截图_20241013113359.png) |
+| :----------------------------------------: | :----------------------------------------: |
+|          *产品*          |         *虚拟设备*          |
 
 | ![有帮助的截图](/assets/c50a008e5e158cc64461e171743f966.jpg) | ![有帮助的截图](/assets/7ffbd8b498a137e163b743d5a728cdc.jpg) |
 | :----------------------------------------: | :----------------------------------------: |
