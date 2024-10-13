@@ -34,7 +34,7 @@ typora-root-url: ../
 
 首先需要吐槽的是，互联网仿佛是一个巨大的垃圾桶，我仿佛是那个拾荒者，米家这种平台向互联网上丢了很多文档，而我的这个拾荒者需要翻来覆去的寻找我真正需要的内容。就好比想知道生火的方法，会搜索出钻木取火的相关介绍，好容易找到适合自己的打火机方式，有些步骤的理解却需要从钻木取火流程中获取。
 
-最新的入口：  
+[最新的入口][4]：  
 ``` 
 https://iot.mi.com/v2/new/doc/plugin/quickstart/quick-start
 ```
@@ -66,6 +66,15 @@ npm start com.xiaomi.demo
 | :----------------------------------------: | :----------------------------------------: |
 |          *点击设备后弹窗*          |         *HelloWorld*          |
 
+# 打包发布
+
+```
+npm run publish youli.fishbowl.a1
+```
+
+上传发布参考[最新入口][4]。
+
 [1]: https://vd.iot.mi.com/home
 [2]: https://kangear.github.io/cloud/2024/10/01/Mijia-Beta-Device-offline-Dialog.html
 [3]: https://iot.mi.com/fe-op/productCenter
+[4]: https://iot.mi.com/v2/new/doc/plugin/quickstart/quick-start
