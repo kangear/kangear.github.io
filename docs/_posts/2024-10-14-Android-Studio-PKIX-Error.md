@@ -9,7 +9,7 @@ typora-root-url: ../
 
 Android Studio新建了一个HelloWorld居然都报错，这是一个老版本3.6，其实能猜测出大概问题，网站的增收更换了，就如同清朝胡同停不下21世纪的汽车，除非一个一个问题解决才可以，Android Studio 3.6是胡同，Gradle版本和依赖就是21世纪的汽车。
 
-最后使用toolbox下载了一个新版本，但也相对旧的版本`Android Studio Electric Eel`，该版本还支持使用Java作为开发语言，不像最新的2024已经不支持了，新的Kotlin语言始终没有学习，所以一直躲避着使用这个语言。
+最后使用toolbox下载了一个新版本，但也相对旧的版本`Android Studio Electric Eel`，该版本还支持使用Java作为开发语言，不像最新的2024已经不支持了，新的Kotlin语言始终没有学习，所以一直躲避着使用这个语言，安装这个版本号，HelloWorld就没有问题，可以编译运行。
 
 ```
 Android Studio Electric Eel | 2022.1.1 Patch 2
