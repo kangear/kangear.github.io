@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "对接涂鸦智能平台的三种方式"
-date:   2024-11-11 18:40:00 +0800
+date:   2024-11-11 12:00:00 +0800
 categories: cloud
 typora-copy-images-to: ../assets
 typora-root-url: ../
