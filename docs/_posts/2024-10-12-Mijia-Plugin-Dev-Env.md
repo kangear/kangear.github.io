@@ -69,7 +69,7 @@ npm start com.xiaomi.demo
 # 打包发布
 
 ```
-npm run publish youli.fishbowl.a1
+npm run publish aaa.bbb.ccc
 ```
 
 上传发布参考[最新入口][4]。
