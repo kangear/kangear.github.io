@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HomeSpan配网"
+title:  "HomeSpan配网和扫码添加"
 date:   2024-11-03 12:00:00 +0800
 categories: cloud
 typora-copy-images-to: ../assets
@@ -32,6 +32,15 @@ typora-root-url: ../
 # Home App添加
 
 这里就可以按照《[实现支持HomeKit的门铃][1]》方式进行添加。
+
+# Home App扫码添加
+
+程序烧录后启动日志中会显示`setup payload`，在草料二维码网站上生成二维码即可。需要注意的是，这种方式生成的二维码只能实现扫码添加，无法实现扫码配网。
+
+| ![有帮助的截图](/assets/73b0c060fc10858429236e19285df76.png) |
+| :------------: |
+|      *setup payload*   | 
+
 
 # 小结
 
