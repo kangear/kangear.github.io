@@ -24,3 +24,7 @@ typora-root-url: ../
 
 解决方案：点击WiFi感叹号，开启[自动登录]
 
+
+参考：   
+https://www.meross.com/en-gc/FAQ/230.html
+
