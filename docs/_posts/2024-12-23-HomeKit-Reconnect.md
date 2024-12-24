@@ -7,8 +7,6 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-# HomeKit重连机制
-
 HomeKit架构中有严格的主从意识，必须是`中枢`或者`iPhone`主动连接配件，反之则不行。如果配件重启了，则需要等待被连接，有几种途径会进行重连，`iPhone`重新打开`Home App`、`HomePod`上出现一些控制指令等等，这种是通用重连机制，自动重连速度也考验路由器的性能，或者在设备重启时自动关闭TCP连接。
 
 ## 未响应(No response)
