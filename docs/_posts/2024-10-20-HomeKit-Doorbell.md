@@ -7,7 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-和`HomeKit`相关的技术，先是接触了`Aqara M1S网关`、`涂鸦HomeKit方案`、`HomeBridge`，慢慢了解的更深入一点了。最近赶巧一个网友跑一个[门铃例子][1]的时候跑不起来，让我帮忙解决，我一看资料这不是我`心心念`的技术吗？就是基于ESP32的HomeKit。我还畅想了，如果有这种协议就好了，可以直连HomeKit，如果得来全不费功夫。
+和`HomeKit`相关的技术，先是接触了`Aqara M1S网关`、`涂鸦HomeKit方案`、`HomeBridge`，慢慢了解的更深入一点了。最近赶巧一网友跑一个[门铃例子][1]的时候跑不起来，让我帮忙解决，我一看资料这不是我`心心念`的技术吗？就是基于ESP32的HomeKit。我曾畅想如果有协议可以直连HomeKit，如果得来全不费功夫。
 
 昨天闲来无事，决定把这个例子跑起来看看，看了资料是结构是这样的。
 
@@ -32,7 +32,7 @@ typora-root-url: ../
 ```cpp
 #include <Arduino.h>
 
-#include "Homespan.h"
+#include "HomeSpan.h"
 
 // https://github.com/HomeSpan/HomeSpan/blob/master/examples/16-ProgrammableSwitches/16-ProgrammableSwitches.ino
 struct Doorbell : Service::Doorbell // StatelessProgrammableSwitch
@@ -113,6 +113,9 @@ void loop()
 |        *1*       |       *2*      |     *3*     |     *4*    |     *模拟按下门铃*    | 
 
 试用是将GPIO3接到3.3V上。
+
+# 更新说明
+单独使用手机测试已经不是太方便，需要结合HomePod。
 
 ## 总结
 
