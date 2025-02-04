@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "HomeKit/Siri 夜灯使用说明"
+title:  "HomeKit配件使用说明"
 date:   2024-11-15 12:00:00 +0800
 categories: cloud
 typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
+
+本文同样适应于小灯、彩灯、温度计、手指机器人、门铃等。
 
 # 配网流程
 
@@ -42,4 +44,14 @@ typora-root-url: ../
 
 # 恢复出厂
 
-设备上的按钮`长按10秒钟`即可恢复出厂。
+设备上的按钮`长按10秒钟`指示灯由闪烁到熄灭，即可恢复出厂。
+
+# 产品列表
+
+| ![](/assets/homekit_temp.png) |![](/assets/homekit_usbswitch.png) | ![](/assets/homekit_color_led.png) |
+| :------------: | :------------: | :-----------: |
+|  *温湿度计*  |  *通断器*   |  *彩灯*    |
+
+| ![](/assets/homekit_dimmable_light.png) |![](/assets/homekit_doorbell.png) | ![](/assets/homekit_finger.png) |
+| :------------: | :------------: | :------------: |
+|  *无级调光灯*   |  *门铃*  |  *手指机器人*    |
