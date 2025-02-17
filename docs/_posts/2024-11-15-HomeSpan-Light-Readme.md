@@ -9,10 +9,11 @@ typora-root-url: ../
 
 本文同样适应于无极调光灯、彩灯、USB通断器、温度计、手指机器人、门铃等。
 
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/0e555dd36a3519d9aa43d88adbc53dd7.mp4" type="video/mp4">
+</video>
+
 # 配网流程
-
-![](https://homekit.oss-cn-beijing.aliyuncs.com/0e555dd36a3519d9aa43d88adbc53dd7.mp4)
-
 
 | ![有帮助的截图](/assets/0450cf71df2b134490c55be082146aa.jpg) | ![有帮助的截图](/assets/2af4ce7a5c2f9d8d545d5edaa7639bf.jpg) | ![有帮助的截图](/assets/4d8065c835c32a00ea48c0c7abe5201.jpg) | ![有帮助的截图](/assets/2c75de776b1064cf6004fa926e3a70e.jpg) |
 | :------------: | :------------: | :------------: | :------------: |
