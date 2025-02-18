@@ -59,19 +59,25 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/8092d4bace0c2bbe19d3187ecc753707.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 配对HomeKit
+# 关联HomeKit
+
+## 关联圆形遥控
+
+| ![](/assets/ddf92f5c3acae072b3e654e43e73be2.jpg) |
+| :------------: |
+|  界面预览  |
 
 ## 配置USB配件
 
 参照《[HomeKit配件使用说明][2]》，配置完毕之后会出现图所示：
 
-| ![有帮助的截图](/assets/d86024032717dc4ad7c7e968cf5b44f.jpg) | ![有帮助的截图](/assets/ffb60bf5fc1a43d3ffce05542b7e723.jpg) | ![有帮助的截图](/assets/fe5a2facd34daae3f2ed91c86dd3006.jpg) |
+| ![](/assets/d86024032717dc4ad7c7e968cf5b44f.jpg) | ![](/assets/ffb60bf5fc1a43d3ffce05542b7e723.jpg) | ![](/assets/fe5a2facd34daae3f2ed91c86dd3006.jpg) |
 | :------------: | :------------: | :------------: |
 |  界面预览  |  开关(按电梯中用不到)    |  Touch是用在电梯功能中   | 
 
 ## 将USB配件和机器人关联
 
-长按机器人主机按键，蓝色指示灯闪亮，再按iPhone`苹果家庭`中新出现的`Touch`来配对。按一次，机器人主机指示灯闪一次，表示关联成功。
+和圆形遥控类似，需要长按机器人主机按键，蓝色指示灯闪亮，再按iPhone`苹果家庭`中新出现的`Touch`来配对。按一次，机器人主机指示灯闪一次，表示关联成功。
 
 # 使用控制
 
