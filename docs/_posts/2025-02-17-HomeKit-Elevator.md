@@ -79,6 +79,10 @@ typora-root-url: ../
 
 和圆形遥控类似，需要长按机器人主机按键，蓝色指示灯闪亮，再按iPhone`苹果家庭`中新出现的`Touch`来配对。按一次，机器人主机指示灯闪一次，表示关联成功。
 
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/52baa06876b128bbb611f70d51d23072.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 使用控制
 
 `Touch`可以重命名为`电梯`。
