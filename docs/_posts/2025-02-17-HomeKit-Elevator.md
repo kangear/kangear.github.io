@@ -48,7 +48,7 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/52baa06876b128bbb611f70d51d23072.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 按电梯 固定方法
+# 按电梯\电脑开机 固定方法
 
 这一步的目的是将机器人固定到电梯按钮处。
 
