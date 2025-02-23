@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "手指机器人使用说明"
+title:  "HomeKit手指机器人使用说明"
 date:   2025-02-17 18:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
