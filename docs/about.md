@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+目前是`ALL IN HOMEKIT`的团队。
+
 我是一个目前在北京工作的程序员，12年开始先从Linux驱动做起，后来做了Android底层，有幸在2020年开始带技术团队。目前自己的时间也充足一些了，可以做一些更有难度的工作。这种感觉很好。
 
 一个写了10年CSDN技术博客的人；  
@@ -15,6 +17,4 @@ permalink: /about/
 
 在`Github Pages`上写博客真爽，可以随时随地写，可以自由自在的写。
 
-YouTube: [技术平民化](https://www.youtube.com/channel/UCL1Z0mboHI3Y5OgCheEn6Ug)  
-Telegram：[程序员创客之家](https://t.me/youlicreator)   
-淘宝：[邮理](https://kangear.taobao.com)
+淘宝：[邮理创客之家](https://kangear.taobao.com)
