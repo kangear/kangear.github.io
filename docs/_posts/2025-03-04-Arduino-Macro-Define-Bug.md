@@ -7,7 +7,9 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-```c
+代码如下
+
+```cpp
 #define MODEL A
 
 #if MODEL == A
@@ -24,7 +26,7 @@ typora-root-url: ../
 ```
 
 这样不会报错，但是其实逻辑不对，两个`#error`都不会触发。需要在头部定义A和B才能正常。
-```c
+```cpp
 #define A 1
 #define B 2
 ```
