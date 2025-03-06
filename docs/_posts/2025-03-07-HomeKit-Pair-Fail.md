@@ -9,7 +9,7 @@ typora-root-url: ../
 
 HomeKit USB伴侣成功连网使用细分为三步，连上WiFi、家庭App添加、家庭App控制成功，现在分别以不同阶段来分析问题。
 
-# 连WiFi阶段
+# 连接WiFi阶段
 
 ## 搜索不到WiFi
 
