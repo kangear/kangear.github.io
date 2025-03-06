@@ -16,7 +16,7 @@ HomeKit USB伴侣成功连网使用细分为三步，连上WiFi、家庭App添�
 1. WiFi路由器需要开启2.4G WiFi热点
 2. 如果使用iPhone热点作为WiFi，则需要开启【最大兼容性】
 
-| ![](/assets/2c75de776b1064cf6004fa926e3a70e.jpg){width=30%} |  ![](/assets/dc18f56c3fe84c24a180b16780958334.png){width=30%} |  ![](/assets/WeChatedd8dcb1dbc4311cf3bb9e43f64ad62d.jpg){width=30%} |
+| ![](/assets/2c75de776b1064cf6004fa926e3a70e.jpg){ width=33% } |  ![](/assets/dc18f56c3fe84c24a180b16780958334.png){ width=33% } |  ![](/assets/WeChatedd8dcb1dbc4311cf3bb9e43f64ad62d.jpg){ width=33% } |
 | :------------: | :------------: |:------------: |
 |   WiFi列表    |         路由器开启2.4G WiFi    |  iPhone热点开启2.4G WiFi |
 
@@ -26,7 +26,7 @@ HomeKit USB伴侣成功连网使用细分为三步，连上WiFi、家庭App添�
 2. 该热点密码加密方式不兼容，需要设置为`WPA/WPA2-PSK`
 3. 该WiFi热点信道不支持，需要选择为兼容模式
 
-| ![](/assets/20250307023601.jpg){width=30%} |  ![](/assets/wpa_wpa2_psk.png){width=30%} |  ![](/assets/wpa_wpa2_psk.png){width=30%} |
+| ![](/assets/20250307023601.jpg){ width=33% }|  ![](/assets/wpa_wpa2_psk.png){ width=33% } |  ![](/assets/wpa_wpa2_psk.png){ width=33% } |
 | :------------: | :------------: |:------------: |
 |   现象    |         密码错误日志打印   |  路由器中改变加密方式 |
 
