@@ -11,7 +11,7 @@ typora-root-url: ../
 
 ## 功能演示
 
-<video width="640" height="640" controls>
+<video width="450" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/eb1169b8407c545f20cfafdf798d447c_raw.mp4#t=0.001" type="video/mp4">
 </video>
 
