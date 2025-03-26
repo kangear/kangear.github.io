@@ -46,4 +46,4 @@ typora-root-url: ../
 此时，按下门铃按钮HomePod可以发现响声、手机可以收到通知。
 
 
-[2]: /a/2024/12/28/b.html
+[2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html

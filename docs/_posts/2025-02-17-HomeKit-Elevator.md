@@ -98,4 +98,4 @@ typora-root-url: ../
 
 
 [1]: https://kangear.github.io/a/2025/02/12/HomeKit-Device-List
-[2]: /a/2024/12/28/b.html
+[2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
