@@ -9,7 +9,7 @@ typora-root-url: ../
 
 欢迎进到教程界面，想必你已经拿到的心仪的产品，点击以下图片可以进入对应产品教程。
 
-| [![](/assets/homekit_temp.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) |[![](/assets/homekit_usbswitch.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) | [![](/assets/homekit_xiaofangkuai.png)](/a/2025/03/21/HomeKit-Finger-Bot2.html)) |
+| [![](/assets/homekit_temp.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) |[![](/assets/homekit_usbswitch.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) | [![](/assets/homekit_xiaofangkuai.png)](/a/2025/03/21/HomeKit-Finger-Bot2.html) |
 | :------------: | :------------: | :-----------: |
 |  *温湿度计*  |  *通断器*   |  *手指机器人*    |
 
