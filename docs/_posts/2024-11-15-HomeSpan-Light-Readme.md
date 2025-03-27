@@ -40,7 +40,7 @@ typora-root-url: ../
 
 | ![有帮助的截图](/assets/fb41812deab0d36c92f432cedeeeb32.jpg) |![有帮助的截图](/assets/13bde97741334546e64593ec61ff82a.jpg) | ![有帮助的截图](/assets/b49043a0190c557b5c6236fec8d1c0a.jpg) | ![有帮助的截图](/assets/7cae940a751d817b6ab05cad42b8b72.jpg) | ![有帮助的截图](/assets/35140c818ffed06026eab2d5f2887ca.jpg) | 
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|          *打开家庭App*    |      *点击右上角+号*    |  *添加或扫描配件*    |     *选择 更多选项*          |     *选择Light*          |
+|          *打开家庭App*    |      *点击右上角+号*    |  *添加或扫描配件*    |     *选择 更多选项*          |     *选择Light(请以实际为准)*          |
 
 
 | ![有帮助的截图](/assets/7d88f9fc7d5150eaf866990a28d7020.jpg) | ![有帮助的截图](/assets/146d812327b60b10c5e6fb8169558b0.jpg) | ![有帮助的截图](/assets/42ee7ba479d76aa52de513c84859537.jpg) | ![有帮助的截图](/assets/9a195f3b1310cee2b78d76a62399f8c.jpg) | ![有帮助的截图](/assets/cc975a7a83ba6b618c3d18610ac9d9b.jpg) |
@@ -70,7 +70,7 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/b98a5f7368f729e9e6152d88bc56bb44.mp4#t=0.001" type="video/mp4">
 </video>
 
-### 附：
-[HomeKit产品列表][1]
+### 常见问题
+[HomeKit USB伴侣配网添加不成功？][1]
 
-[1]: /a/2025/02/12/HomeKit-Device-List
+[1]: /cloud/2025/03/06/HomeKit-Pair-Fail.html
