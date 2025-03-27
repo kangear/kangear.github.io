@@ -37,4 +37,4 @@ typora-root-url: ../
 如演示视频所示。
 
 
-[2]: /a/2024/12/28/b.html
+[2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
