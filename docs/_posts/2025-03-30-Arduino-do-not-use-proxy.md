@@ -8,7 +8,7 @@ typora-root-url: ../
 ---
 
 
-这两天经历了奇怪的事情，就是`Arduino IDE`怎么配置都不走代理。我是在一个Windows 11的虚拟机中，刚开始直接配置成真机的代理地址，随后又直接安装了`Clash`都不行，最终强制使用``，完整的命令如下：
+这两天经历了奇怪的事情，就是`Arduino IDE`怎么配置都不走代理。我是在一个Windows 11的虚拟机中，刚开始直接系统级别配置成真机的代理地址，也把Arduino设置中的配置了，随后又直接安装了`Clash`都不行，最终强制使用`proxychains`，完整的命令如下：
 
 ```bash
 ./proxychains_win32_x64.exe -f proxychains.conf ../arduino-cli core install esp32:esp32@2.0.17
