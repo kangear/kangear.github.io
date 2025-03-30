@@ -14,4 +14,10 @@ typora-root-url: ../
 ./proxychains_win32_x64.exe -f proxychains.conf ../arduino-cli core install esp32:esp32@2.0.17
 ```
 
+配置文件
+```
+[ProxyList]
+socks5 192.168.1.177 7890
+```
+
 最终的配置是真机的代理地址，所以我觉得可能是新安装的Winddows虚拟机哪里没有配置好，导致一直不走代理。真机的代理还是没有问题的，但是直接在系统级设置也不走。`set`方式没有回头再设置，估计也能行。
