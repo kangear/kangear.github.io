@@ -9,6 +9,14 @@ typora-root-url: ../
 
 # 开始之前
 
+## 功能演示
+
+<video width="320" height="450" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/bf3f1ee681b967f6aacfdf4fcecee39d.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 确认配件是否齐全
+
 可以根据图片确认配件是否齐全 
 
 | ![](/assets/b02b9d0647ad2735a817d6a299c0a1d.jpg) |
