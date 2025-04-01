@@ -21,7 +21,7 @@ HomeSpan逼着把`ESP32库`升级，升级之后采用的是`IDF-5`，而`IRremo
 
 再次尝试把空调做出来，身边空调的遥控器背面型号为`YAP0F`，因为是型号是`格力`，很自然会打开一个`Gree`的例子来控制，结果控制无效。这次先使用`PulseViewer`来抓包，再结合[格力空调 YAPOF3 红外编码][1]以及[格力空调红外编码解析][2]，就决定改用`Kelvinator`的开空调Demo来测试，果然直接可以打开空调。
 
-```
+```cpp
 /* Copyright 2016, 2018 David Conran
 *
 * An IR LED circuit *MUST* be connected to the ESP8266 on a pin
