@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HomeSpan 空调"
+title:  "实现基于HomeKit的空调控制"
 date:   2024-11-03 12:00:00 +0800
 categories: cloud
 typora-copy-images-to: ../assets
