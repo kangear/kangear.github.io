@@ -14,9 +14,9 @@ typora-root-url: ../
 
 # 两个介绍
 
-[蓝牙 Mesh（SIG）][1]
-[Bluetooth mesh networking][2]
-[ESP-BLE-MESH][6]
+1. [蓝牙 Mesh（SIG）][1]
+2. [Bluetooth mesh networking][2]
+3. [ESP-BLE-MESH][6]
 
 # 调试工具
 
