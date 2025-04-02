@@ -16,6 +16,7 @@ typora-root-url: ../
 
 [蓝牙 Mesh（SIG）][1]
 [Bluetooth mesh networking][2]
+[ESP-BLE-MESH][6]
 
 # 调试工具
 
