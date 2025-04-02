@@ -31,6 +31,10 @@ mesh也有Nordic出的类似nRF Connect一样的调试工具，叫作[nRF Mesh][
 
 [ESP-BLE-MESH][6]，目前只有IDF版本，需要自行编译。
 
+# 小结
+
+其实还没有研究完，但是我觉得这会是一个漫长的过程，因为其中的术语很多。那我也阶段性做小结更新，mesh还可以涵盖一些运行不了Thread的蓝牙设备，由网关转换成HomeKit也会是一种形式的存在。但是Mesh似乎像是定格了一样，支持的设备种类并不多，不过也无关紧要。
+
 [1]: https://developer.tuya.com/cn/docs/app-development/sigmesh?id=Ka5vdjp2tlb23
 [2]: https://en.wikipedia.org/wiki/Bluetooth_mesh_networking
 [3]: https://www.nordicsemi.com/Products/Development-tools/nRF-Mesh
