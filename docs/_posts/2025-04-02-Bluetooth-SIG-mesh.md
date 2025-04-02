@@ -12,7 +12,7 @@ typora-root-url: ../
 
 如果找到了中立mesh，那么我这个“媒婆”又可以嫁接了，比如嫁接到HomeKit中。
 
-# 两个介绍
+# 几篇介绍
 
 1. [蓝牙 Mesh（SIG）][1]
 2. [Bluetooth mesh networking][2]
