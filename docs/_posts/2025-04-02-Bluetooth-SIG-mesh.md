@@ -27,15 +27,15 @@ mesh也有Nordic出的类似nRF Connect一样的调试工具，叫作[nRF Mesh][
 1. 手上有一个`SIG Mesh`的涂鸦彩灯，但是在`Provison`的时候报错，看来可能并不完全规范
 2. 想着使用ESP32轻易实现一个Mesh设备，结果发现没有那么容易，比如没有Arduino端的例子可用
 
-## 涂鸦设备
+## 1.涂鸦设备
 
 能搜索到，但是`Provison`的时候报错
 
-## ESP32 Mesh例子
+## 2.ESP32 Mesh例子
 
 [ESP-BLE-MESH][6]，目前只有IDF版本，需要自行编译。
 
-## 淘宝上购买成品
+## 3.淘宝上购买成品
 
 搜索出现的都是米家、涂鸦，有可能非标准的mesh。
 
