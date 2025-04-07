@@ -20,13 +20,52 @@ typora-root-url: ../
 
 # 配网流程
 
-| ![有帮助的截图](/assets/0450cf71df2b134490c55be082146aa.jpg) | ![有帮助的截图](/assets/2af4ce7a5c2f9d8d545d5edaa7639bf.jpg) | ![有帮助的截图](/assets/4d8065c835c32a00ea48c0c7abe5201.jpg) | ![有帮助的截图](/assets/2c75de776b1064cf6004fa926e3a70e.jpg) |
-| :------------: | :------------: | :------------: | :------------: |
-|  iPhone中会多一个WiFi热点`HomeSpan-Setup`  |  输入密码`homespan`连接    |  按`下箭头`打开WiFi弹窗*    |     *为设备选择`家里WiFi`，这里以`QWRT-2.4G`为例*          |
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
+  <tr>
+    <td style="text-align: center;">
+      <img src="/assets/0450cf71df2b134490c55be082146aa.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/2af4ce7a5c2f9d8d545d5edaa7639bf.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/4d8065c835c32a00ea48c0c7abe5201.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/2c75de776b1064cf6004fa926e3a70e.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">iPhone中会多一个WiFi热点<code>HomeSpan-Setup</code></td>
+    <td style="text-align: center;">输入密码<code>homespan</code>连接</td>
+    <td style="text-align: center;">按<code>下箭头</code>打开WiFi弹窗*</td>
+    <td style="text-align: center;">为设备选择<code>家里WiFi</code>，这里以<code>QWRT-2.4G</code>为例</td>
+  </tr>
+</table>
 
-| ![有帮助的截图](/assets/ed43cb786850765932d7bcb6ce1cfd2.jpg) | ![有帮助的截图](/assets/177d07c95dfc6af7d44488f322c696e.png) | ![有帮助的截图](/assets/4d8a5222ecda1cb52b8bb51f61bffaa.jpg) |![有帮助的截图](/assets/2e7b26586724e64d2bac8042152e081.jpg) |
-| :------------: | :------------: | :------------: | :------------: |
-|  填入`家里WiFi`的密码，并提交(SUBMIT)   |  等待设备连网...(大约30秒)   |    *保持为空，直接保存(SAVE Settings)*    |      *提示完成*   | 
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
+  <tr>
+    <td style="text-align: center;">
+      <img src="/assets/ed43cb786850765932d7bcb6ce1cfd2.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/177d07c95dfc6af7d44488f322c696e.png" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/4d8a5222ecda1cb52b8bb51f61bffaa.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/2e7b26586724e64d2bac8042152e081.jpg" alt="有帮助的截图" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">填入<code>家里WiFi</code>的密码，并提交(SUBMIT)</td>
+    <td style="text-align: center;">等待设备连网...(大约30秒)</td>
+    <td style="text-align: center;">保持为空，直接保存(SAVE Settings)</td>
+    <td style="text-align: center;">提示完成，等待界面自动跳回</td>
+  </tr>
+</table>
+
 
 说明：    
 1. 此时指示灯会`每秒慢闪两次`代表`连网成功，等添加到家庭`状态
@@ -42,14 +81,60 @@ typora-root-url: ../
 
 以下步骤需要**一气呵成**，中途不能中断切换App，否则会添加不成功，比如出现长时间停留在`连接中...`状态。如果你中途去找客服咨询了`设置代码`那么就说明一定是中断了，就需要`恢复出厂`从上一步开始，设置代码是固定的`4663 7726`。
 
-| ![有帮助的截图](/assets/fb41812deab0d36c92f432cedeeeb32.jpg) |![有帮助的截图](/assets/13bde97741334546e64593ec61ff82a.jpg) | ![有帮助的截图](/assets/b49043a0190c557b5c6236fec8d1c0a.jpg) | ![有帮助的截图](/assets/7cae940a751d817b6ab05cad42b8b72.jpg) | ![有帮助的截图](/assets/35140c818ffed06026eab2d5f2887ca.jpg) | 
-| :------------: | :------------: | :------------: | :------------: | :------------: |
-|          *打开家庭App*    |      *点击右上角+号*    |  *添加或扫描配件*    |     *选择 更多选项*          |     *选择 以实际为准*          |
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
+  <tr>
+    <td style="text-align: center;">
+      <img src="/assets/fb41812deab0d36c92f432cedeeeb32.jpg" alt="图1" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/13bde97741334546e64593ec61ff82a.jpg" alt="图2" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/b49043a0190c557b5c6236fec8d1c0a.jpg" alt="图3" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/7cae940a751d817b6ab05cad42b8b72.jpg" alt="图4" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/35140c818ffed06026eab2d5f2887ca.jpg" alt="图5" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">打开家庭 App</td>
+    <td style="text-align: center;">点击右上角 + 号</td>
+    <td style="text-align: center;">添加或扫描配件</td>
+    <td style="text-align: center;">选择更多选项</td>
+    <td style="text-align: center;">选择 Light（以实际为准）</td>
+  </tr>
+</table>
 
 
-| ![有帮助的截图](/assets/7d88f9fc7d5150eaf866990a28d7020.jpg) | ![有帮助的截图](/assets/146d812327b60b10c5e6fb8169558b0.jpg) | ![有帮助的截图](/assets/42ee7ba479d76aa52de513c84859537.jpg) | ![有帮助的截图](/assets/9a195f3b1310cee2b78d76a62399f8c.jpg) | ![有帮助的截图](/assets/cc975a7a83ba6b618c3d18610ac9d9b.jpg) |
-| :------------: | :------------: | :------------: | :------------: | :------------: |
-|          *选择仍然添加*    |      *输入设置代码*    |  *选择位置*    |     *选择 完成*          |     *完成*          |
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
+  <tr>
+    <td style="text-align: center;">
+      <img src="/assets/7d88f9fc7d5150eaf866990a28d7020.jpg" alt="图6" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/146d812327b60b10c5e6fb8169558b0.jpg" alt="图7" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/42ee7ba479d76aa52de513c84859537.jpg" alt="图8" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/9a195f3b1310cee2b78d76a62399f8c.jpg" alt="图9" style="width: 100%;" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/cc975a7a83ba6b618c3d18610ac9d9b.jpg" alt="图10" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">选择仍然添加</td>
+    <td style="text-align: center;">输入设置代码<code>4663 7726</code></td>
+    <td style="text-align: center;">选择位置</td>
+    <td style="text-align: center;">选择完成</td>
+    <td style="text-align: center;">完成</td>
+  </tr>
+</table>
 
 说明：    
 1. 此时指示灯会`常亮`代表`已加到家庭`状态
