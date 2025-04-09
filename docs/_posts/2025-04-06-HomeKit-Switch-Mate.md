@@ -11,15 +11,15 @@ typora-root-url: ../
 
 ## 功能演示
 
-<video width="320" height="480" controls>
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/bf3f1ee681b967f6aacfdf4fcecee39d.mp4#t=0.001" type="video/mp4">
 </video>
 
-<video width="320" height="480" controls>
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/48e2e0547e18cd1dfaac1dd9eee63f2d.mp4#t=0.001" type="video/mp4">
 </video>
 
-<video width="320" height="480" controls>
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/8022e8669bef343b33a2359bdc2bf63a.mp4#t=0.001" type="video/mp4">
 </video>
 
