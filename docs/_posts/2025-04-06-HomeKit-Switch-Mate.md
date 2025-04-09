@@ -25,7 +25,8 @@ typora-root-url: ../
 
 ## 确认配件是否齐全
 
-可以根据图片确认配件是否齐全 
+可以根据图片确认配件是否齐全
+
 | [<img src="/assets/b02b9d0647ad2735a817d6a299c0a1d.jpg" width="600"/>](/assets/b02b9d0647ad2735a817d6a299c0a1d.jpg)|
 | :------------: | 
 |          配件全家福    |
