@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HomeKit门铃伴侣使用说明"
+title:  "HomeKit门铃使用说明"
 date:   2025-03-06 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
