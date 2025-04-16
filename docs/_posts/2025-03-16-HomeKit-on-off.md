@@ -18,7 +18,7 @@ typora-root-url: ../
 
 # 更多应用
 
-1. 《[通断器秒用-iPad电量过低时自动充电][2]》
+1. 《[通断器秒用之iPad电量过低自动充电][2]》
 
 [1]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
 [2]: /a/2025/03/07/HomeKit-on-off-controller.html

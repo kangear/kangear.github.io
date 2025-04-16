@@ -17,6 +17,14 @@ typora-root-url: ../
 | :------------: | :------------: |
 |  家庭中将通断器命名为`充电通断器`  |  已经添加好的2个自动化  |
 
+# 连接方式
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/997_1744827928.mp4#t=0.001" type="video/mp4">
+</video>
+
+注意：不支持USB A口线，需要使用【USB A转C转接头】 + 【C口充电线】才可以。
+
 # 快捷指令-添加条件
 
 | ![](/assets/c04a50cc31bde75325f5db536922097.jpg) | ![](/assets/8a7ac2070ec77aeb091deb35c7c52cd.jpg) | ![](/assets/dd2537e057344a816df479d212ee500.jpg) | ![](/assets/5293714e72f183598bd1e1b621c0db6.jpg) | ![](/assets/486d63e6af55bef6db16a71aecac772.jpg) |
