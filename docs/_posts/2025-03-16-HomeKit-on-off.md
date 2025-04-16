@@ -7,16 +7,18 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-欢迎进到教程界面，想必你已经拿到的心仪的产品，点击以下图片可以进入对应产品教程。
+# 配置USB伴侣
 
-| [![](/assets/homekit_temp.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) |[![](/assets/homekit_usbswitch.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) | [![](/assets/homekit_xiaofangkuai.png)](/a/2025/03/21/HomeKit-Finger-Bot2.html) |
-| :------------: | :------------: | :-----------: |
-|  *温湿度计*  |  *通断器*   |  *手指机器人*    |
+参照《[HomeKit配件使用说明][2]》，配置的后半程`关键步骤`如下所示：
 
-| [![](/assets/homekit_dimmable_light.png)](/cloud/2024/11/15/HomeSpan-Light-Readme.html) |[![](/assets/homekit_doorbell.png)](/a/2025/03/06/HomeKit-Doorbell.html) | [![](/assets/homekit_finger.png)](/a/2025/02/17/HomeKit-Elevator.html) |
-| :------------: | :------------: | :------------: |
-|  *无级调光灯*   |  *门铃*  |  *懒人开关*    |
+| ![](/assets/22d7e703edf86d4c0ded7758fd0cc83.png) | ![](/assets/b525983474a4d0cbee09db4b312c01d.png) | ![](/assets/7f65c6c3f2bd2a43d9b8020d2ae04bf.png) | ![](/assets/2e88a5887c0f01e52b88e086b0c4f22.png) |
+| :-----: | :------: | :-------: |:-----: |
+|  1  | 2   |  3   | 4   |
 
 
+# 更多应用
+
+1. 《[通断器秒用-iPad电量过低时自动充电][2]》
 
 [1]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
+[2]: /a/2025/03/07/HomeKit-on-off-controller.html
