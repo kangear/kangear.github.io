@@ -74,5 +74,11 @@ typora-root-url: ../
 </video>
 
 
+## 更新电池
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/4b690b41c6ebafaf9f2dafebbd2d8383.mp4#t=0.001" type="video/mp4">
+</video>
+
 [1]: https://kangear.github.io/a/2025/02/12/HomeKit-Device-List
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
