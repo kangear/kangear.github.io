@@ -80,5 +80,13 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/4b690b41c6ebafaf9f2dafebbd2d8383.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 充电
+
+不支持`双C口`充电，需要使用随机附送的`A转C口`充电。充电时红色指示灯亮，充满时蓝色指示灯亮。
+
+| [<img src="/assets/19b21ab12adf320251c26339a3a8b55.jpg" width="300"/>](/assets/19b21ab12adf320251c26339a3a8b55.jpg)|
+| :------------: |
+|  不支持双C口充电  |
+
 [1]: https://kangear.github.io/a/2025/02/12/HomeKit-Device-List
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
