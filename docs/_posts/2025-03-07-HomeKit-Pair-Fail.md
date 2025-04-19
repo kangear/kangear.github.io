@@ -7,11 +7,15 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
+<link rel="stylesheet" type="text/css" href="../auto-number-title.css" />
+
+# HomeKit USB伴侣配网添加不成功？
+
 HomeKit USB伴侣成功连网使用细分为三步，连上WiFi、家庭App添加、家庭App控制成功，现在分别以不同阶段来分析问题。
 
-# 连接WiFi阶段
+## 连接WiFi阶段
 
-## 未自动弹出WiFi配置界面
+### 未自动弹出WiFi配置界面
 
 iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名字和密码的界面，需要点击WiFi感叹号，开启[自动登录]。
 
@@ -34,7 +38,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
   </tr>
 </table>
 
-## 搜索不到WiFi
+### 搜索不到WiFi
 
 1. WiFi路由器需要开启2.4G WiFi热点
 2. 如果使用iPhone热点作为WiFi，则需要开启【最大兼容性】
@@ -58,7 +62,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
   </tr>
 </table>
 
-## 连不上WiFi
+### 连不上WiFi
 
 1. 密码错误，需要改为正确密码再次尝试
 2. WiFi路由器的【无线模式】由`802.11ax(WiFi6)`改为`WiFi4/5(传统模式)`
@@ -84,11 +88,11 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
   </tr>
 </table>
 
-# 家庭App添加阶段
+## 家庭App添加阶段
 
 家庭App添加不成功的话，一般是会是连接的WiFi是`访客网络`，iPhone和USB伴侣无法通过局域网通信导致，一般商场公共网络会有这种情况，或者家用路由器但是设置了隔离模式。
 
-## 无法连接配件
+### 无法连接配件
 
 现象如下图所示，解决方法是：iPhone的**WiFi关闭再打开**，重新添加即可。
 
@@ -115,7 +119,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
   </tr>
 </table>
 
-## 设备代码不正确
+### 设备代码不正确
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
   <tr>
@@ -138,25 +142,25 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 可以进行`恢复出厂设置`来解决。
 
-## 正在连接...
+### 正在连接...
 
 如果卡在这里超时30秒，则需要通过`恢复出厂设置`来解决。
 
-# 家庭App控制阶段
+## 家庭App控制阶段
 
 家庭App控制不成功，添加上直接就是 未响应，一般也是隔离导致。
 
-## 第一次就【未响应】
+### 第一次就【未响应】
 
 1. 连接的WiFi热点为Ap桥接导致
 
-## 一段时间后【未响应】
+### 一段时间后【未响应】
 
 1. USB配件未开机导致
 2. USB配件连接Android手机热点导致
 3. 
 
-## 转圈
+### 转圈
 
 1. USB配件距离路由器较远，信号较差
 2. USB配件在金属内，比如电梯、铁棚
