@@ -117,24 +117,26 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 ### 2.2设备代码不正确
 
-<table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/微信图片编辑_20250314221104.jpg" alt="截图1" style="width: 100%;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/微信图片编辑_20250314221104.jpg" alt="截图2" style="width: 100%;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/微信截图_20250322121548.png" alt="截图3" style="width: 100%;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">简体中文版</td>
-    <td style="text-align: center;">英文版</td>
-    <td style="text-align: center;">正在连接...</td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/微信图片编辑_20250314221104.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">简体中文版1</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/微信图片编辑_20250314221104.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">英文版</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/微信截图_20250322121548.png" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">正在连接...</div>
+  </div>
+</div>
 
 可以进行`恢复出厂设置`来解决。
 
