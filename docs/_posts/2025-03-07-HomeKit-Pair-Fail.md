@@ -126,7 +126,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 </div>
 
 
-### 2.2设备代码不正确
+### 2.2设置代码不正确
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
