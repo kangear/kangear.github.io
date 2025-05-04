@@ -163,10 +163,32 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 家庭App控制不成功，添加上直接就是 未响应，一般也是隔离导致。
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/44fff0eaa45813bc2766b1c0998fa08.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">升级家庭底层架构</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/44fff0eaa45813bc2766b1c0998fa08.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">升级家庭底层架构</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/44fff0eaa45813bc2766b1c0998fa08.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">升级家庭底层架构</div>
+  </div>
+</div>
+
 ### 3.1第一次就【未响应】
 
 1. 连接的WiFi热点为Ap桥接导致
 2. 配件没有和中枢(HomePod、Apple TV)同一个WiFi名下，中枢访问不到该配件导致。可以`新建空家庭`添加来验证
+3. 根据提示【升级家庭底层架构】进行升级操作
 
 ### 3.2一段时间后【未响应】
 
@@ -178,3 +200,4 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 1. USB配件距离路由器较远，信号较差
 2. USB配件在金属内，比如电梯、铁棚
+
