@@ -14,6 +14,10 @@ typora-root-url: ../
 ## 功能演示
 
 <video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/950d211ae4f89d24f43c4f9e7a0d5a98.mp4#t=0.001" type="video/mp4">
+</video>
+
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/c9e28578e28270895f62d71d1ef819fa.mp4#t=0.001" type="video/mp4">
 </video>
 
