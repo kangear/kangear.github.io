@@ -19,7 +19,7 @@ typora-root-url: ../
 
 ## 确认配件齐全
 
-| [<img src="/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg" width="600"/>](/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg)|
+| [<img src="/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg" width="300"/>](/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg)|
 | :------------: | 
 |          配件全家福    |
 
@@ -47,6 +47,14 @@ typora-root-url: ../
     <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
   </div>
 </div>
+
+# 识别空调型号
+
+需要借助原空调遥控器来实现，用遥控器对着空调伴侣按开关机，连续10次左右，这时可以通过手机尝试控制开关空调，调整温度如果能正常控制则说明已经识别到。
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/41b4c07e0e008fee82567c3e318f8a8d.mp4#t=0.001" type="video/mp4">
+</video>
 
 # 更多设置
 
