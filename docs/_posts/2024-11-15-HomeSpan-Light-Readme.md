@@ -52,7 +52,7 @@ typora-root-url: ../
       <img src="/assets/177d07c95dfc6af7d44488f322c696e.png" alt="有帮助的截图" style="width: 100%;" />
     </td>
     <td style="text-align: center;">
-      <img src="/assets/4d8a5222ecda1cb52b8bb51f61bffaa.jpg" alt="有帮助的截图" style="width: 100%;" />
+      <img src="/assets/bb731c8c7288d89776963b86065934e.jpg" alt="有帮助的截图" style="width: 100%;" />
     </td>
     <td style="text-align: center;">
       <img src="/assets/2e7b26586724e64d2bac8042152e081.jpg" alt="有帮助的截图" style="width: 100%;" />
@@ -61,7 +61,7 @@ typora-root-url: ../
   <tr>
     <td style="text-align: center;">填入<code>家里WiFi</code>的密码，并提交(SUBMIT)</td>
     <td style="text-align: center;">等待设备连网...(大约30秒)</td>
-    <td style="text-align: center;">保持为空，直接保存(SAVE Settings)</td>
+    <td style="text-align: center;">输入<code>46637726</code>并保存(SAVE Settings)</td>
     <td style="text-align: center;">提示完成，等待界面自动跳回</td>
   </tr>
 </table>
