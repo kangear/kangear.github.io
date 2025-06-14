@@ -87,9 +87,9 @@ typora-root-url: ../
 
 目前猜测是语言习惯原因，Siri可以很好处理[Siri，关闭空调]关闭指令，我们常说的[Siri，打开空调]并不好使，通过测试说成[Siri，将空调设置为制冷]。
 
-# 學習
+# 拷贝&学习
 
-對於無法支持的空調，空調伴侶上添加了一個學習(Copy)功能，可以Copy原空調遙控器的信號并記錄下來，可以在Home App中使用開關來控制空調的開和關。
+对于无法支持的空调，空调伴侣上添加了一个学习(Copy)功能，可以Copy原空调遥控器的信号并记录下来，可以在Home App中使用开关来控制空调的开和关。
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1c1ac74db93a3617b5c3cf043a1381b4.mp4#t=0.001" type="video/mp4">
