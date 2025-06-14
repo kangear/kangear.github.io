@@ -97,11 +97,12 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 ### 2.0 一直转圈不出现设备
 
 | [<img src="/assets/50e37be22d6a8943a7dafd2890fa21b.jpg" width="300"/>](/assets/50e37be22d6a8943a7dafd2890fa21b.jpg)|
-| :------------: | 
-|          配件全家福    |
+| :------------: |
+|          一直转圈    |
 
 1. 手机没有连接WiFi，或者和【被添加设备】不是同一个WiFi名
 2. 家中有两个中枢AppleTV和HomePod，其中AppleTV没有开机（真实用户实例）
+3. 确保家中路由器管理App中可以查看到名为`ESP32`开头的设备正常连接上
 
 ### 2.1无法连接配件
 
@@ -162,7 +163,40 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 ### 2.3正在连接...
 
-如果卡在这里超时30秒，则需要通过`恢复出厂设置`来解决。
+| [<img src="/assets/微信截图_20250615030953.png" width="300"/>](/assets/微信截图_20250615030953.png)|
+|  :------------: | 
+|          这可能需要一些时间    |
+
+1. 注意图片上已有提示`中枢无响应`，要么无中枢，要么就保证中枢不出现无响应。中枢是家庭中的`管家`，在添加新配件时需要保证`管家`知情，删除配件也是如此。
+2. 如果卡在这里超时30秒，则需要通过`恢复出厂设置`来解决。
+3. 使用`Discovery-DNS-SD Browser`App扫描局域网中的所有HomeKit设备来定位问题
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 25%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/e06ff9787989a3a09d51c290287c62f.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">AppStore中下载该App</div>
+  </div>
+  <div style="width: 25%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/3613b86cc1f9ff9dac903b7bb70660c.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
+  </div>
+  <div style="width: 25%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/cef5c7955144584aba44a0ef595d7a5.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
+  </div>
+    <div style="width: 25%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/9abe4f0da3ea56c4d9c7702802e775c.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">湿度计例子</div>
+  </div>
+</div>
 
 ### 2.4选错设备
 
