@@ -95,12 +95,18 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1c1ac74db93a3617b5c3cf043a1381b4.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 支持列表
+# 实测列表
 
-| 编号   | 空调型号                          | 遥控器型号      | HXD索引  | IRRemoteESP8266  |
-| :---:  | :---------------------------:    | :-------:      | :---: | :---: |
-| 1      | 格力-悦雅[`KF-72LW/(72391)NhAa-3`]  | YAP0F          | 0x033E   | KELVINATOR(18)   |
-| 2      | 美的-高能星[`KF-23GW/Y-IA(R3)`]    |  -               | 0x03F8 | COOLIX(15)       |
-| 3      | 美的-酷省电[`-`]                    | -              | -        | BOSCH144(15)   |
+采用的码库都说是`全空调`支持，以下根据买家反馈的实测表
+
+| 编号| 空调型号                        | 遥控器型号      | HXD索引  | IRRemoteESP8266  |
+| :-:| :---------------------------    | :-------:      | :---:    | :---: |
+| 1  | 格力-悦雅[`KF-72LW`]             | YAP0F          | 0x033E   | KELVINATOR(18)   |
+| 2  | 美的-高能星[`KF-23GW/Y-IA(R3)`]  |  -             | 0x03F8   | COOLIX(15)       |
+| 3  | 美的-酷省电[`-`]                 | RN10L5(B2HS)/BG| -        | BOSCH144(15)   |
+| 4  | 飞歌PHILCO[`-`]                    |  YB1FA5       | -       | -  |
+| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| -   | -  |
+| 6  | 格力-清新风 [`KFR-120LW`]       |  -       | -        | -  |
+| 7  | 格力-轻柔风 [`KFR-35GW`]                  | YAP0F20    | -        | -  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
