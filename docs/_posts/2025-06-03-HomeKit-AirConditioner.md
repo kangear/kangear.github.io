@@ -95,5 +95,12 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1c1ac74db93a3617b5c3cf043a1381b4.mp4#t=0.001" type="video/mp4">
 </video>
 
+# 支持列表
+
+| 编号   | 空调型号                          | 遥控器型号      | HXD索引  | IRRemoteESP8266  |
+| :---:  | :---------------------------:    | :-------:      | :---: | :---: |
+| 1      | 格力-悦雅[`KF-72LW/(72391)NhAa-3`]  | YAP0F          | 0x033E   | KELVINATOR(18)   |
+| 2      | 美的-高能星[`KF-23GW/Y-IA(R3)`]    |  -               | 0x03F8 | COOLIX(15)       |
+| 3      | 美的-酷省电[`-`]                    | -              | -        | BOSCH144(15)   |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
