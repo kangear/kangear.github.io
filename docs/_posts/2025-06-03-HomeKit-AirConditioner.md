@@ -109,6 +109,6 @@ typora-root-url: ../
 | 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        | -  |
 | 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | -        | -  |
 | 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        | -  |
-| 9  | 美的-智弧 [`-`]                  | RN10LB(B2HS)BG | -        | -  |
+| 9  | 美的-智弧 [`KFR-26GW/N8MJA3`]    | RN10LB(B2HS)BG | -        | -  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
