@@ -110,5 +110,6 @@ typora-root-url: ../
 | 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | -        | -  |
 | 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        | -  |
 | 9  | 美的-智弧 [`KFR-26GW/N8MJA3`]    | RN10LB(B2HS)/BG | -        | -  |
+| 10 | TCL [`-`]                       | TCL(细长白色)   | -        | TCL112AC  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
