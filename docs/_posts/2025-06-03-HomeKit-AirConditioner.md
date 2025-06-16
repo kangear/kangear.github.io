@@ -108,6 +108,7 @@ typora-root-url: ../
 | 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| - | -  |
 | 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        | -  |
 | 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | -        | -  |
-| 7  | 格力-冷静王II [`-`]              | YAP0FB3        | -        | -  |
+| 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        | -  |
+| 9  | 美的-智弧 [`-`]                  | RN10LB(B2HS)BG | -        | -  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
