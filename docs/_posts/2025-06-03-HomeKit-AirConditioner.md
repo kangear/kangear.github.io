@@ -56,8 +56,16 @@ typora-root-url: ../
 
 需要借助原空调遥控器来实现，用遥控器对着空调伴侣按开关机，连续10次左右，这时可以通过手机尝试控制开关空调，调整温度如果能正常控制则说明已经识别到。
 
+## 标准款
+
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/41b4c07e0e008fee82567c3e318f8a8d.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 升级款
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/2ebfc5b0ef8fa7a265d58b9218baa323.mp4#t=0.001" type="video/mp4">
 </video>
 
 # 更多设置
