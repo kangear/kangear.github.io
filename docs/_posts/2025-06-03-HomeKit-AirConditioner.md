@@ -112,14 +112,19 @@ typora-root-url: ../
 | 1  | 格力-悦雅[`KF-72LW`]             | YAP0F          | 0x033E   | KELVINATOR(18)   | -  |
 | 2  | 美的-高能星[`KF-23GW/Y-IA(R3)`]  |  -             | 0x03F8   | COOLIX(15)       | -  |
 | 3  | 美的-酷省电[`-`]                 | RN10L5(B2HS)/BG| -        | BOSCH144(15)     | -  |
-| 4  | 飞歌PHILCO[`-`]                  |  YB1FA5       | -         |               -  | -  |
-| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| - | -  | 三菱重工22 |
+| 4  | 飞歌PHILCO[`-`]                  |  YB1FA5       | -         |      YES        | -  |
+| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| YES | -  | 三菱重工22 |
 | 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        |               -  | -  |
-| 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | -        |               -  | -  |
+| 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | YES      | 屏显X             | -  |
 | 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        |               -  | -  |
 | 9  | 美的-智弧 [`KFR-26GW/N8MJA3`]    | RN10LB(B2HS)/BG | -        |              -  | -  |
 | 10 | TCL [`KFRd-26GW`]               | TCL(细长白色)   | -        |        TCL112AC  | -  |
 | 11 | 美的-冷静星 [`KF-51LW/Y-PA400(D3)`] | RN08CA/BG    | -        |     COOLIX(15)  | -  |
 | 12 | 美的 [`-`]                       | RN02A/BG       | -        |              -  | -  |
+| 13 | 约克 [`YGCC-OF/VRF`]             | YGCC           | 关X      |     NO          | -  |
+| 14 | 松下 [`窗机`]                    | ACXA75C21270    | 调温/关闭X |     -           | -  |
+| 15 | 美的[``]                         | Y502K          | YES       |     -           | -  |
+| 16 | 美的-酷风风管机[`KFR-100T2W`]     | RN10J2(B2H)/BG-K| YES     |   -           | -  |
+| 17 | 格力-凉之静[`KFR-26GW`]          | YB0FB2          | YES      |   -           | -  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
