@@ -126,5 +126,7 @@ typora-root-url: ../
 | 15 | 美的[``]                         | Y502K          | YES       |     -           | -  |
 | 16 | 美的-酷风风管机[`KFR-100T2W`]     | RN10J2(B2H)/BG-K| YES     |   -           | -  |
 | 17 | 格力-凉之静[`KFR-26GW`]          | YB0FB2          | YES      |   -           | -  |
+| 18 | 松下[`KFR-52LW` `CS-JE18FL1N`]   | -              | YES      |   -           | -  |
+| 18 | 美的[``]                         | RN51F/BG       | YES      |   -           | -  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
