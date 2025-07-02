@@ -31,6 +31,20 @@ mac_addr: "11:22:33:44:55:66"
 
 # 高级
 
+## 过滤topic
+
+```
+__topic__:"B0:81:84:B4:F7:50"
+```
+
+## 过滤日志内容
+
+```
+__topic__:"B0:81:84:B4:F7:50" and "MotoTask feeding order"
+```
+
+## 其它尝试
+
 invalid query: line 1:10: function regex is not supported
 invalid query: line 4:12: function to_int is not supported
 syntax error error position is from column:10 to column:12,error near < r' >
