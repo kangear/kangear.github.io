@@ -127,6 +127,8 @@ typora-root-url: ../
 | 16 | 美的-酷风风管机[`KFR-100T2W`]     | RN10J2(B2H)/BG-K| YES     |   -           | -  |
 | 17 | 格力-凉之静[`KFR-26GW`]          | YB0FB2           | YES      |   -           | -  |
 | 18 | 松下[`KFR-52LW` `CS-JE18FL1N`]   | -               | YES      |   -           | -  |
-| 18 | 美的[``]                         | RN51F/BG        | YES      |   -           | -  |
+| 19 | 美的[``]                         | RN51F/BG        | YES      |   -           | -  |
+| 20 | AUX-省电侠[``]                   | YKR-Q/051-AF     | YES      |   -           | -  |
+| 21 | 三菱机电-雾之峰[`MSZ-GV2223-W`]| ACH221 344E    | YES      |   -           | ID:2997(1/45)  |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
