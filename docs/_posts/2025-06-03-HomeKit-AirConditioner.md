@@ -131,4 +131,13 @@ typora-root-url: ../
 | 20 | AUX-省电侠[``]                   | YKR-Q/051-AF     | YES      |   -           | -  |
 | 21 | 三菱机电-雾之峰[`MSZ-GV2223-W`]    | ACH221 344E     | YES       |   - | ID:2997(1/45)  |
 | 22 | AUX[``]                         | YKR-H/009       | 等反馈      |   -           | -  |
+
+
+
+
+
+
+
+
+
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
