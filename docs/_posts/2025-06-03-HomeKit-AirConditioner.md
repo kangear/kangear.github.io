@@ -129,6 +129,6 @@ typora-root-url: ../
 | 18 | 松下[`KFR-52LW` `CS-JE18FL1N`]   | -               | YES      |   -           | -  |
 | 19 | 美的[``]                         | RN51F/BG        | YES      |   -           | -  |
 | 20 | AUX-省电侠[``]                   | YKR-Q/051-AF     | YES      |   -           | -  |
-| 21 | 三菱机电-雾之峰[`MSZ-GV2223-W`]| ACH221 344E    | YES      |   -           | ID:2997(1/45)  |
-
+| 21 | 三菱机电-雾之峰[`MSZ-GV2223-W`]    | ACH221 344E     | YES       |   - | ID:2997(1/45)  |
+| 22 | AUX[``]                         | YKR-H/009       | 等反馈      |   -           | -  |
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
