@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "HomeKit空调伴侣说明书"
-date:   2025-06-03 10:00:00 +0800
+title:  "HomeKit空调伴侣"
+date:   2025-06-03 08:10:00 +0800
 categories: a
 typora-copy-images-to: ../assets
 typora-root-url: ../
@@ -56,14 +56,6 @@ typora-root-url: ../
 
 需要借助原空调遥控器来实现，用遥控器对着空调伴侣按开关机，连续10次左右，这时可以通过手机尝试控制开关空调，调整温度如果能正常控制则说明已经识别到。
 
-## 标准款
-
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/41b4c07e0e008fee82567c3e318f8a8d.mp4#t=0.001" type="video/mp4">
-</video>
-
-## 升级款
-
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/2ebfc5b0ef8fa7a265d58b9218baa323.mp4#t=0.001" type="video/mp4">
 </video>
@@ -94,53 +86,6 @@ typora-root-url: ../
 # 语音控制
 
 目前猜测是语言习惯原因，Siri可以很好处理[Siri，关闭空调]关闭指令，我们常说的[Siri，打开空调]并不好使，通过测试说成[Siri，将空调设置为制冷]。
-
-# 拷贝&学习
-
-对于无法支持的空调，空调伴侣上添加了一个学习(Copy)功能，可以Copy原空调遥控器的信号并记录下来，可以在Home App中使用开关来控制空调的开和关。
-
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1c1ac74db93a3617b5c3cf043a1381b4.mp4#t=0.001" type="video/mp4">
-</video>
-
-# 实测列表
-
-采用的码库都说是`全空调`支持，以下根据买家反馈的实测表
-
-| 编号| 空调型号                        | 遥控器型号      | HXD索引  | IRRemoteESP8266  | 米家 |
-| :---:| :---------------------------  | :-------       | :-----   | :--------------- | :--------------- |
-| 1  | 格力-悦雅[`KF-72LW`]             | YAP0F          | 0x033E   | KELVINATOR(18)   | -  |
-| 2  | 美的-高能星[`KF-23GW/Y-IA(R3)`]  |  -             | 0x03F8   | COOLIX(15)       | -  |
-| 3  | 美的-酷省电[`-`]                 | RN10L5(B2HS)/BG| -        | BOSCH144(15)     | -  |
-| 4  | 飞歌PHILCO[`-`]                  |  YB1FA5       | -         |      YES        | -  |
-| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| YES | -  | 三菱重工22 |
-| 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        |               -  | -  |
-| 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | YES      | 屏显X             | -  |
-| 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        |               -  | -  |
-| 9  | 美的-智弧 [`KFR-26GW/N8MJA3`]    | RN10LB(B2HS)/BG | -        |              -  | -  |
-| 10 | TCL [`KFRd-26GW`]               | TCL(细长白色)   | -        |        TCL112AC  | -  |
-| 11 | 美的-冷静星 [`KF-51LW/Y-PA400(D3)`] | RN08CA/BG    | -        |     COOLIX(15)  | -  |
-| 12 | 美的 [`-`]                       | RN02A/BG       | -        |              -  | -  |
-| 13 | 约克 [`YGCC-OF/VRF`]             | YGCC           | 关X      |     NO          | -  |
-| 14 | 松下 [`窗机`]                    | ACXA75C21270    | YES     |     -           | -  |
-| 15 | 美的[``]                         | Y502K           | YES     |     -           | -  |
-| 16 | 美的-酷风风管机[`KFR-100T2W`]     | RN10J2(B2H)/BG-K| YES     |   -           | -  |
-| 17 | 格力-凉之静[`KFR-26GW`]          | YB0FB2           | YES      |   -           | -  |
-| 18 | 松下[`KFR-52LW` `CS-JE18FL1N`]   | -               | YES      |   -           | -  |
-| 19 | 美的[``]                         | RN51F/BG        | YES      |   -           | -  |
-| 20 | AUX-省电侠[``]                   | YKR-Q/051-AF    | YES      |   -           | -  |
-| 21 | 三菱机电-雾之峰[`MSZ-GV2223-W`]    | ACH221 344E    | YES       |   - | ID:2997(1/45)  |
-| 22 | AUX[``]                         | YKR-H/009        | 等反馈      |   -           | -  |
-| 23 | 格力-润仕[``]                    | YAP0FB2         | 定向导风   |   -          | -  |
-| 24 | 格力[`KRF-35GW`]                | YAP0F3           | YES        |   -          | -  |
-| 25 | 东元[`TECO`]                    | TECO             | 等反馈     |   -          | -  |
-| 26 | 三菱重工-菱重[`AIRUS`]           | GYKQ-89(05)      | 等反馈     |   -          | -  |
- 
-
-
-
-
-
 
 
 
