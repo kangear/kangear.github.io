@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HomeKit空调伴侣"
-date:   2025-06-03 08:10:00 +0800
+date:   2025-07-08 08:10:00 +0800
 categories: a
 typora-copy-images-to: ../assets
 typora-root-url: ../
