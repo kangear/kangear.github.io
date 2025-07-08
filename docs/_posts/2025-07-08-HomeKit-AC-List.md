@@ -39,6 +39,7 @@ typora-root-url: ../
 | 24 | 格力[`KRF-35GW`]                | YAP0F3           | YES        |   -          | -  |
 | 25 | 东元[`TECO`]                    | TECO             | 等反馈     |   -          | -  |
 | 26 | 三菱重工-菱重[`AIRUS`]           | GYKQ-89(05)      | 等反馈     |   -          | -  |
+| 27 | AUX[``]                         | YKR-T/011       | YES        |   -          | -  |
  
 
 
