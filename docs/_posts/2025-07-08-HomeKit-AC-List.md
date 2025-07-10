@@ -40,6 +40,7 @@ typora-root-url: ../
 | 25 | 东元[`TECO`]                    | TECO             | 等反馈     |   -          | -  |
 | 26 | 三菱重工-菱重[`AIRUS`]           | GYKQ-89(05)      | 等反馈     |   -          | -  |
 | 27 | AUX[``]                         | YKR-T/011       | YES        |   -          | -  |
+| 28 | AUX[``]                         | YKR-H/801       | YES        |   -           | -  |
  
 
 
