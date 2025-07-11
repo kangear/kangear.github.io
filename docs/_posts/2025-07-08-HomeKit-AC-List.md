@@ -43,6 +43,7 @@ typora-root-url: ../
 | 28 | AUX[``]                         | YKR-H/801       | YES        |   -           | -  |
 | 29 | 海信[``]                        | RCH-RSY1-1       | YES        |   -           | -  |
 | 30 | 大金                            | ARC480A32       | 待反馈        |   -           | -  |
+| 31 | 美的中央空调                     | RN10L2(B2HS)/BG | YES         |   -           | -  |
  
 
 

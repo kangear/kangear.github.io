@@ -38,10 +38,17 @@ typora-root-url: ../
 
 # 充电
 
-如果`双C口`不支持充电，可以更换为`普通方形A口充电线`，充电效果如视频所示。指示灯闪烁代表充电中，指示灯常亮代表已充满。
+该设备不支持快充，需要使用USB-A口转C口线插到USB伴侣尾部进行充电，如果指示灯不显示，可以按下指示灯旁边的按键。
+
+## 指示灯说明
+
+```
+闪烁：充电中
+常亮：已充满
+```
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/C97DA3B636DD47AFB4E0144F25048552.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1053_1752255284.mp4#t=0.001" type="video/mp4">
 </video>
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
