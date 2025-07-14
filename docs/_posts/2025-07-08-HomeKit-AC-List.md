@@ -51,5 +51,91 @@ typora-root-url: ../
 
 
 
+## A库支持表
+
+| 中文名           | 英文名              |备注             |
+|------------------|--------------------|-----------------|
+| 美的             | Midea               |                 |
+| 东芝             | Toshiba             |                 |
+| 海尔             | Haier               |                 |
+| 格力             | Gree                |                 |
+| 志高             | Chigo               |                 |
+| 奥克斯           | AUX                 |                 |
+| 春兰             | Chunlan             |                 |
+| LG              | LG                  |                 |
+| TCL             | TCL                 |                 |
+| 三星             | Samsung             |                 |
+| 三洋             | Sanyo               |                 |
+| 三菱重工         | MITSUBISHI heavy    |                 |
+| 三菱电机         | MITSUBISHI motor    |                 |
+| 长虹             | Changhong           |                 |
+| 松下             | Panasonic           |                 |
+| 乐声             | Sound of music      |                 |
+| 内田             | Uchida              |                 |
+| 海信             | Hisense             |                 |
+| 新科             | Shinco              |                 |
+| 日立             | Hitachi             |                 |
+| 华凌             | Hualing             |                 |
+| 科龙             | Kelon               |                 |
+| 蓝波             | Blue Wave           |                 |
+| 玉兔             | Rabbit              |                 |
+| 开利             | Carrier             |                 |
+| 东宝             | Toho                |                 |
+| 高路华           | Gaoluhua            |                 |
+| 澳柯玛           | Aucma               |                 |
+| 扬子             | YAIR                |                 |
+| 惠而浦           | Whirlpool           |                 |
+| 大金             | Daikin              |                 |
+| 伊莱克斯         | Electrolux          |                 |
+| 熊猫             | Panda               |                 |
+| 上凌             | Ling on             |                 |
+| 天元             | Tianyuan            |                 |
+| 格兰仕           | Galanz              |                 |
+| 乐华             | ROWA                |                 |
+| 富士通           | Fujitsu             |                 |
+| 约克             | York                |                 |
+| 麦克维尔         | McQuay              |                 |
+| 三垦             | sanken              |                 |
+| 宝立创           | polytron            |                 |
+| 夏普             | SHARP               |                 |
+| 镇堡             | ZHEN BAO            |                 |
+| 万宝             | WANBAO              |                 |
+| 樱花             | YINGHUA             |                 |
+| 康佳             | Konka               |                 |
+| SKG             | SKG                 |                 |
+| 上菱             | S-Ling              |                 |
+| 绅宝             | Shenbao             |                 |
+| 新迎燕           | Xinyingyan          |                 |
+| 夏洋             | Xiayang             |                 |
+| 西冷             | Serene              |                 |
+| 樱花电器         | Cheblo              |                 |
+| 小米             | MI                  |                 |
+| 银燕             | YINYAN              |                 |
+| 创维             | Skyworth            |                 |
+| 深松             | Pastamic            |                 |
+| 海林             | HaiLin              |                 |
+| MAVELL          | MAVELL              |                 |
+| 泰阳             | Taiyang             |                 |
+| VINO            | VINO                |                 |
+| 米家             | MI JIA              |                 |
+| 深宝             | ZYMBO               |                 |
+| 三菱重工海尔     | MITSUBISHI Haier    |                 |
+| 欧科             | EK                  |                 |
+| 高美             | COLD MAGIC          |                 |
+| GCHV            | GCHV                |                 |
+| 汤姆森           | Thomson             |                 |
+| 中广欧特斯       | OUTES               |                 |
+| 酷风             | KUFENG              |                 |
+| 乐京             | Lejn                |                 |
+| COLMO           | COLMO               |                 |
+| 山水             | SANSUI              |                 |
+| 夏宝             | SHARBO              |                 |
+| 海普             | haipu               |                 |
+| 国美             | GOME                |                 |
+| 苏宁极物         | JIWU                |                 |
+| 华蒜             | HUTIIOM             |                 |
+| 和山             | HESHAN              |                 |
+
+
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
