@@ -48,7 +48,7 @@ typora-root-url: ../
 | 33 | 大金                             | ARC423A5        | 待反馈      |   -           | -  |
 | 34 | 科龙                             | DG11J1-02(DF)   | YES        |   -           | -  |
 | 35 | 美的                             | RN08U1/BG       | YES        |   -           | -  |
-
+| 36 | 东芝(Toshiba)                    | WC-L03SE        | YES        |   -           | -  |
 
 
 ## A库支持表
