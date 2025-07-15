@@ -11,13 +11,13 @@ typora-root-url: ../
 
 采用的码库都说是`全空调`支持，以下根据买家反馈的实测表
 
-| 编号| 空调型号                        | 遥控器型号      | A码库  | B码库  | 米家 |
+| 编号| 空调型号                        | 遥控器型号      | A码库  | B码库  | 备注 |
 | :---:| :---------------------------  | :-------       | :-----   | :--- | :---- |
 | 1  | 格力-悦雅[`KF-72LW`]             | YAP0F          | 0x033E   | KELVINATOR(18)   | -  |
 | 2  | 美的-高能星[`KF-23GW/Y-IA(R3)`]  |  -             | YES      | COOLIX(15)       | -  |
 | 3  | 美的-酷省电[`-`]                 | RN10L5(B2HS)/BG| -        | BOSCH144(15)     | -  |
 | 4  | 飞歌PHILCO[`-`]                  |  YB1FA5       | -         |      YES        | -  |
-| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| YES | -  | 三菱重工22 |
+| 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| YES | -  | 米家三菱重工22 |
 | 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        |               -  | -  |
 | 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | YES      | 屏显X             | -  |
 | 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        |               -  | -  |
@@ -50,7 +50,10 @@ typora-root-url: ../
 | 35 | 美的                             | RN08U1/BG       | YES        |   -           | -  |
 | 36 | 东芝(Toshiba)                    | WC-L03SE        | YES        |   -           | -  |
 | 37 | 大金(Daikin)                     | ARC433A75       | YES        |   -           | -  |
-
+| 38 | 大金(Daikin)                     | ARC433B69       | 待反馈      |   -           | -  |
+| 39 | 三菱电机-柜机(MFZ-XD50XA)         | -   | A NO B YES（ON/OFF toggle）|  -   | 绿米2565  |
+| 40 | 三菱电机(MSH-FD09VC)              | -            | 待反馈 |  -   | -  |
+| 41 | 日立(Hitachi)                     | RE0T1          | 待反馈      |  -            | -  |
 
 ## A库支持表
 
