@@ -42,13 +42,14 @@ typora-root-url: ../
 | 27 | AUX[``]                         | YKR-T/011       | YES        |   -          | -  |
 | 28 | AUX[``]                         | YKR-H/801       | YES        |   -           | -  |
 | 29 | 海信[``]                        | RCH-RSY1-1       | YES        |   -           | -  |
-| 30 | 大金                            | ARC480A32       | 待反馈       |   -           | -  |
+| 30 | 大金(Daikin)                    | ARC480A32       | 待反馈       |   -           | -  |
 | 31 | 美的中央空调                     | RN10L2(B2HS)/BG | YES         |   -           | -  |
-| 32 | 三菱电机-柜机[`Power Inverter`]   | -              | YES         |   -        | -    |
-| 33 | 大金                             | ARC423A5        | 待反馈      |   -           | -  |
+| 32 | 三菱电机-柜机[`Power Inverter`]  | -              | YES         |   -        | -    |
+| 33 | 大金(Daikin)                     | ARC423A5        | 待反馈      |   -           | -  |
 | 34 | 科龙                             | DG11J1-02(DF)   | YES        |   -           | -  |
 | 35 | 美的                             | RN08U1/BG       | YES        |   -           | -  |
 | 36 | 东芝(Toshiba)                    | WC-L03SE        | YES        |   -           | -  |
+| 37 | 大金(Daikin)                     | ARC433A75       | YES        |   -           | -  |
 
 
 ## A库支持表
