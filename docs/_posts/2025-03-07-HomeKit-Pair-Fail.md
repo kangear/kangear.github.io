@@ -11,6 +11,11 @@ HomeKit USB伴侣成功连网使用细分为三步，连上WiFi、家庭App添�
 
 ## 1.连接WiFi阶段
 
+### 1.0 没有HomeSpan-Setup热点
+
+1. 设备未上电，或者设备上电后指示灯未闪烁
+2. 重新配置时，仅删除设备，并没有将设备恢复出厂
+
 ### 1.1未自动弹出WiFi配置界面
 
 iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名字和密码的界面，需要点击WiFi感叹号，开启[自动登录]。
@@ -40,6 +45,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 1. WiFi路由器需要开启2.4G WiFi热点
 2. 如果使用iPhone热点作为WiFi，则需要开启【最大兼容性】
+3. 拔掉重新上电，这样可以重新搜索（因为每次上电只搜索一次）
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
