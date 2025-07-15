@@ -138,6 +138,8 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
   </div>
 </div>
 
+如果基于上条搜索不到HomeKit设备，则可定位到路由器上。如果是双频合一的WiFi，可以临时把5G WiFi禁用了，配置添加好之后再开启5G（真实案例）。
+
 #### 2.0.1 路由器不支持HomeKit协议的案例
 
 某用户摸索一个小时仍然无法在 `Home` App 中搜索到设备，随后使用 `Discovery - DNS-SD Browser` App 进行测试，如下图所示，仅能发现局域网中与`隔空投送`相关的服务。
