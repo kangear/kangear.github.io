@@ -53,7 +53,9 @@ typora-root-url: ../
 | 38 | 大金(Daikin)                     | ARC433B69       | 待反馈      |   -           | -  |
 | 39 | 三菱电机-柜机(MFZ-XD50XA)         | -   | A NO B YES（ON/OFF toggle）|  -   | 绿米2565  |
 | 40 | 三菱电机(MSH-FD09VC)              | -            | 待反馈 |  -   | -  |
-| 41 | 日立(Hitachi)                     | RE0T1          | 待反馈      |  -            | -  |
+| 41 | 日立(Hitachi)                    | RE0T1          | 待反馈      |  -            | -  |
+| 42 | 格力[冷静悦]                      | YAD0F2          | 待反馈      |  -            | -  |
+| 43 | 格力                             | YAP0FB3         | YES        |  -            | -  |
 
 ## A库支持表
 
