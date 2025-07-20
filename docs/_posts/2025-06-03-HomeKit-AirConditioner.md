@@ -85,6 +85,8 @@ typora-root-url: ../
 
 ## 手动选择品牌
 
+添加之后，进入到配件设置界面，找到串号长按复制，粘贴到Safari浏览器打开，这时会打开配件内置的设置界面，可以进行选择品牌和协议，如果某个协议能支持正常开机和关机，可以点击保存，切换回家庭App进行控制，如果制冷、制热、调温、风速、摆风都正常则算成功。
+
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250720201200.mp4#t=0.001" type="video/mp4">
 </video>
