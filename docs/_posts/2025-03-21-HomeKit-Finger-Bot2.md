@@ -32,6 +32,12 @@ typora-root-url: ../
 | :-----: | :------: | :-------: |:-----: |
 |  1  | 2   |  3   | 4   |
 
+# 高级设置
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/20250724-153220.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 使用控制
 
 如演示视频所示。
