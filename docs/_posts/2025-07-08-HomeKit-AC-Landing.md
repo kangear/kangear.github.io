@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HomeKit空调伴侣"
+title:  "HomeKit空调伴侣Landing"
 date:   2025-07-08 08:10:00 +0800
 categories: a
 typora-copy-images-to: ../assets
@@ -87,13 +87,5 @@ typora-root-url: ../
 
 目前猜测是语言习惯原因，Siri可以很好处理[Siri，关闭空调]关闭指令，我们常说的[Siri，打开空调]并不好使，通过测试说成[Siri，将空调设置为制冷]。
 
-# 购买
-
-<a href="https://item.taobao.com/item.htm?id=927300807043" 
-   target="_blank" 
-   onclick="gtag('event', 'click_to_taobao', { 'event_category': 'button', 'event_label': 'taobao_buy' });"
-   style="display:inline-block; padding:10px 20px; background-color:#ff5000; color:white; border-radius:5px; text-decoration:none;">
-  🛒 去淘宝购买
-</a>
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html

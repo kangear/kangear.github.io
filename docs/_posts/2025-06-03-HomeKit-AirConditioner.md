@@ -119,11 +119,6 @@ typora-root-url: ../
 目前猜测是语言习惯原因，Siri可以很好处理[Siri，关闭空调]关闭指令，我们常说的[Siri，打开空调]并不好使，通过测试说成[Siri，将空调设置为制冷]。
 
 
-# 实测列表
-
-[《HomeKit空调伴侣实测型号列表》][1]
-
-
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
