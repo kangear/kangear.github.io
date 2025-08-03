@@ -29,7 +29,8 @@ typora-root-url: ../
 
 # 添加到苹果家庭
 
-参照《[HomeKit配件使用说明][2]》，配置的后半程`关键步骤`如下所示：
+1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
+2. 配置的后半程`关键步骤`如下所示：
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
