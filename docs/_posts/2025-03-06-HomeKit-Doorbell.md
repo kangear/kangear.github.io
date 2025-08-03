@@ -54,13 +54,24 @@ typora-root-url: ../
 2. 您可以先关上门，在想要安装的位置测试之后，再撕开双面胶固定。
 3. 固定方式：建议先擦净墙上的灰，然后贴上门铃并按住5秒以上，若担心粘用不牢固，可使用螺钉安装。(请参考说明书)
 
-# 问题排查
+# 常见问题
+
+1. 问题排查
 
 刚上电时，门铃处于自检过程，此刻按下任意门铃按钮指示灯会闪烁，可以用来判断能否正常接收信号
 
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/563b68afa32c4e07e1bfe37b6d0c332e_raw.mp4#t=0.001" type="video/mp4">
 </video>
+
+2. iPhone收不到通知？
+
+可能打开了[勿扰模式]
+
+3. 偶尔收到不到？
+
+门铃距离伴侣太远了，最远不超过10米
+
 
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
