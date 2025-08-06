@@ -61,6 +61,7 @@ typora-root-url: ../
 | 46 | 美的                             | RN02S6(2S)      | YES        |  -            | -  |
 | 47 | AUX(京灿)                        | YKR-Q/051-JC    | YES        |  -            | -  |
 | 48 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
+| 49 | 大松(TOSOT)                      | YAW1F2          | 格力代工   |  -            | -  |
 
 ## A库支持表
 
