@@ -56,6 +56,11 @@ typora-root-url: ../
 | 41 | 日立(Hitachi)                    | RE0T1          | 待反馈      |  -            | -  |
 | 42 | 格力[冷静悦]                      | YAD0F2          | 待反馈      |  -            | -  |
 | 43 | 格力                             | YAP0FB3         | YES        |  -            | -  |
+| 44 | 大金(Daikin)                     | ARC480A32       | YES        |  -            | -  |
+| 45 | 大金(Daikin)                     | ARC433B46       | YES        |  -            | -  |
+| 46 | 美的                             | RN02S6(2S)      | YES        |  -            | -  |
+| 47 | AUX(京灿)                        | YKR-Q/051-JC    | YES        |  -            | -  |
+| 47 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
 
 ## A库支持表
 
