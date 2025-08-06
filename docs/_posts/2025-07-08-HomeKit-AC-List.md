@@ -60,7 +60,7 @@ typora-root-url: ../
 | 45 | 大金(Daikin)                     | ARC433B46       | YES        |  -            | -  |
 | 46 | 美的                             | RN02S6(2S)      | YES        |  -            | -  |
 | 47 | AUX(京灿)                        | YKR-Q/051-JC    | YES        |  -            | -  |
-| 47 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
+| 48 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
 
 ## A库支持表
 
