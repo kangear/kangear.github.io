@@ -62,6 +62,7 @@ typora-root-url: ../
 | 47 | AUX(京灿)                        | YKR-Q/051-JC    | YES        |  -            | -  |
 | 48 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
 | 49 | 大松(TOSOT)                      | YAW1F2          | 格力代工   |  -            | -  |
+| 50 | 大金(Daikin)                     | ARC433B70       | YES        |  -            | -  |
 
 ## A库支持表
 
