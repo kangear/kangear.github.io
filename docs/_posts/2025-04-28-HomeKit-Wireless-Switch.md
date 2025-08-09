@@ -15,8 +15,11 @@ typora-root-url: ../
 
 ### 控制灯光
 <video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/22d2a84ac7c2753de308c36fed2a4b7a.mp4#t=0.001" type="video/mp4">
+</video>
+
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250428150004.mp4#t=0.001" type="video/mp4">
-  
 </video>
 
 ### 控制HomePod播放不同背景音乐
@@ -54,7 +57,13 @@ typora-root-url: ../
   </div>
 </div>
 
+## 控制空调开关实例
 
+结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1fc502b535dd3b62c69241b04b62eccd.mp4#t=0.001" type="video/mp4"> 
+</video>
 
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
