@@ -26,7 +26,8 @@ typora-root-url: ../
 
 # 配置USB伴侣
 
-参照《[HomeKit配件使用说明][2]》，配置的后半程如下所示：
+1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
+2. 配置的后半程`关键步骤`如下所示：
 
 | ![](/assets/22d7e703edf86d4c0ded7758fd0cc83.png) | ![](/assets/b525983474a4d0cbee09db4b312c01d.png) | ![](/assets/7f65c6c3f2bd2a43d9b8020d2ae04bf.png) | ![](/assets/2e88a5887c0f01e52b88e086b0c4f22.png) |
 | :-----: | :------: | :-------: |:-----: |
