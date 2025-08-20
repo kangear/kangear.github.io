@@ -39,7 +39,7 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/a1594d3bf3fafacc5f415f3a442fd90.jpg" alt="添加成功" style="width: 100%; display: block;" />
+      <img src="/assets/d37d8dc245fc373d12f25e8b0b709531.jpg" alt="添加成功" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
   </div>
