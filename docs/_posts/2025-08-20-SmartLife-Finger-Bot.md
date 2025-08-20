@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "手指机器使用说明(智慧生活版)"
+title:  "手指机器人使用说明(智慧生活版)"
 date:   2025-08-20 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
+
+手指机器人，可以用于按任何按钮，比如电梯。
 
 # 拆包
 
@@ -48,6 +50,18 @@ typora-root-url: ../
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e9ea539073b4c7b311c2a41326f6e1a2.mp4#t=0.001" type="video/mp4">
 </video>
+
+
+# 多人使用
+
+第二个人使用不需要像上面这种方法来添加了，只需要第一个人分享设备给其他人使用就可以了。
+
+## 共享设备
+
+
+## 添加家庭成员方式共同控制
+
+
 
 
 ## 如果不显示在首页
