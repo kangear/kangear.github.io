@@ -20,7 +20,7 @@ typora-root-url: ../
 
 应用商店下载App【智能生活】
 
-# 添加控制伴侣
+# 添加 控制伴侣(网关)
 
 ## 截屏
 
@@ -52,16 +52,64 @@ typora-root-url: ../
 </video>
 
 
+# 添加 机器人
+
+<video width="320" height="450" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/9a2d9c1c17ce47a36cb90753aca33dc7.mp4#t=0.001" type="video/mp4">
+</video>
+
+
 # 多人使用
 
 第二个人使用不需要像上面这种方法来添加了，只需要第一个人分享设备给其他人使用就可以了。
 
-## 共享设备
+## 共享设备 方式
 
+点开设备，右上角三个点，找到共享设备，按照提示进行共享即可。
 
-## 添加家庭成员方式共同控制
+## 添加家庭成员 方式
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_222640_748.png" alt="发现设备" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">1</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_222744_232.png" alt="填写WiFi账号和密码" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_222809_829.png" alt="添加成功" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
+  </div>
+</div>
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_222839_561.png" alt="发现设备" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">4</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_223000_752.png" alt="填写WiFi账号和密码" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">5</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/wechat_2025-08-20_223000_752.png" alt="添加成功" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">6</div>
+  </div>
+</div>
 
 
 ## 如果不显示在首页
