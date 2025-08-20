@@ -63,6 +63,9 @@ typora-root-url: ../
 | 48 | 三菱重工                         | RYD502A045A     | YES        |  -            | -  |
 | 49 | 大松(TOSOT)                      | YAW1F2          | 格力代工   |  -            | -  |
 | 50 | 大金(Daikin)                     | ARC433B70       | YES        |  -            | -  |
+| 51 | 松下(Panasonic)-CW-SU120AA       | -               | YES        |  -            | -  |
+| 52 | 新飞                             | YB1FA           | 和山921     |  -            | -  |
+
 
 ## A库支持表
 
