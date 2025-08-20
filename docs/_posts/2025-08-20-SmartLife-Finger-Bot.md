@@ -9,20 +9,20 @@ typora-root-url: ../
 
 手指机器人，可以用于按任何按钮，比如电梯。
 
-# 拆包
+# 1.拆包
 
 
 | ![](/assets/20250820212640.jpg) |
 | :------------: | 
 |         1    |
 
-# 下载App
+# 2.下载App
 
 应用商店下载App【智能生活】
 
-# 添加 控制伴侣(网关)
+# 3.添加 控制伴侣(网关)
 
-## 截屏
+## 3.1截屏
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
@@ -45,29 +45,29 @@ typora-root-url: ../
   </div>
 </div>
 
-## 视频教程
+## 3.2 视频教程
 
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e9ea539073b4c7b311c2a41326f6e1a2.mp4#t=0.001" type="video/mp4">
 </video>
 
 
-# 添加 机器人
+# 4. 添加 机器人
 
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/9a2d9c1c17ce47a36cb90753aca33dc7.mp4#t=0.001" type="video/mp4">
 </video>
 
 
-# 多人使用
+# 5. 多人使用
 
 第二个人使用不需要像上面这种方法来添加了，只需要第一个人分享设备给其他人使用就可以了。
 
-## 共享设备 方式
+## 5.1 共享设备 方式
 
 点开设备，右上角三个点，找到共享设备，按照提示进行共享即可。
 
-## 添加家庭成员 方式
+## 5.2 添加家庭成员 方式
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
@@ -112,7 +112,7 @@ typora-root-url: ../
 </div>
 
 
-## 如果不显示在首页
+## 5.3 如果不显示在首页
 
 
 <video width="320" height="450" controls>
