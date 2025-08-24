@@ -111,9 +111,33 @@ typora-root-url: ../
   </div>
 </div>
 
+## 新成员看不到设备？
+
+每个人注册完账号都会有自己的`家庭`，需要切换到邀请人创建的那个家庭。
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/5a9a3c4b4932a4f3212ff7e5efcf3510.png" alt="看不到设备" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">看不到设备？</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/3bc90f4f427748e11ac300fefd5c1c0f.jpg" alt="左上角小房子切换家庭" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">左上角小房子</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/1b23f6f9962a037c40c48e036d8abbc0.jpg" alt="切换家庭后可以看到设备" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">切换家庭后可以看到设备</div>
+  </div>
+</div>
+
 
 ## 5.3 如果不显示在首页
-
 
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/cf915c5c5232529d21df4267c3f3373d.mp4#t=0.001" type="video/mp4">
