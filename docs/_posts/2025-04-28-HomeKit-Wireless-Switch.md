@@ -11,7 +11,7 @@ typora-root-url: ../
 
 可编程开关又叫无线开关、遥控、情景开关、场景开关、随意贴、便利贴、随手贴，是一个物理开关可以触发HomeKit中的场景和设备。
 
-| [<img src="/assets/program_button.png"/>](/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg)|
+| [<img src="/assets/program_button.png"/>](/assets/program_button.png)|
 | :------------: | 
 |          原理    |
 

@@ -7,16 +7,16 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-# 开始之前
+# 1. 开始之前
 
-## 功能演示
+## 1.1 功能演示
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/173c9d9ba82b077dda94b8acf020c479.mp4#t=0.001" type="video/mp4">
 </video>
 
 
-## 确认配件齐全
+## 1.2 确认配件齐全
 
 可以根据图片确认配件是否齐全 
 
@@ -24,7 +24,7 @@ typora-root-url: ../
 | :------------: | 
 |          配件全家福    |
 
-# 配置USB伴侣
+# 2. 配置USB伴侣
 
 1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
 2. 配置的后半程`关键步骤`如下所示：
@@ -33,21 +33,21 @@ typora-root-url: ../
 | :-----: | :------: | :-------: |:-----: |
 |  1  | 2   |  3   | 4   |
 
-# 高级设置
+# 3. 高级设置
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/20250724-153220.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 使用控制
+# 4. 使用控制
 
 如演示视频所示。
 
-# 充电
+# 5. 充电
 
-该设备不支持快充，需要使用USB-A口转C口线插到USB伴侣尾部进行充电，如果指示灯不显示，可以按下指示灯旁边的按键。
+如果力不够说明电量不足需要充电；该设备不支持快充，需要使用USB-A口转C口线插到USB伴侣尾部进行充电，如果指示灯不显示，可以按下指示灯旁边的按键。
 
-## 指示灯说明
+## 5.1 指示灯说明
 
 ```
 闪烁：充电中
