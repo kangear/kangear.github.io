@@ -65,6 +65,7 @@ typora-root-url: ../
 | 50 | 大金(Daikin)                     | ARC433B70       | YES        |  -            | -  |
 | 51 | 松下(Panasonic)-CW-SU120AA       | -               | YES        |  -            | -  |
 | 52 | 新飞                             | YB1FA           | 和山921     |  -            | -  |
+| 53 | 创维(SKYWORTH)                   | 末排:防直吹健康、智联、定时 |-|AIRTON(109)| -  |
 
 
 ## A库支持表
