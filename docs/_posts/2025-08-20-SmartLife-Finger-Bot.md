@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "手指机器人使用说明(智慧生活版)"
+title:  "手指机器人使用说明(智能生活版)"
 date:   2025-08-20 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
