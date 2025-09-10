@@ -7,6 +7,21 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
+# How it works
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/11bfd8f55b01f7c945972e960cd6b10c.mp4#t=0.001" type="video/mp4">
+</video>
+
+# Factory Reset
+
+To reset the device to factory settings:
+
+Press and hold the input button for about 5000 milliseconds. Then release the button to factory reset the device.
+The device will then reboot and enter setup mode.
+
+# Indicators
+
 The device has the following indicators:
 ## Setup
 - **Setup mode**: LED blinks continuously, about 4 seconds per cycle, with white color.
