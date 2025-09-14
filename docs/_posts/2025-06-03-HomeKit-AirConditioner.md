@@ -7,11 +7,16 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-# 开始之前
+# 1. 开始之前
 
 空调伴侣，代替原遥控器，可以理解为接入了HomeKit智能空调遥控器。实现了直接喊Siri就可以开关空调，可以定时开关，也可以在回到家之前提前打开空调，刚进家门就立即享受凉爽。
 
-## 功能演示
+## 1.1 功能演示
+
+
+| [<img src="/assets/wechat_2025-09-14_121537_087.png" width="300"/>](/assets/wechat_2025-09-14_121537_087.png)|
+| :------------: | 
+|          安装效果    |
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/950d211ae4f89d24f43c4f9e7a0d5a98.mp4#t=0.001" type="video/mp4">
@@ -21,13 +26,14 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/c9e28578e28270895f62d71d1ef819fa.mp4#t=0.001" type="video/mp4">
 </video>
 
-## 确认配件齐全
+
+## 1.2 确认配件齐全
 
 | [<img src="/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg" width="300"/>](/assets/4d280e7cb3f7bb431095b52bcb3a1c2.jpg)|
 | :------------: | 
 |          配件全家福    |
 
-# 添加到苹果家庭
+# 2. 添加到苹果家庭
 
 1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
 2. 配置的后半程`关键步骤`如下所示：
@@ -41,22 +47,22 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/e3ebf26d5a42d93c4fb95abb21467ec.jpg" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/e59f11dbd36c175119779e9b1c7bfc2c.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">添加后效果</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/a1594d3bf3fafacc5f415f3a442fd90.jpg" alt="截图3" style="width: 100%; display: block;" />
+      <img src="/assets/a1594d3bf3fafacc5f415f3a442fd90.jpg" alt="效果" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">空调主界面</div>
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/501e5c3e16668d2349614b8c41fe760.png" alt="截图1" style="width: 100%; display: block;" />
+      <img src="/assets/e59f11dbd36c175119779e9b1c7bfc2c.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">借用风扇实现风速</div>
   </div>
@@ -74,9 +80,9 @@ typora-root-url: ../
   </div>
 </div>
 
-# 识别空调型号
+# 3. 识别空调型号
 
-## 一键识别
+## 3.1 一键识别
 
 需要借助原空调遥控器来实现，USB上的按键按下3秒松手，用遥控器对着空调伴侣按开关机，连续10次左右，这时可以通过手机尝试控制开关空调，调整温度如果能正常控制则说明已经识别到。如果完全不识别、或者识别成功但是无法控制可以尝试【手动选择品牌】方式
 
@@ -84,7 +90,7 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/2ebfc5b0ef8fa7a265d58b9218baa323.mp4#t=0.001" type="video/mp4">
 </video>
 
-## 手动选择品牌
+## 3.2 手动选择品牌
 
 添加之后，进入到配件设置界面，找到串号长按复制，粘贴到Safari浏览器打开，这时会打开配件内置的设置界面，可以进行选择品牌和协议，如果某个协议能支持正常开机和关机，可以点击保存，切换回家庭App进行控制，如果制冷、制热、调温、风速、摆风都正常则算成功。
 
@@ -92,34 +98,34 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250720201200.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 更多设置
+# 4. 更多设置
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/a217cdc697a4e0da1e791e1169f8806.jpg" alt="截图1" style="width: 100%; display: block;" />
+      <img src="/assets/21bdba0e5b6d02aba8aedba81bba7598.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">设置界面可以修改名称，方便语音控制</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/6e04d49a1b603b59dec3743edc9178d.jpg" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/cab527e17c7ebf0cfda765c3791b2d5f.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">喊[Siri，关闭空调]的效果</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/f19ac38d02d7eb5dfa07f85133fbe31.jpg" alt="截图3" style="width: 100%; display: block;" />
+      <img src="/assets/173b65360d382cc2d7590ac5713316c4.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">喊[Siri，将空调设置为制冷]的效果</div>
   </div>
 </div>
 
-# 语音控制
+# 4.1 语音控制
 
 目前猜测是语言习惯原因，Siri可以很好处理[Siri，关闭空调]关闭指令，我们常说的[Siri，打开空调]并不好使，通过测试说成[Siri，将空调设置为制冷]。
 
-# 隐藏家庭摘要温度显示
+# 4.2 隐藏家庭摘要温度显示
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250804112338.mp4#t=0.001" type="video/mp4">
