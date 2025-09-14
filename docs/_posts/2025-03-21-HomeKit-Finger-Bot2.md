@@ -15,8 +15,13 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/173c9d9ba82b077dda94b8acf020c479.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 1.2 流程图
 
-## 1.2 确认配件齐全
+| ![](/assets/db708e6bace93c0b6209dfd451cc0148.png) |
+| :------------: | 
+|          流程图    |
+
+## 1.3 确认配件齐全
 
 可以根据图片确认配件是否齐全 
 
