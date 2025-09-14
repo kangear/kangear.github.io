@@ -7,32 +7,18 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-# 开始之前
+# 1. 开始之前
 
-## 功能演示
-
-<video width="450" height="450" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/eb1169b8407c545f20cfafdf798d447c_raw.mp4#t=0.001" type="video/mp4">
-</video>
-
-<video width="320" height="450" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/6cf4272d1feee5f11101aaad2491275f_raw.mp4#t=0.001" type="video/mp4">
-</video>
+## 1.1 功能演示
 
 <video width="320" height="450" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ff589ee10ef1432bb412799ef03199f6_raw.mp4#t=0.001" type="video/mp4">
 </video>
 
+# 2. 添加到苹果家庭
 
-## 确认配件齐全
-
-可以根据图片确认配件是否齐全 
-
-| ![](/assets/0d5705fb6e7026ff50d22578f68be78.jpg) |
-| :------------: | 
-|          配件全家福（套餐一）    |
-
-# 配置USB伴侣
+1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
+2. 配置的后半程`关键步骤`如下所示：
 
 参照《[HomeKit配件使用说明][2]》，配置的后半程`关键步骤`如下所示：
 
@@ -40,21 +26,21 @@ typora-root-url: ../
 |:----------: |:----------: |:----------: |:----------: |:----------: |
 |  1   |   2   |    3   |    4   |   5   | 
 
-# 使用控制
+# 3. 使用控制
 
-此时，按下门铃按钮HomePod可以发现响声、手机可以收到通知。
+此时，按下门铃按钮HomePod可以发现响声，iPhone、Apple Watch、Apple TV可以收到推送通知。
 
-# 注意事项
+# 4. 注意事项
 
 1. 如果将开关安装在金属物（如铁铁门框等）上，会严重影响开关发射距离；
 
-# 安装必读
+# 5. 安装必读
 
 1. 请勿安袭在防盗门上，金属会减弱信号。
 2. 您可以先关上门，在想要安装的位置测试之后，再撕开双面胶固定。
 3. 固定方式：建议先擦净墙上的灰，然后贴上门铃并按住5秒以上，若担心粘用不牢固，可使用螺钉安装。(请参考说明书)
 
-# 常见问题
+# 6. 常见问题
 
 1. 问题排查
 
