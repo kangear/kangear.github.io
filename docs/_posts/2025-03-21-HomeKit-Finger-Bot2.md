@@ -17,7 +17,7 @@ typora-root-url: ../
 
 ## 1.2 流程图
 
-| ![](/assets/db708e6bace93c0b6209dfd451cc0148.png) |
+| [<img src="/assets/db708e6bace93c0b6209dfd451cc0148.png"/>](/assets/db708e6bace93c0b6209dfd451cc0148.png)|
 | :------------: | 
 |          流程图    |
 

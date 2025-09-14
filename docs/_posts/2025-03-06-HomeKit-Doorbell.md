@@ -15,6 +15,13 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ff589ee10ef1432bb412799ef03199f6_raw.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 1.2 流程图
+
+| [<img src="/assets/homekit_doorbell_1.png"/>](/assets/homekit_doorbell_1.png)|
+| :------------: | 
+|          流程图    |
+
+
 # 2. 添加到苹果家庭
 
 1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
