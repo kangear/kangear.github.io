@@ -32,19 +32,19 @@ typora-root-url: ../
     <div style="width: 100%; position: relative;">
       <img src="/assets/bb396f6c6b39da5e16f21a7888547282.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">找到Z2HK Bridge网关</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">1</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/954738fb1954c95b863fb68945505e6f.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">复制序列号在Safari打开</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/46b53010f6cdc9e9db23684daed87804.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">进入配对状态，此时网关顶部指示灯会亮；这时可以将设备也置于配对状态，就会自动加入，设备加入后刷新界面会多一个设备，这时可以按 Save and Reboot来重启生效</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
   </div>
 </div>
 
