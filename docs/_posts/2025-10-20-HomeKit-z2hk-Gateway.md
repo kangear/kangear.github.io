@@ -42,9 +42,9 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/46b53010f6cdc9e9db23684daed87804.jpg" alt="截图3" style="width: 100%; display: block;" />
+      <img src="/assets/3883d80943151a1b5244a87fc6c1750b.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">Z2HK Sample就网关</div>
   </div>
 </div>
 
@@ -54,21 +54,43 @@ typora-root-url: ../
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/066d97a96035d0e7682ed17c0100a308.png" alt="截图1" style="width: 100%; display: block;" />
+      <img src="/assets/04075bf5257ab11ff037ebe181c99494.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">找到Z2HK Bridge网关</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">找到Z2HK Sample打开</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/a7ea15ae4c5c07dd79c872bd7fbc062e.png" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/73ccf47a4d443c13d7b78edf4e79c45b.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">打开设置界面</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/e559566dbdd33ff9c1451c18f1a1abaa.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">复制序列号在Safari打开</div>
+  </div>
+</div>
+
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/a7ea15ae4c5c07dd79c872bd7fbc062e.png" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">Pair为配对，Save and Reboot为保存并重启</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/9860f86d4b69f7259b6dc3a61503aa57.png" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">进入配对状态，此时网关顶部指示灯会亮；这时可以将设备也置于配对状态，就会自动加入，设备加入后刷新界面会多一个设备</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/9860f86d4b69f7259b6dc3a61503aa57.png" alt="截图3" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">进入配对状态，此时网关顶部指示灯会亮；这时可以将设备也置于配对状态，就会自动加入，设备加入后刷新界面会多一个设备，这时可以按 Save and Reboot来重启生效</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">这时可以按 Save and Reboot来重启生效</div>
   </div>
 </div>
 
