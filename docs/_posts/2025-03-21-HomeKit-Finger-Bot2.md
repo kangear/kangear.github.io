@@ -21,6 +21,10 @@ typora-root-url: ../
 | :------------: | 
 |          流程图    |
 
+| [<img src="/assets/finger_bot_with_remote.png"/>](/assets/inger_bot_with_remote.png)|
+| :------------: | 
+|          遥控版流程图（遥控需要单独购买）    |
+
 ## 1.3 确认配件齐全
 
 可以根据图片确认配件是否齐全 
