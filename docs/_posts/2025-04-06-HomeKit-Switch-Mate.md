@@ -9,6 +9,10 @@ typora-root-url: ../
 
 # 1. 开始之前
 
+| [<img src="/assets/65a0233a148eb2b4af6cbabd1a333bdf.png"/>](/assets/65a0233a148eb2b4af6cbabd1a333bdf.png)|
+| :------------: | 
+|          原理    |
+
 ## 1.1 功能演示
 
 <video width="240" height="320" controls>
