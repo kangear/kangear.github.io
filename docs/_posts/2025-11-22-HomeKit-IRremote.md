@@ -59,11 +59,5 @@ typora-root-url: ../
   </div>
 </div>
 
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250720201200.mp4#t=0.001" type="video/mp4">
-</video>
-
-
-
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
