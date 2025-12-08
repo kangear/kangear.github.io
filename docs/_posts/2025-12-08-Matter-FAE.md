@@ -55,4 +55,8 @@ typora-root-url: ../
   </div>
 </div>
 
+# 3. 扫码以外的添加方式
+
+Matter配件除了可以扫码添加，也可以发现附近Matter配件并手动输入二维码下方代码方式进行添加。在家庭App中扫码添加会比直接使用系统相机扫码成功率高。
+
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
