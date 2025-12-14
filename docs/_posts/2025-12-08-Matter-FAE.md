@@ -7,7 +7,7 @@ typora-copy-images-to: ../assets
 typora-root-url: ../
 ---
 
-# 1. 清除iPhone中Matter配件缓存
+## 1. 清除iPhone中Matter配件缓存
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
@@ -30,7 +30,7 @@ typora-root-url: ../
   </div>
 </div>
 
-# 2. 连接2.4G WiFi再次尝试
+## 2. 连接2.4G WiFi再次尝试
 
 说明该Matter配件不支持5G WiFi，需要iPhone临时连接到2.4G网络再添加。
 
@@ -55,7 +55,32 @@ typora-root-url: ../
   </div>
 </div>
 
-# 3. 扫码以外的添加方式
+## 3. Thread Border Router Required
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/39839a91124d70f63aab85578069d2ff.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">1</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/39839a91124d70f63aab85578069d2ff.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/39839a91124d70f63aab85578069d2ff.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">要求 Thread 边界路由器</div>
+  </div>
+</div>
+
+iPhone 14 Pro Max不会出现以上提示，说明其已经支持Thread直接连接控制，像Matter Over WiFi一样；另外一台iPhone 11上会有这种提示，说明需要HomePod 或者 AppleTV作为中枢。
+
+## 4. 扫码以外的添加方式
 
 1. Matter配件除了可以扫码添加，也可以发现附近Matter配件并手动输入二维码下方代码方式进行添加。
 2. 在家庭App中扫码添加会比直接使用系统相机扫码成功率高。
