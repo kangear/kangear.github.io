@@ -73,7 +73,7 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 1. 密码错误，需要改为正确密码再次尝试
 2. WiFi路由器的【无线模式】由`802.11ax(WiFi6)`改为`WiFi4/5(传统模式)`
 3. 该热点密码加密方式不兼容，需要设置为`WPA/WPA2-PSK`
-4. 该WiFi热点信道不支持，需要选择为兼容模式
+4. 该WiFi热点信道不支持，需要选择为兼容模式（海外用户概率高，比如一个泰国用户UBNT exp7路由器，信道由6改1，频率换成40Mhz可以正常连接了）
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
