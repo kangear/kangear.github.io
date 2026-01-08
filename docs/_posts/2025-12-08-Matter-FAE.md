@@ -43,7 +43,7 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/04015b38837e2c300772a408bb08e6e3.jpg" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/2d4967b48e3f0946f06c0e8a6790d1f8.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
   </div>
@@ -66,7 +66,7 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/39839a91124d70f63aab85578069d2ff.jpg" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/f77d15e4ab1108f9a91b6964304565db.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
   </div>
@@ -78,9 +78,34 @@ typora-root-url: ../
   </div>
 </div>
 
-iPhone 14 Pro Max不会出现以上提示，说明其已经支持Thread直接连接控制，像Matter Over WiFi一样；另外一台iPhone 11上会有这种提示，说明需要HomePod 或者 AppleTV作为中枢。
+iPhone 15 Pro Max不会出现以上提示，说明其已经支持Thread直接连接控制，像Matter Over WiFi一样；另外一台iPhone 11上会有这种提示，说明需要HomePod 或者 AppleTV作为中枢。
 
-## 4. 扫码以外的添加方式
+## 4. 无法接入网络 无法添加配件
+
+配网过程中配件重启、配网失败等会出现如下提示，解决方案是将配件重启后重新扫码添加
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/01448b717fb2d1e0fc8fd183f8e4c3cd.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">无法接入网络</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/6c14badd736fe9ec86ae73ccc3a8a14f.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">无法添加配件</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/6c14badd736fe9ec86ae73ccc3a8a14f.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">无法添加配件</div>
+  </div>
+</div>
+
+## 5. 扫码以外的添加方式
 
 1. Matter配件除了可以扫码添加，也可以发现附近Matter配件并手动输入二维码下方代码方式进行添加。
 2. 在家庭App中扫码添加会比直接使用系统相机扫码成功率高。
