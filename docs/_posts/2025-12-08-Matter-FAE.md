@@ -80,7 +80,7 @@ typora-root-url: ../
 
 iPhone 15 Pro Max不会出现以上提示，说明其已经支持Thread直接连接控制，像Matter Over WiFi一样；另外一台iPhone 11上会有这种提示，说明需要HomePod 或者 AppleTV作为中枢。
 
-## 4. 无法接入网络 无法添加配件
+## 4. 无法接入网络、无法添加配件
 
 配网过程中配件重启、配网失败等会出现如下提示，解决方案是将配件重启后重新扫码添加
 
