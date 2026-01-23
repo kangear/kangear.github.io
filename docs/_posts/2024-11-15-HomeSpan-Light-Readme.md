@@ -37,11 +37,16 @@ typora-root-url: ../
   </tr>
   <tr>
     <td style="text-align: center;">iPhone中会多一个WiFi热点<code>HomeSpan-Setup</code></td>
-    <td style="text-align: center;">输入密码<code>homespan</code>连接</td>
+    <td style="text-align: center;">输入密码<code>homespan</code>连接(可选步骤)</td>
     <td style="text-align: center;">按<code>下箭头</code>打开WiFi弹窗*</td>
     <td style="text-align: center;">为设备选择<code>家里WiFi</code>，这里以<code>QWRT-2.4G</code>为例</td>
   </tr>
 </table>
+
+**关于特殊WiFi**：
+1. 访客WiFi：不要使用，HomeKit原理是局域网通信，访客网络一般会禁止设备间相互访问，会导致无法添加；
+2. 无密码WiFi：密码框为空直接Submit即可；
+3. 隐藏WiFi：先临时将WiFi设置成可见，配置连接成功后再设置成隐藏即可；
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
   <tr>
