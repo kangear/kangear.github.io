@@ -15,21 +15,22 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/173c9d9ba82b077dda94b8acf020c479.mp4#t=0.001" type="video/mp4">
 </video>
 
+
+| [<img src="/assets/e62325eba87d3c8471a3830a1f42d59e.jpg"   width="300"/>](/assets/e62325eba87d3c8471a3830a1f42d59e.jpg)|
+| :------------: | 
+|          实际应用    |
+
 ## 1.2 流程图
 
-| [<img src="/assets/db708e6bace93c0b6209dfd451cc0148.png"/>](/assets/db708e6bace93c0b6209dfd451cc0148.png)|
+| [<img src="/assets/db708e6bace93c0b6209dfd451cc0148.png"  width="600"/>](/assets/db708e6bace93c0b6209dfd451cc0148.png)|
 | :------------: | 
 |          流程图    |
-
-| [<img src="/assets/finger_bot_with_remote.png"/>](/assets/inger_bot_with_remote.png)|
-| :------------: | 
-|          遥控版流程图（遥控需要单独购买）    |
 
 ## 1.3 确认配件齐全
 
 可以根据图片确认配件是否齐全 
 
-| ![](/assets/914a143256b9b34db9efbfa2772648b.jpg) |
+| [<img src="/assets/914a143256b9b34db9efbfa2772648b.jpg"  width="600"/>](/assets/914a143256b9b34db9efbfa2772648b.jpg)|
 | :------------: | 
 |          配件全家福    |
 
