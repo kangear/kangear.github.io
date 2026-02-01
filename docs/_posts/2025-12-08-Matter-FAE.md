@@ -82,7 +82,7 @@ iPhone 15 Pro Max不会出现以上提示，说明其已经支持Thread直接连
 
 ## 4. 无法接入网络、无法添加配件
 
-配网过程中配件重启、配网失败等会出现如下提示，解决方案是将配件重启后重新扫码添加
+配网过程中配件重启、配网失败等会出现如下提示，解决方案是将配件重启后重新扫码添加；将iPhone重启也是一种解决问题的方法。
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
