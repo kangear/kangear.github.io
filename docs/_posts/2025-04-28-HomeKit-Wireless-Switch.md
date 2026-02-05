@@ -83,6 +83,14 @@ typora-root-url: ../
   </div>
 </div>
 
+## 按键配置教程
+
+结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ac7dbbe85de4bc00731e499f0ffe3874.mp4#t=0.001" type="video/mp4"> 
+</video>
+
 ## 控制空调开关实例
 
 结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
