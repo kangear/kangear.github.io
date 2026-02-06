@@ -85,11 +85,37 @@ typora-root-url: ../
 
 # 4. 更多设置
 
-## 4.1 语音控制
+## 4.1 除湿、吹风模式
+
+复制序列号在Safari打开，可以修改制热功能，将其映射为除湿、吹风等模式。
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/b5e12cdb7f985b5d9bb4b98c6105cae4.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">复制序列号</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/dbb2f619c816b56eb75fb07897780e06.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">高级设置界面</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/1c6498b0ebfaec0427852ff78f3b2dad.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">修改Heat对应的功能</div>
+  </div>
+</div>
+
+
+## 4.2 语音控制
 
 语言习惯的不同，Siri可以很好处理**Siri，关闭空调**关闭指令，我们常说的**Siri，打开空调**并不好使，通过测试说成**Siri，将空调设置为制冷**。使用一段时间后，Siri就会正常处理**打开空调**。
 
-## 4.2 隐藏家庭摘要温度显示
+## 4.3 隐藏家庭摘要温度显示
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250804112338.mp4#t=0.001" type="video/mp4">
