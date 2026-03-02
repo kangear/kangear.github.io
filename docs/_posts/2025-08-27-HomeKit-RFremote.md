@@ -71,10 +71,16 @@ typora-root-url: ../
 </div>
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250720201200.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/a29378a3d78a487c2be5853598a46b8f.mp4#t=0.001" type="video/mp4">
 </video>
 
+# 设置为点动模式
 
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/7d90a6268df28ad3ebb3a4bb63846b96.mp4#t=0.001" type="video/mp4">
+</video>
+
+设置完之后可能不会立即生效，可以把家庭App划掉再打开就会生效了。
 
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
