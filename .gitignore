@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Temporary reports generated during cleanup
+unreferenced_images_*.txt
