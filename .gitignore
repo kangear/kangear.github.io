@@ -3,6 +3,7 @@
 
 # Local editor settings
 .vscode/
+.idea/
 
 # Temporary reports generated during cleanup
 unreferenced_images_*.txt
