@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HomeKit可编程开关使用说明"
+title:  "HomeKit情景开关使用说明"
 date:   2025-04-28 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
@@ -9,9 +9,9 @@ typora-root-url: ../
 
 # 1. 开始之前
 
-可编程开关又叫无线开关、遥控、情景开关、场景开关、随意贴、便利贴、随手贴，是一个物理开关可以触发HomeKit中的场景和设备。
+情景开关又叫可编程开关、无线开关、遥控、情景开关、场景开关、随意贴、便利贴、随手贴，是一个物理开关可以触发HomeKit中的场景和设备。
 
-| [<img src="/assets/program_button.png"/>](/assets/program_button.png)|
+| [<img src="/assets/self_power_generic_button.png"/>](/assets/program_button.png)|
 | :------------: | 
 |          原理    |
 
