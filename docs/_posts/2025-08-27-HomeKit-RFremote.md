@@ -104,5 +104,10 @@ typora-root-url: ../
 
 比如按照上图进行了命名，直接喊Siri说**晾衣架上升**，Siri并不能识别，因为Siri会把这个识别成开关，要在前面加一个**打开**；如果不想那么啰嗦，可以创建一个场景名字就叫做**晾衣架上升**，然后里面的动作绑定一下这个按键的**开**，后续直接喊**晾衣架上升**就可以了。
 
+## 4.2 上升5秒自动停止
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/2a4031d669f90c902245d5615f31d5b1.mp4#t=0.001" type="video/mp4">
+</video>
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
