@@ -83,7 +83,11 @@ typora-root-url: ../
   </div>
 </div>
 
-## 按键配置教程
+注意：受硬件性能所限，内置配置网页是一个极简的，学习时偶尔出现TypeError重新操作一下即可，不会影响正常使用时的稳定性。
+
+# 3. 按键配置教程
+
+## 3.1 基本配置
 
 结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
 
@@ -91,7 +95,15 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ac7dbbe85de4bc00731e499f0ffe3874.mp4#t=0.001" type="video/mp4"> 
 </video>
 
-## 控制空调开关实例
+## 3.2 点动控制灯
+
+如果你想延续传统开关的使用习惯，按一下开关、按一下关灯，可以按照如下视频方法
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/27A79BF497AE49EF8B63B06F534B5576.mp4#t=0.001" type="video/mp4"> 
+</video>
+
+## 3.3 控制空调开关实例
 
 结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
 
