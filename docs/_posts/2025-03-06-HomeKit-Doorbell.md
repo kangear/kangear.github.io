@@ -51,11 +51,7 @@ typora-root-url: ../
 
 ## 6.1 问题排查
 
-刚上电时，门铃处于自检过程，此刻按下任意门铃按钮指示灯会闪烁，可以用来判断能否正常接收信号
-
-<video width="320" height="450" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/563b68afa32c4e07e1bfe37b6d0c332e_raw.mp4#t=0.001" type="video/mp4">
-</video>
+按下任意门铃按钮指示灯会闪烁，可以用来判断能否正常接收信号
 
 ## 6.2 iPhone收不到通知？
 

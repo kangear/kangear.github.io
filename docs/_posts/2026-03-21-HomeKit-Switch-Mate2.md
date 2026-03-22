@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HomeKit懒人开关(竖条型)"
-date:   2025-08-27 10:00:00 +0800
+date:   2026-03-21 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
 typora-root-url: ../
