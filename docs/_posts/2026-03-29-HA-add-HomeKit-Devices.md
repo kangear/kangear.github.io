@@ -23,13 +23,22 @@ typora-root-url: ../
 
 在 Home Assistant 中，依次进入 设置 → 设备与服务 → 添加集成，搜索「HomeKit」，结果如下图所示：
 
+| [<img src="/assets/20260329212736.jpg" width="600"/>](/assets/20260329212736.jpg)|
+| :------------: | 
+|          电脑版    |
+
 | [<img src="/assets/cbe4dd57dc752d144ca38bb6f62d8e2f.jpg" width="240"/>](/assets/cbe4dd57dc752d144ca38bb6f62d8e2f.jpg)|
 | :------------: | 
-|          HomeKit 设备    |
+|          手机版    |
+
 
 ## 2.1 选择设备
 
 在列表中选择自动发现的 HomeKit 设备，点击进入添加流程。
+
+| [<img src="/assets/20260329212745.jpg" width="600"/>](/assets/20260329212745.jpg)|
+| :------------: | 
+|          电脑版    |
 
 ## 2.2 输入配置代码
 
