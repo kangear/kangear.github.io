@@ -225,6 +225,15 @@ iPhone连接上配件热点`HomeSpan-Setup`后，没有自动弹出输入WiFi名
 
 如果家中有米家、绿米设备，可能是同步兼容HomeKit协议的，也会被罗列出来。记住一个规律，一般新发现的设备是排第一个。
 
+
+### 2.5 此配件不能配合HomeKit使用
+
+| [<img src="/assets/44aadab3c9f54a2c553a7e9c3f12df17.jpg" width="300"/>](/assets/44aadab3c9f54a2c553a7e9c3f12df17.jpg)|
+| :------------: | 
+|          此配件不能配合HomeKit使用    |
+
+恢复出厂后重新添加即可。
+
 ## 3.家庭App控制阶段
 
 家庭App控制不成功，添加上直接就是 未响应，一般也是隔离导致。
