@@ -27,8 +27,6 @@ typora-root-url: ../
 1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
 2. 配置的后半程`关键步骤`如下所示：
 
-参照《[HomeKit配件使用说明][2]》，配置的后半程`关键步骤`如下所示：
-
 | ![](/assets/fc064b4fc9d713316bdfe8141334aca.jpg) | ![](/assets/98a7470c19e1d3a534e329a3d5f0f4d.jpg) |![](/assets/b970b672cede966a2fcd804f4c86657.jpg) |![](/assets/8af07dba0a378defcb24bb727065519.jpg) |![](/assets/4adde0caaba3b0cec39e80a672ff58a.jpg) |
 |:----------: |:----------: |:----------: |:----------: |:----------: |
 |  1   |   2   |    3   |    4   |   5   | 
@@ -55,7 +53,32 @@ typora-root-url: ../
 
 ## 6.2 iPhone收不到通知？
 
-可能打开了[勿扰模式]
+### 6.2.1 未开通 家庭App 通知权限
+
+从iPhone设置中找到**通知**，从**通知**中找到**家庭**，将通知权限全部打开。
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/8c15851daae8359a5e9c002a2c413fd1.jpg" alt="截图1" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">1</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/cdf029750efa25e3d5f91c14c64af55f.jpg" alt="截图2" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2</div>
+  </div>
+  <div style="width: 32%; text-align: center;">
+    <div style="width: 100%; position: relative;">
+      <img src="/assets/011bc89e4d3ecde1a21bfd4a51b7e460.jpg" alt="截图3" style="width: 100%; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">3</div>
+  </div>
+</div>
+
+### 6.2.1 可能打开了[勿扰模式]
 
 ## 6.3 偶尔收到不到？
 
