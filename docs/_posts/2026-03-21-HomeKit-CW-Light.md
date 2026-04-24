@@ -26,8 +26,17 @@ HomeKit可调色温白光氛围灯可通过Siri、iPhone进行调光调色。
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/21f5fbaef1b1a4d4f9f4177ae5a946f5.mp4#t=0.001" type="video/mp4">
 </video>
 
+# 3. 使用智能遥控使用（选配）
 
-# 3. 恢复出厂
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/22d2a84ac7c2753de308c36fed2a4b7a.mp4#t=0.001" type="video/mp4">
+</video>
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250428150004.mp4#t=0.001" type="video/mp4">
+</video>
+
+# 4. 恢复出厂
 
 连续上电下电5次则会自动恢复出厂
 
