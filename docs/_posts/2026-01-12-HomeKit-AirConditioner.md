@@ -69,7 +69,18 @@ typora-root-url: ../
 
 ## 3.1 一键识别
 
-需要借助原空调遥控器来实现，USB上的按键按下3秒松手，用遥控器对着空调伴侣按开关机，连续10次左右，这时可以通过手机尝试控制开关空调，调整温度如果能正常控制则说明已经识别到。如果完全不识别、或者识别成功但是无法控制可以尝试【手动选择品牌】方式
+1. 准备原空调遥控器，确保其电池有电且能正常使用。（仅支持原厂原装遥控器）
+2. 按住空调伴侣USB上的配对按键 3秒后松开，进入学习/配对模式。
+3. 将原空调遥控器对准空调伴侣，连续按压开关机键约10次（每次按下后等待遥控器信号发送完成）。
+4. 操作完成后，通过手机App尝试控制空调：
+  - 尝试开关空调；
+  - 尝试调节温度。
+
+5. 判断结果：
+  - 如果手机能正常控制开关机和调节温度，则配对成功。
+  - 如果完全无法识别，或虽识别但无法正常控制，请尝试使用【手动选择品牌】的方式进行配对。
+
+
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/2ebfc5b0ef8fa7a265d58b9218baa323.mp4#t=0.001" type="video/mp4">
@@ -77,7 +88,14 @@ typora-root-url: ../
 
 ## 3.2 手动选择品牌
 
-添加之后，进入到配件设置界面，找到串号长按复制，粘贴到Safari浏览器打开，这时会打开配件内置的设置界面，可以进行选择品牌和协议，如果某个协议能支持正常开机和关机，可以点击保存，切换回家庭App进行控制，如果制冷、制热、调温、风速、摆风都正常则算成功。
+1. 配件添加成功后，进入该配件的设置界面。
+2. 在设置界面中找到串号（序列号），长按串号进行复制。
+3. 打开 Safari 浏览器，将复制的串号粘贴到地址栏并访问，此时会打开配件内置的Web设置界面。
+4. 在内置设置界面中，选择品牌和协议。
+5. 选择完成后，测试该协议是否支持正常开机和关机。
+6. 若某个协议能正常支持开关机，点击保存。
+7. 保存后，切换回手机的家庭 App（或对应智能家居App），对空调进行控制测试。
+8. 判断成功标准：制冷、制热、调节温度、风速、摆风等功能均能正常控制，则配对成功。
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250720201200.mp4#t=0.001" type="video/mp4">
@@ -121,9 +139,9 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250804112338.mp4#t=0.001" type="video/mp4">
 </video>
 
-# 5 常见问题
+# 5. 常见问题
 
-# 5.1 温度明显过高 (比如显示72度)
+## 5.1 温度明显过高 (比如显示72度)
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="width: 32%; text-align: center;">
@@ -145,6 +163,22 @@ typora-root-url: ../
     <div style="width: 100%; text-align: center; margin-top: 8px;">解决方案</div>
   </div>
 </div>
+
+## 5.2 空调无反应
+
+空调伴侣是遥控器原理，三颗白色LED这面对准空调，并且中间不要有遮挡。
+
+| [<img src="/assets/fbd69b59263f4edc449c677892b19610.jpg" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
+| :------------: | 
+|          三颗白色LED这面对准空调    |
+
+# 6. 恢复出厂
+
+设备上的按钮`长按10秒钟`指示灯由闪烁到熄灭，即可恢复出厂。
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/b98a5f7368f729e9e6152d88bc56bb44.mp4#t=0.001" type="video/mp4">
+</video>
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
