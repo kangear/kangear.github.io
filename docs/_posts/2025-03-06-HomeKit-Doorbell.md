@@ -31,6 +31,12 @@ typora-root-url: ../
 |:----------: |:----------: |:----------: |:----------: |:----------: |
 |  1   |   2   |    3   |    4   |   5   | 
 
+3. 门铃按键匹配
+
+<video width="320" height="450" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/8482a3a72224ef47f3c30ee5e1ce5a69.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 3. 使用控制
 
 此时，按下门铃按钮HomePod可以发现响声，iPhone、Apple Watch、Apple TV可以收到推送通知。
