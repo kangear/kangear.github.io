@@ -67,5 +67,13 @@ typora-root-url: ../
 
 如果调整参数之后还不灵敏，可以考虑使用充电宝充着电，或者一根充电线连着就可以增强感应电，让触摸变得更准确灵敏。
 
+## 4.3 实现连续触控两次
+
+<video width="500" height="500" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/339c7fa4a827b814d37fbebb208cb189.mp4#t=0.001" type="video/mp4">
+</video>
+
+
+
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
