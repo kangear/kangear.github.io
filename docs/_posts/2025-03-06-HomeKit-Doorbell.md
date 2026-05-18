@@ -31,19 +31,26 @@ typora-root-url: ../
 |:----------: |:----------: |:----------: |:----------: |:----------: |
 |  1   |   2   |    3   |    4   |   5   | 
 
-# 3. 使用控制
+# 3. 门铃按键匹配
 
+<video width="320" height="450" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/8482a3a72224ef47f3c30ee5e1ce5a69.mp4#t=0.001" type="video/mp4">
+</video>
 此时，按下门铃按钮HomePod可以发现响声，iPhone、Apple Watch、Apple TV可以收到推送通知。
 
-# 4. 注意事项
-
-1. 如果将开关安装在金属物（如铁铁门框等）上，会严重影响开关发射距离；
-
-# 5. 安装必读
+# 4. 安装必读
 
 1. 请勿安袭在防盗门上，金属会减弱信号。
 2. 您可以先关上门，在想要安装的位置测试之后，再撕开双面胶固定。
 3. 固定方式：建议先擦净墙上的灰，然后贴上门铃并按住5秒以上，若担心粘用不牢固，可使用螺钉安装。(请参考说明书)
+
+# 5. 恢复出厂
+
+设备上的按钮`长按10秒钟`指示灯由闪烁到熄灭，即可恢复出厂。
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/b98a5f7368f729e9e6152d88bc56bb44.mp4#t=0.001" type="video/mp4">
+</video>
 
 # 6. 常见问题
 
