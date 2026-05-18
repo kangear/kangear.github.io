@@ -49,6 +49,12 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/20250724-153220.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 3.1 添加机器人数量
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/3dc57e82bf238dafc4942515d6c1f071.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 4. 使用控制
 
 如演示视频所示。
