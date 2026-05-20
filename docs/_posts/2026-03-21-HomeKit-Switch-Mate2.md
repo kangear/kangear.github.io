@@ -88,7 +88,14 @@ typora-root-url: ../
 </div>
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/9e40f40524e5555f893a2447c416ab98.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/28097b6e8ea404556ca3f223318607c4.mp4#t=0.001" type="video/mp4">
 </video>
+
+# 5. 常见问题
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/6bb929ccfc79ac9997d56884f0d55470.mp4#t=0.001" type="video/mp4">
+</video>
+
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
