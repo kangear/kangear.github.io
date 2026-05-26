@@ -68,6 +68,12 @@ typora-root-url: ../
 
 如果以上功能已经正常，则不需要以下操作。
 
+## 3.0 设置为多个机器人
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/35cfa6e242d0080529fd0b4c2fcb81e0.mp4#t=0.001" type="video/mp4">
+</video>
+
 ## 3.1 配对圆形遥控
 
 | [<img src="/assets/ddf92f5c3acae072b3e654e43e73be2.jpg" width="600"/>](/assets/ddf92f5c3acae072b3e654e43e73be2.jpg)|
