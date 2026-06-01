@@ -79,7 +79,7 @@ typora-root-url: ../
 如果以上两种方式均不可以，还可以采用学习方式，这种方式不区分空调型号。
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/d2507e319aae5c9897d35eda7c449db2.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/0ebe5980265e75709ec0626dceff8ff6.mp4#t=0.001" type="video/mp4">
 </video>
 
 # 4. 更多设置
