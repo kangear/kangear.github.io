@@ -43,19 +43,19 @@ typora-root-url: ../
 
 # 3. 识别空调型号
 
-## 3.1 手动选择品牌
+## 3.1 手动选择品牌方式
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/68c3bfc05b3907a6441734f908886351.mp4#t=0.001" type="video/mp4">
 </video>
 
-## 3.2 一键识别
+## 3.2 一键识别方式
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/7843f57125a915071d1bdefbf0f10ba2.mp4#t=0.001" type="video/mp4">
 </video>
 
-## 3.3 学习按键
+## 3.3 学习按键方式
 
 如果以上两种方式均不可以，还可以采用学习方式，这种方式不区分空调型号。
 
