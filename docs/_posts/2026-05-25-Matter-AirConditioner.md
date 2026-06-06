@@ -37,42 +37,23 @@ typora-root-url: ../
 
 1. 打开 家庭App，扫描设备上的Matter二维码进行添加，配置的后半程`关键步骤`如下所示：
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <div style="width: 23%; text-align: center;">
-    <div style="width: 100%; position: relative;">
-      <img src="/assets/2047a0fdad43ce3fdf903290cbc48fdc.jpg" alt="截图1" style="width: 100%; display: block;" />
-    </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">1</div>
-  </div>
-  <div style="width: 23%; text-align: center;">
-    <div style="width: 100%; position: relative;">
-      <img src="/assets/a1d16c37d86dae7ac4b312eeeecb0bf5.jpg" alt="截图2" style="width: 100%; display: block;" />
-    </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">添加后效果</div>
-  </div>
-  <div style="width: 23%; text-align: center;">
-    <div style="width: 100%; position: relative;">
-      <img src="/assets/8e6cc5cbb8d069fd1d5d98d0da110ada.jpg" alt="效果" style="width: 100%; display: block;" />
-    </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">空调主界面</div>
-  </div>
-  <div style="width: 23%; text-align: center;">
-    <div style="width: 100%; position: relative;">
-      <img src="/assets/c415fd3c2548a675d1290469f46d3837.jpg" alt="效果" style="width: 100%; display: block;" />
-    </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">风速和摆风</div>
-  </div>
-</div>
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/7843f57125a915071d1bdefbf0f10ba2.mp4#t=0.001" type="video/mp4">
+</video>
 
 # 3. 识别空调型号
 
 ## 3.1 手动选择品牌
 
-待补充
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/68c3bfc05b3907a6441734f908886351.mp4#t=0.001" type="video/mp4">
+</video>
 
 ## 3.2 一键识别
 
-待补充
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/7843f57125a915071d1bdefbf0f10ba2.mp4#t=0.001" type="video/mp4">
+</video>
 
 ## 3.3 学习按键
 
@@ -97,15 +78,15 @@ typora-root-url: ../
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/dbb2f619c816b56eb75fb07897780e06.jpg" alt="截图2" style="width: 100%; display: block;" />
+      <img src="/assets/62603dc27635351b7723256ed57fb36c.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">高级设置界面</div>
   </div>
   <div style="width: 32%; text-align: center;">
     <div style="width: 100%; position: relative;">
-      <img src="/assets/1c6498b0ebfaec0427852ff78f3b2dad.jpg" alt="截图3" style="width: 100%; display: block;" />
+      <img src="/assets/4bc944b3d68b1036119ac1a18c17fee9.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">修改Heat对应的功能</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">修改制热(HomeKit中显示升温)对应的功能</div>
   </div>
 </div>
 
