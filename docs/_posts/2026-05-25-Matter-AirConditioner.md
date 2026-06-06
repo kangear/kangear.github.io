@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matter空调伴侣说明书"
+title:  "Matter空调伴侣使用说明"
 date:   2026-05-25 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
@@ -9,7 +9,7 @@ typora-root-url: ../
 
 # 1. 开始之前
 
-空调伴侣，代替原遥控器，可以理解为接入了Matter智能空调遥控器。实现了直接喊Siri就可以开关空调，可以定时开关，也可以在回到家之前提前打开空调，刚进家门就立即享受凉爽。
+空调伴侣，代替原遥控器，可以理解为接入了Matter智能空调遥控器。将家中的空调统一接入主流智能家居平台，包括Apple HomeKit、Google Home、Amazon Alexa、Aqara、Samsung SmartThings等。支持语音控制、远程操作、自动化场景和定时任务等功能。只需扫描Matter二维码一键添加，即可在多个平台享受无缝的智能家居体验。语音控制上可以直接喊Siri就可以开关空调，可以定时开关，也可以在回到家之前提前打开空调，刚进家门就立即享受凉爽。
 
 ## 1.1 功能演示
 
@@ -38,7 +38,7 @@ typora-root-url: ../
 1. 打开 家庭App，扫描设备上的Matter二维码进行添加，配置的后半程`关键步骤`如下所示：
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/7843f57125a915071d1bdefbf0f10ba2.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/801c307a533db04596354d0a7ff753f2.mp4#t=0.001" type="video/mp4">
 </video>
 
 # 3. 识别空调型号
