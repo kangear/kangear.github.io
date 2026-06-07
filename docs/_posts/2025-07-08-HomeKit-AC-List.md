@@ -73,6 +73,7 @@ typora-root-url: ../
 | 58 | 松下(柜机)               | A75C4656     | No       |    | 改用学习方式了 |
 | 59 | 松下  | A75C3208     | YES(8.1024)   |    |  |
 | 60 | LG  | AMNC09GDJA0     | YES   |    |  |
+| 61 | 开利(carrier)  | RG67N/BGEF     | YES   |    |  |
 
 
 ## A库支持表
