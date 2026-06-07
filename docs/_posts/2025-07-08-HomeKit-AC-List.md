@@ -74,7 +74,7 @@ typora-root-url: ../
 | 59 | 松下  | A75C3208     | YES(8.1024)   |    |  |
 | 60 | LG  | AMNC09GDJA0     | YES   |    |  |
 | 61 | 开利(carrier)  | RG67N/BGEF     | YES   |    |  |
-
+| 62 | 三菱重工  | RYD502A 042 | NO  |    |  |
 
 ## A库支持表
 
