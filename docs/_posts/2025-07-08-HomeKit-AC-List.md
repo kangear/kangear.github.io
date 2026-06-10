@@ -74,6 +74,7 @@ typora-root-url: ../
 | 59 | 松下  | A75C3208     | YES(8.1024)   |    |  |
 | 60 | LG  | AMNC09GDJA0     | YES   |    |  |
 | 61 | 开利(carrier)  | RG67N/BGEF     | YES   |    |  |
+| 62 | 乐信(Rasonic) RC-XG9  | -     | YES   |    |  |
 
 
 ## A库支持表
