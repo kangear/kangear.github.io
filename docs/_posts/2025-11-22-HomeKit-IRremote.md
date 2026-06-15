@@ -33,7 +33,7 @@ typora-root-url: ../
   </div>
 </div>
 
-# 学习遥控器按键
+# 学习遥控器按键（旧版）
 
 1. 长按小按键 3 秒松手，灯灭，进入学习
 2. 按遥控器目标键，灯快闪，表示收码成功
@@ -44,6 +44,14 @@ typora-root-url: ../
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/cee32cd7fe4c1ee95e734cfceef8e581.mp4#t=0.001" type="video/mp4">
 </video>
+
+# 学习遥控器按键（新版）
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/95a55ba3c8e502a8ed808376d763e10a.mp4#t=0.001" type="video/mp4">
+</video>
+
+
 
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
