@@ -35,6 +35,28 @@ typora-root-url: ../
 | :------------: | 
 |          无边框    |
 
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ceb6e8397e31ce99b2ce384e035e6c2a.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 2.1 大按键开关
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/8911c14b69f124550f37e89eece3af92.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 2.2 118型开关
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/92324d6334d26573574f401db5f985fb.mp4#t=0.001" type="video/mp4">
+</video>
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/fb93871fe663d9284ceab0181f52fd7c.mp4#t=0.001" type="video/mp4">
+</video>
+
+
+
 # 3. 添加到苹果家庭
 
 1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
