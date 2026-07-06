@@ -77,6 +77,7 @@ typora-root-url: ../
 | 62 | 三菱重工  | RYD502A 042 | NO  |    |  |
 | 63 | 大金(Daikin)  | FT50FVM | YES(6.1028)  |    |  |
 | 64 | 乐信(Rasonic) RC-XG9  | -     | YES   |    |  |
+| 65 | 台湾三洋(Sunlux) | RCH-RTY5-0(SAX/TW) | YES   |    | 选海信ok了 |
 
 ## A库支持表
 
