@@ -61,7 +61,13 @@ typora-root-url: ../
 
 # 5. 充电
 
-如果力不够说明电量不足需要充电；该设备不支持快充，需要使用USB-A口转C口线插到USB伴侣尾部进行充电，如果指示灯不显示，可以按下指示灯旁边的按键。
+如果力不够说明电量不足需要充电；该设备不支持快充，如果充电宝只有快充功能可以购买一个转接头（关键词：`5.1k 转接头`，价格5元左右），如果指示灯不显示，可以按下指示灯旁边的按键。
+
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/fc8cadedb79c76aa29967d744b0f06c1.mp4#t=0.001" type="video/mp4">
+</video>
+转接头充电效果
 
 ## 5.1 指示灯说明
 
