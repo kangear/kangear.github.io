@@ -40,15 +40,20 @@ typora-root-url: ../
 
 设备安装两节AAA电池之后，指示灯会亮；打开iPhone的家庭App，按下右上角+号，选择添加设备，对准设备上的二维进行扫码添加。
 
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/cf6f0d8e776432cd2a2f2373791d493d.mp4#t=0.001" type="video/mp4"> 
+</video>
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e8b43783ecc234fde61516925c93b8ed.mp4#t=0.001" type="video/mp4"> 
+</video>
+
+
 # 3. 按键配置教程
 
 ## 3.1 基本配置
 
-结合空调伴侣，可以实现面板一键打开关闭空调，以下是配置过程演示
-
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ac7dbbe85de4bc00731e499f0ffe3874.mp4#t=0.001" type="video/mp4"> 
-</video>
+.
 
 ## 3.2 点动控制灯
 
