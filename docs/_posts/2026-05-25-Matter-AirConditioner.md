@@ -43,6 +43,8 @@ typora-root-url: ../
 
 # 3. 识别空调型号
 
+注：以下方法中如果复制序列号在Safari中打不开，白屏或者进入到了百度、Google搜索界面，可以粘贴后在地址前面添加一个`http://`，不过一般不需要。
+
 ## 3.1 手动选择品牌方式
 
 <video width="240" height="320" controls>
