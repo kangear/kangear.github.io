@@ -51,6 +51,8 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/68c3bfc05b3907a6441734f908886351.mp4#t=0.001" type="video/mp4">
 </video>
 
+注：香港General品牌可以选择【富士通】，台湾三洋(Sanlux)品牌型号RCH开头可以选择【海信】。
+
 ## 3.2 一键识别方式
 
 <video width="240" height="320" controls>
