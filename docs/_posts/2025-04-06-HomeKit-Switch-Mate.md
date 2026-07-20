@@ -64,6 +64,12 @@ typora-root-url: ../
 
 此时已经完成配置，可以直接使用。其中`电梯`是用来控制电梯，`灵动`是控制自动回弹的面板，`翘板`是控制普通的翘板开关面板。可以只使用适合自己模式，其他两个按钮隐藏即可。
 
+# 2.4 豆型开关安装说明
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/3abb56426a3631072e1f5b65882632f3.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 3. 高级设置（可选）
 
 如果以上功能已经正常，则不需要以下操作。
