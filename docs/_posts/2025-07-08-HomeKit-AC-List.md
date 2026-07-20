@@ -68,16 +68,18 @@ typora-root-url: ../
 | 53 | 创维(SKYWORTH)                   | 末排:防直吹健康、智联、定时 |-|AIRTON(109)| -  |
 | 54 | 格力                             |YAPOF3        | YES        |    -            | -  |
 | 55 | 三菱电机(MS-A18VD)               |-       | YES        |    -            | 列表中没有，但支持 |
-| 56 | 三菱重工(SRK53MHIP1/SRC53MHIP1)               | RYD502A 043C     | ?        |    -            | |
-| 57 | 三菱重工()               | RYD502A 043B     | No       |    | 改用学习方式了 |
-| 58 | 松下(柜机)               | A75C4656     | No       |    | 改用学习方式了 |
-| 59 | 松下  | A75C3208     | YES(8.1024)   |    |  |
-| 60 | LG  | AMNC09GDJA0     | YES   |    |  |
-| 61 | 开利(carrier)  | RG67N/BGEF     | YES   |    |  |
-| 62 | 三菱重工  | RYD502A 042 | NO  |    |  |
-| 63 | 大金(Daikin)  | FT50FVM | YES(6.1028)  |    |  |
-| 64 | 乐信(Rasonic) RC-XG9  | -     | YES   |    |  |
-| 65 | 台湾三洋(Sanlux) | RCH-RTY5-0(SAX/TW) | YES   |    | 选海信ok了 |
+| 56 | 三菱重工(SRK53MHIP1/SRC53MHIP1)  | RYD502A 043C     | ?        |    -            | |
+| 57 | 三菱重工()                       | RYD502A 043B     | No       |    | 改用学习方式了 |
+| 58 | 松下(柜机)                       | A75C4656     | No       |    | 改用学习方式了 |
+| 59 | 松下                            | A75C3208     | YES(8.1024)   |    |  |
+| 60 | LG                              | AMNC09GDJA0     | YES   |    |  |
+| 61 | 开利(carrier)                   | RG67N/BGEF     | YES   |    |  |
+| 62 | 三菱重工                        | RYD502A 042 | NO  |    |  |
+| 63 | 大金(Daikin)                    | FT50FVM | YES(6.1028)  |    |  |
+| 64 | 乐信(Rasonic) RC-XG9            | -     | YES   |    |  |
+| 65 | 台湾三洋(Sanlux)                 | RCH-RTY5-0(SAX/TW) | YES   |    | 选海信ok了 |
+| 66 | 大金(Daikin)                    | BRC4C153 | No |  YES(DAIKIN176)  |  |
+| 67 | 松下(Panasonic)                 | CS-C12DKH | YES | |  |
 
 ## A库支持表
 
