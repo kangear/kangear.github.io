@@ -19,12 +19,7 @@ Matter可调色温白光氛围灯可通过Siri、iPhone进行调光调色。
 
 # 2. 添加到苹果家庭
 
-1. 参照《[HomeKit配件使用说明][2]》进行配置WiFi和添加（**重要**）
-2. 视频教程
-
-<video width="500" height="500" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/21f5fbaef1b1a4d4f9f4177ae5a946f5.mp4#t=0.001" type="video/mp4">
-</video>
+1. 使用家庭App扫码添加
 
 # 3. 使用智能遥控使用（选配）
 
