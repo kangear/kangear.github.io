@@ -140,11 +140,10 @@ typora-root-url: ../
 
 # 6. 恢复出厂
 
-设备上的按钮`长按10秒钟`指示灯由闪烁到熄灭，即可恢复出厂。
+设备上的按钮`长按10秒钟`后松手，指示灯开始慢闪，即恢复出厂成功。
 
 <video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/b98a5f7368f729e9e6152d88bc56bb44.mp4#t=0.001" type="video/mp4">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/30121b222bbf4fb2bc12e7ad36a381a5.mp4#t=0.001" type="video/mp4">
 </video>
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
-[2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
