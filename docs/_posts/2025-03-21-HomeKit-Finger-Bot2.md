@@ -55,6 +55,12 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/3dc57e82bf238dafc4942515d6c1f071.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 3.2 物理按键+电容屏通用网关
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/bf23bcbc81b2e2e59b265c9d87b74bec.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 4. 使用控制
 
 如演示视频所示。
