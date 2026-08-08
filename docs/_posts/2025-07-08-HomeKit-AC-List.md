@@ -80,6 +80,8 @@ typora-root-url: ../
 | 65 | 台湾三洋(Sanlux)                 | RCH-RTY5-0(SAX/TW) | YES   |    | 选海信ok了 |
 | 66 | 大金(Daikin)                    | BRC4C153 | No |  YES(DAIKIN176)  |  |
 | 67 | 松下(Panasonic)                 | CS-C12DKH | YES | |  |
+| 68 | 日立(RAS-AJN25D(W))             | -         | YES(5.832)   |    |  |
+
 
 ## A库支持表
 
