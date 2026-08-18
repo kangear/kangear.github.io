@@ -81,6 +81,8 @@ typora-root-url: ../
 | 66 | 大金(Daikin)                    | BRC4C153 | No |  YES(DAIKIN176)  |  |
 | 67 | 松下(Panasonic)                 | CS-C12DKH | YES | |  |
 | 68 | 日立(RAS-AJN25D(W))             | -         | YES(5.832)   |    |  |
+| 69 | 大金(Daikin)                    | FTWN25JV1 | NO   |  YES(DAIKIN160) |  |
+| 70 | 松下CZ-RD501DW1                 | - |    |   | 面板不支持红外 |
 
 
 ## A库支持表
