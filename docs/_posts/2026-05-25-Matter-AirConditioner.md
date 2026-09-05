@@ -39,6 +39,8 @@ typora-root-url: ../
 1. 给空调伴侣上电，最好使用5V2A以上充电头（电源适配器）
 2. 打开 苹果家庭App，扫描设备上的Matter二维码进行添加，配置的后半程`关键步骤`如下所示：
 
+扫码添加失败？请查看[常见问题：无法添加配件](#faq-add-accessory-failed)。
+
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/801c307a533db04596354d0a7ff753f2.mp4#t=0.001" type="video/mp4">
 </video>
@@ -146,13 +148,19 @@ typora-root-url: ../
 | :------------: | 
 |          三颗白色LED这面对准空调    |
 
+<a id="faq-add-accessory-failed"></a>
+
 ### 5.5 无法添加配件
 
 | [<img src="/assets/16c2e0bf02d85de8388abbb3ff7f6541.png" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
 | :------------: | 
 |          无法添加配件    |
 
-解决方案：重启iPhone后再次添加即可
+可以按以下顺序排查：
+
+1. 如果设备指示灯闪烁不规律，优先查看[指示灯闪烁不规律](#faq-led-blink)。
+2. 如果供电正常，但苹果家庭App提示无法添加配件，重启iPhone后再次添加。
+3. 如果多次添加失败，可以参考[恢复出厂](#6-恢复出厂)，恢复后重新扫码添加。
 
 ### 5.6 未响应
 
@@ -170,19 +178,26 @@ typora-root-url: ../
 
 解决方案：HomePod固件版本过低（比如18版本），升级后解决
 
-### 5.8 上电闪烁不规律
+<a id="faq-led-blink"></a>
 
-正常闪烁
+### 5.8 指示灯闪烁不规律
 
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e695abe67d3894c45243b210732e3de5.mp4#t=0.001" type="video/mp4">
-</video>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 16px; overflow-x: auto; margin-bottom: 16px;">
+  <figure style="margin: 0; text-align: center; flex: 0 0 auto;">
+    <video width="240" height="320" controls>
+      <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e695abe67d3894c45243b210732e3de5.mp4#t=0.001" type="video/mp4">
+    </video>
+    <figcaption style="margin-top: 8px;">正常闪烁</figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center; flex: 0 0 auto;">
+    <video width="240" height="320" controls>
+      <source src="https://homekit.oss-cn-beijing.aliyuncs.com/701ce06032c145eb5edb8ab742aa1b19.mp4#t=0.001" type="video/mp4">
+    </video>
+    <figcaption style="margin-top: 8px;">异常闪烁</figcaption>
+  </figure>
+</div>
 
-异常闪烁例子，一般是供电不足，需要更换充电头，一般插座自带USB口、5V1A充电头容易出现供电不足。
-
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/701ce06032c145eb5edb8ab742aa1b19.mp4#t=0.001" type="video/mp4">
-</video>
+解决方案：一般是供电不足，需要更换充电头，插座自带USB口、5V1A充电头容易出现供电不足。
 
 ## 6. 恢复出厂
 
