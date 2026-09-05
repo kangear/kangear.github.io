@@ -86,4 +86,29 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1053_1752255284.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 6. 常见问题
+
+### 6.1 长度不够、按不到、力不够?
+
+一般是长度不够，机器人默认配置的打击锤是用于凸出平面的按钮，如果按钮比较矮会出现按不到的情况，可以自行加高按钮，或者购买加`长打击锤配件包`。
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/39c2eaac6454901212b4c8344a9cb9c8.mp4#t=0.001" type="video/mp4">
+</video>
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/beb1f199272e42f113f9e24353618d15.mp4#t=0.001" type="video/mp4">
+</video>
+
+
+### 配件包
+
+| [<img src="/assets/11a83dca0b242ec54232f77f877dbf4f.png"  width="250"/>](/assets/11a83dca0b242ec54232f77f877dbf4f.png)|
+| :------------: | 
+|          打击锤配件包（中间为默认的）    |
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/fe6f35de5c6b03d9e6c2d15bbe94d6be.mp4#t=0.001" type="video/mp4">
+</video>
+
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
