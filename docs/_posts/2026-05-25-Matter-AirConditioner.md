@@ -18,13 +18,14 @@ typora-root-url: ../
 | :------------: | 
 |          安装效果    |
 
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/950d211ae4f89d24f43c4f9e7a0d5a98.mp4#t=0.001" type="video/mp4">
-</video>
-
-<video width="240" height="320" controls>
-  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/c9e28578e28270895f62d71d1ef819fa.mp4#t=0.001" type="video/mp4">
-</video>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 16px; overflow-x: auto; margin-bottom: 16px;">
+  <video width="240" height="320" controls style="flex: 0 0 auto;">
+    <source src="https://homekit.oss-cn-beijing.aliyuncs.com/950d211ae4f89d24f43c4f9e7a0d5a98.mp4#t=0.001" type="video/mp4">
+  </video>
+  <video width="240" height="320" controls style="flex: 0 0 auto;">
+    <source src="https://homekit.oss-cn-beijing.aliyuncs.com/c9e28578e28270895f62d71d1ef819fa.mp4#t=0.001" type="video/mp4">
+  </video>
+</div>
 
 
 ## 1.2 确认配件齐全
@@ -74,20 +75,20 @@ typora-root-url: ../
 
 复制序列号在Safari打开，可以修改制热功能，将其映射为除湿、吹风等模式。
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <div style="width: 32%; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 28px; margin-bottom: 16px;">
+  <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/b5e12cdb7f985b5d9bb4b98c6105cae4.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">复制序列号</div>
   </div>
-  <div style="width: 32%; text-align: center;">
+  <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/62603dc27635351b7723256ed57fb36c.jpg" alt="截图2" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">高级设置界面</div>
   </div>
-  <div style="width: 32%; text-align: center;">
+  <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/4bc944b3d68b1036119ac1a18c17fee9.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
