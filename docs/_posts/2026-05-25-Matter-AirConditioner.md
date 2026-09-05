@@ -163,6 +163,20 @@ typora-root-url: ../
 
 解决方案：HomePod固件版本过低（比如18版本），升级后解决
 
+## 5.6 上电闪烁不规律
+
+正常闪烁
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/e695abe67d3894c45243b210732e3de5.mp4#t=0.001" type="video/mp4">
+</video>
+
+异常闪烁例子，一般是供电不足，需要更换充电头，一般插座自带USB口、5V1A充电头容易出现供电不足。
+
+<video width="240" height="320" controls>
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/701ce06032c145eb5edb8ab742aa1b19.mp4#t=0.001" type="video/mp4">
+</video>
+
 # 6. 恢复出厂
 
 设备上的按钮`长按10秒钟`后松手，指示灯开始慢闪，即恢复出厂成功。
