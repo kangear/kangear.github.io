@@ -45,15 +45,15 @@ typora-root-url: ../
 
 ## 3. 识别空调型号
 
-注：以下方法中如果复制序列号在Safari中打不开，白屏或者进入到了百度、Google搜索界面，可以粘贴后在地址前面添加一个`http://`，不过一般不需要。非常小概率打不开的情况下，可以通过路由器找到ESP开头设备的IP地址填写到Safari地址栏进行打开。
-
 ### 3.1 手动选择品牌方式
 
 <video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/68c3bfc05b3907a6441734f908886351.mp4#t=0.001" type="video/mp4">
 </video>
 
-注：香港General品牌可以选择【富士通】，台湾三洋(Sanlux)品牌型号RCH开头可以选择【海信】。
+配置网页打不开？请查看[常见问题：配置网页打开](#faq-config-page)。
+
+特殊品牌找不到？请查看[常见问题：品牌选择](#faq-brand-selection)。
 
 ### 3.2 一键识别方式
 
@@ -126,7 +126,19 @@ typora-root-url: ../
   </div>
 </div>
 
-### 5.2 空调无反应
+<a id="faq-config-page"></a>
+
+### 5.2 配置网页打开
+
+如果复制序列号在Safari中打不开，白屏或者进入到了百度、Google搜索界面，可以粘贴后在地址前面添加一个`http://`，不过一般不需要。非常小概率打不开的情况下，可以通过路由器找到ESP开头设备的IP地址填写到Safari地址栏进行打开。
+
+<a id="faq-brand-selection"></a>
+
+### 5.3 品牌选择
+
+香港General品牌可以选择【富士通】，台湾三洋(Sanlux)品牌型号RCH开头可以选择【海信】。
+
+### 5.4 空调无反应
 
 空调伴侣是遥控器原理，三颗白色LED这面对准空调，并且中间不要有遮挡。
 
@@ -134,7 +146,7 @@ typora-root-url: ../
 | :------------: | 
 |          三颗白色LED这面对准空调    |
 
-### 5.3 无法添加配件
+### 5.5 无法添加配件
 
 | [<img src="/assets/16c2e0bf02d85de8388abbb3ff7f6541.png" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
 | :------------: | 
@@ -142,7 +154,7 @@ typora-root-url: ../
 
 解决方案：重启iPhone后再次添加即可
 
-### 5.4 未响应
+### 5.6 未响应
 
 | [<img src="/assets/7156f8c52d0403191b0aaa1b4064293a.jpg" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
 | :------------: | 
@@ -150,7 +162,7 @@ typora-root-url: ../
 
 解决方案：将HomePod切到2.4G WiFi，如果出现感叹号，重启路由器即可
 
-### 5.5 不支持
+### 5.7 不支持
 
 | [<img src="/assets/ca261b5322a3c63c8aca27f6e4d97ec2.png" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
 | :------------: | 
@@ -158,7 +170,7 @@ typora-root-url: ../
 
 解决方案：HomePod固件版本过低（比如18版本），升级后解决
 
-### 5.6 上电闪烁不规律
+### 5.8 上电闪烁不规律
 
 正常闪烁
 
