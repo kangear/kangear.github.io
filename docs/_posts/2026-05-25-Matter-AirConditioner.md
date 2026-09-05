@@ -110,22 +110,16 @@ typora-root-url: ../
 
 ## 5.1 温度明显过高 (比如显示72度)
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <div style="width: 32%; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 36px; margin-bottom: 16px;">
+  <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/05981f71e602a044d75a368894d2373b.jpg" alt="截图1" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">现象</div>
   </div>
-  <div style="width: 32%; text-align: center;">
+  <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
       <img src="/assets/7f407565218a65c638d62e1676884dfd.jpg" alt="截图2" style="width: 100%; display: block;" />
-    </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">解决方案</div>
-  </div>
-  <div style="width: 32%; text-align: center;">
-    <div style="width: 100%; position: relative;">
-      <img src="/assets/7f407565218a65c638d62e1676884dfd.jpg" alt="截图3" style="width: 100%; display: block;" />
     </div>
     <div style="width: 100%; text-align: center; margin-top: 8px;">解决方案</div>
   </div>
