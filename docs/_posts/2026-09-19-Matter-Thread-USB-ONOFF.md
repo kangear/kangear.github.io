@@ -13,9 +13,9 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 
 ## 2. 中枢要求
 
-| [<img src="/assets/ScreenShot_2026-03-02_131601_097.png" width="300"/>](/assets/ScreenShot_2026-03-02_131601_097.png)|
+| [<img src="/assets/95ee4ca45262f6454aec6c2979d5e486.png" width="500"/>](/assets/95ee4ca45262f6454aec6c2979d5e486.png)|
 | :------------: | 
-|         接线图    |
+|         支持Thread的中枢（不完全统计）    |
 
 
 ## 3. 恢复出厂
