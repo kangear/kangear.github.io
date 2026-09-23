@@ -13,7 +13,7 @@ Matter可调色温白光氛围灯可通过Siri、iPhone进行调光调色。同�
 
 ### 1.1 功能演示
 
-<video width="500" height="500" controls>
+<video width="240" height="320" controls>
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/ab6322730824033a7c8df95368ef673f.mp4#t=0.001" type="video/mp4">
 </video>
 
@@ -46,10 +46,6 @@ Matter可调色温白光氛围灯可通过Siri、iPhone进行调光调色。同�
 ### 5.1 自动开灯
 
 添加时手机会引导使用【回家开灯、离家关灯】等自动化，如果开启自动化，则会引起自动开灯。
-
-### 5.1 底座烫手
-
-最大亮度长时间使用会导致底座温度高，这是正常现象，请勿直接用手触摸底座。
 
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
