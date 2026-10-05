@@ -18,9 +18,21 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 |         支持Thread的中枢（不完全统计）    |
 
 
-## 3. 恢复出厂
+## 3. 添加到Apple Home
 
-长按按键10秒恢复出厂。
+长按按键10秒松手，设备会进入配网状态，指示灯闪烁。
+
+<video width="240" height="320" controls style="display: block; margin: 0 auto 16px;">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/a29276ecde96ab7ec5ce92dfba5373eb.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 4. 充电
+
+充电过程中指示灯呼吸状态，充满之后指示灯长亮。
+
+<video width="240" height="320" controls style="display: block; margin: 0 auto 16px;">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1ad741a4571be548649afa647052572e.mp4#t=0.001" type="video/mp4">
+</video>
 
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
