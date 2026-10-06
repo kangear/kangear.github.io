@@ -41,10 +41,10 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
   <tr>
     <td style="text-align: center;">
-      <img src="/assets/c91e40d258c3c0230c8f48577118be2b.jpg" alt="有帮助的截图" style="width: 100%;" />
+      <img src="/assets/c91e40d258c3c0230c8f48577118be2b.jpg" alt="有帮助的截图" style="width: 66.67%;" />
     </td>
     <td style="text-align: center;">
-      <img src="/assets/8f85c7ef22ad8c98d85a174926767b5e.jpg" alt="有帮助的截图" style="width: 100%;" />
+      <img src="/assets/8f85c7ef22ad8c98d85a174926767b5e.jpg" alt="有帮助的截图" style="width: 66.67%;" />
     </td>
   </tr>
   <tr>
@@ -52,6 +52,8 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
     <td style="text-align: center;">修改Mode</td>
   </tr>
 </table>
+
+模式说明
 
 | 模式 | 解释 |
 | --- | --- |
