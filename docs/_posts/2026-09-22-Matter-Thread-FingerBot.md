@@ -34,6 +34,25 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1ad741a4571be548649afa647052572e.mp4#t=0.001" type="video/mp4">
 </video>
 
+## 5. 更新固件
+
+连接电脑或者Mac可以更新固件，待补充
+
+## 6. 设置运行模式
+
+需要下载`Thread Doctor`工具App进行调节参数。
+
+| [<img src="/assets/8f85c7ef22ad8c98d85a174926767b5e.jpg" width="300"/>](/assets/fbd69b59263f4edc449c677892b19610.jpg)|
+| :------------: | 
+|         Thread Doctor    |
+
+| 模式 | 解释 |
+| --- | --- |
+| Light Mode | 开关模式，默认为此模式 |
+| Elevator Mode | 电梯模式，按下之后界面会自动回到关闭 |
+| Light Mode (No Touch)  | 开关模式，同时禁用设备上自带触摸，可以减少误动作 | 
+| Elevator Mode (NoTouch) | 电梯模式，同时禁用设备上自带触摸，可以减少误动作 |
+
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
