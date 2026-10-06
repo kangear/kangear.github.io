@@ -109,6 +109,18 @@ typora-root-url: ../
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/WeChat_20250804112338.mp4#t=0.001" type="video/mp4">
 </video>
 
+### 4.4 功能表
+
+| 中文 | 英文 | 繁中 | 日语 | 韩语 | 越南语 |
+| --- | --- | --- | --- | --- | --- |
+| 关闭 | Off | 關閉 | オフ | 끔 | Tắt |
+| 降温(旧称:制冷) | Cool | 冷氣 | 冷房 | 냉방 | Mát |
+| 升温(旧称:制热)  | Heat | 暖氣 | 暖房 | 난방 | Sười |
+| 自动 | Auto | 自動 | 自動 | 자동 | Tự động |
+| 摆动 | Oscillate | 擺動 | 首振り | 스윙 모드 | Dao động |
+| 风扇速度 | Fan Speed | 風扇速度 | ファンの速さ | 환풍기 속도 | Tốc độ quạt |
+
+
 ## 5. 常见问题
 
 ### 5.1 温度明显过高 (比如显示72度)
