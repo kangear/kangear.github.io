@@ -44,11 +44,15 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
       <img src="/assets/c91e40d258c3c0230c8f48577118be2b.jpg" alt="有帮助的截图" style="width: 66.67%;" />
     </td>
     <td style="text-align: center;">
+      <img src="/assets/ccc43c489d3d5297bdeaaf46ee7b99e0.jpg" alt="有帮助的截图" style="width: 66.67%;" />
+    </td>
+    <td style="text-align: center;">
       <img src="/assets/8f85c7ef22ad8c98d85a174926767b5e.jpg" alt="有帮助的截图" style="width: 66.67%;" />
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">Thread Doctor App</td>
+    <td style="text-align: center;">主界面</td>
     <td style="text-align: center;">修改Mode</td>
   </tr>
 </table>
