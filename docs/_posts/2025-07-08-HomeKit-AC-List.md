@@ -19,7 +19,7 @@ typora-root-url: ../
 | 4  | 飞歌PHILCO[`-`]                  |  YB1FA5       | -         |      YES        | -  |
 | 5  | 三菱重工 MITSUBISHI HEAVY[`SRK50RE1/SRC50RE1`] |  RYD502A 034A| YES | -  | 米家三菱重工22 |
 | 6  | 格力-清新风 [`KFR-120LW`]        |  -             | -        |               -  | -  |
-| 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | YES      | 屏显X             | -  |
+| 7  | 格力-轻柔风 [`KFR-35GW`]         | YAP0F20        | YES      | 屏显X             | 一键匹配更精准  |
 | 8  | 格力-冷静王II [`-`]              | YAP0FB3        | -        |               -  | -  |
 | 9  | 美的-智弧 [`KFR-26GW/N8MJA3`]    | RN10LB(B2HS)/BG | -        |              -  | -  |
 | 10 | TCL [`KFRd-26GW`]               | TCL(细长白色)   | -        |        TCL112AC  | -  |
@@ -83,7 +83,12 @@ typora-root-url: ../
 | 68 | 日立(RAS-AJN25D(W))             | -         | YES(5.832)   |    |  |
 | 69 | 大金(Daikin)                    | FTWN25JV1 | NO   |  YES(DAIKIN160) |  |
 | 70 | 松下CZ-RD501DW1                 | - |    |   | 面板不支持红外 |
-
+| 71 | 开利(Carrier)                 |RG51I41/BGEF|    |   |  |
+| 72 | 大金(BRC4M150W)                 |-| NO   | ?  | 专门红外学习可以 |
+| 73 | 三菱重工                        | RLH502A001 | ?   | ?  |  |
+| 74 | 日立                            | PC-P1KQN | ?   | ?  |  |
+| 77 | 大金(Daikin)                    | ARC433A75 | ?   | ?  |  |
+| 78 | 三菱电机(Mitsubishi Electric)   | KH18A 9338 | ?   | ?  |  |
 
 ## A库支持表
 
