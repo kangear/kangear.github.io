@@ -22,20 +22,30 @@ FPOON GW6伴侣网关（Matter版本）同时支持多款设备接入到HomeKit�
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
   <tr>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="/assets/20261019171813_372_6.jpg" alt="图1" style="width: 100%; height: 260px; object-fit: contain; display: block; margin: 0 auto;" />
+    <td style="text-align: center; vertical-align: top; width: 20%; padding: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 200%;">
+        <img src="/assets/20261019171813_372_6.jpg" alt="图1" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; margin: 0 auto;" />
+      </div>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="/assets/20261019171813_373_6.jpg" alt="图2" style="width: 100%; height: 260px; object-fit: contain; display: block; margin: 0 auto;" />
+    <td style="text-align: center; vertical-align: top; width: 20%; padding: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 200%;">
+        <img src="/assets/20261019171813_373_6.jpg" alt="图2" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; margin: 0 auto;" />
+      </div>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="/assets/20261019171813_374_6.jpg" alt="图3" style="width: 100%; height: 260px; object-fit: contain; display: block; margin: 0 auto;" />
+    <td style="text-align: center; vertical-align: top; width: 20%; padding: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 200%;">
+        <img src="/assets/20261019171813_374_6.jpg" alt="图3" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; margin: 0 auto;" />
+      </div>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="/assets/20261019171813_375_6.jpg" alt="图4" style="width: 100%; height: 260px; object-fit: contain; display: block; margin: 0 auto;" />
+    <td style="text-align: center; vertical-align: top; width: 20%; padding: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 200%;">
+        <img src="/assets/20261019171813_375_6.jpg" alt="图4" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; margin: 0 auto;" />
+      </div>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="/assets/842f7565905401e4d8edf707d8679b53.jpg" alt="图5" style="width: 100%; height: 260px; object-fit: contain; display: block; margin: 0 auto;" />
+    <td style="text-align: center; vertical-align: top; width: 20%; padding: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 200%;">
+        <img src="/assets/842f7565905401e4d8edf707d8679b53.jpg" alt="图5" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; margin: 0 auto;" />
+      </div>
     </td>
   </tr>
   <tr>
