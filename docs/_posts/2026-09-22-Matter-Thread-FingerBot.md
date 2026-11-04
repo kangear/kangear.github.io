@@ -26,6 +26,8 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/a29276ecde96ab7ec5ce92dfba5373eb.mp4#t=0.001" type="video/mp4">
 </video>
 
+注意：如果以上方法无法进入让指示灯闪烁，可以插着充电线状态长按10秒，按够之后可以拔掉充电线。
+
 ## 4. 充电
 
 充电过程中指示灯呼吸状态，充满之后指示灯长亮。
