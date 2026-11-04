@@ -13,10 +13,27 @@ typora-root-url: ../
 
 ### 1.1 功能演示
 
+<div style="display: flex; justify-content: center; gap: 28px; margin-bottom: 16px;">
+  <div style="width: 28%; text-align: center;">
+    <div style="width: 100%; height: 360px; display: flex; align-items: center; justify-content: center; background: #fff; overflow: hidden;">
+      <img src="/assets/4957fb6c47af4602c6b760a088efd437.jpg" alt="截图1" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">安装效果</div>
+  </div>
+  <div style="width: 28%; text-align: center;">
+    <div style="width: 100%; height: 360px; display: flex; align-items: center; justify-content: center; background: #fff; overflow: hidden;">
+      <img src="/assets/048e32b310172d8dcc3c3512650ffbf6.jpg" alt="截图2" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">主界面</div>
+  </div>
+  <div style="width: 28%; text-align: center;">
+    <div style="width: 100%; height: 360px; display: flex; align-items: center; justify-content: center; background: #fff; overflow: hidden;">
+      <img src="/assets/0a1303b41fe370a5f24496413a390933.jpg" alt="截图3" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block;" />
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">设置界面(iOS27显示风速、摆动)</div>
+  </div>
+</div>
 
-| [<img src="/assets/wechat_2025-09-14_121537_087.png" width="300"/>](/assets/wechat_2025-09-14_121537_087.png)|
-| :------------: | 
-|          安装效果    |
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 16px; overflow-x: auto; margin-bottom: 16px;">
   <video width="240" height="320" controls style="display: block; flex: 0 0 auto;">
