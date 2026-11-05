@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matter 常见问题"
+title:  "Matter配件常见问题"
 date:   2025-12-08 10:00:00 +0800
 categories: a
 typora-copy-images-to: ../assets
