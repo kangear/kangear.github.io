@@ -118,6 +118,7 @@ iPhone 15 Pro Max不会出现以上提示，说明其已经支持Thread直接连
 | --- | --- | --- |
 | **Unable to Add Accessory**<br>Connect to a 2.4 GHz Wi-Fi network and try again. | **无法添加配件**<br>接入 2.4GHz 无线局域网并重试。 | iPhone 临时连接 2.4G WiFi 后再次尝试配置。 |
 | **Unable to Add Accessory**<br>Pairing Failed | **无法添加配件**<br>Pairing Failed | 配置时配件重启会提醒这个，可以重新尝试，或者更换新的电源供电。 |
+| **Unable to Add Accessory**<br>An unknown error occurred. | - | 可以重启 HomePod 和 iPhone 后尝试。 |
 | **Thread Border Router Required**<br>To pair this accessory, your home network must include a Thread Border Router. | **要求 Thread 边界路由器**<br>若要配对此配件，家庭网络必须包含 Thread 边界路由器。 | 字面意思。 |
 | **Accessory Not Found**<br>You may need to restart your accessory before you can add it to your home. | - | 重启配件或者 iPhone。 |
 
