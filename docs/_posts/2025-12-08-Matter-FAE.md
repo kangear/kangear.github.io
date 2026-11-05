@@ -51,7 +51,7 @@ typora-root-url: ../
     <div style="width: 100%; position: relative;">
       <img src="/assets/f77d15e4ab1108f9a91b6964304565db.jpg" alt="中枢说明" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">中枢说明</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">5号</div>
   </div>
   <div style="width: 24%; text-align: center;">
     <div style="width: 100%; position: relative;">
@@ -63,7 +63,7 @@ typora-root-url: ../
     <div style="width: 100%; position: relative;">
       <img src="/assets/6c14badd736fe9ec86ae73ccc3a8a14f.jpg" alt="无法添加配件" style="width: 100%; display: block;" />
     </div>
-    <div style="width: 100%; text-align: center; margin-top: 8px;">无法添加配件</div>
+    <div style="width: 100%; text-align: center; margin-top: 8px;">2号</div>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ typora-root-url: ../
 3. 每次配对添加时将设备重启一下再进行，成功率会比较高。
 4. Matter强制依赖IPv6，如果WiFi路由器没有开启会导致添加上就显示 未响应。
 
-## 10. 清除iPhone中Matter配件缓存
+## 5. 清除iPhone中Matter配件缓存
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px;">
   <div style="width: 24%; text-align: center;">
