@@ -121,12 +121,12 @@ iPhone 15 Pro Max不会出现以上提示，说明其已经支持Thread直接连
 | **Thread Border Router Required**<br>To pair this accessory, your home network must include a Thread Border Router. | **要求 Thread 边界路由器**<br>若要配对此配件，家庭网络必须包含 Thread 边界路由器。 | 字面意思。 |
 | **Accessory Not Found**<br>You may need to restart your accessory before you can add it to your home. | - | 重启配件或者 iPhone。 |
 
-## 7. AppleHome添加三步骤
+## 7. Apple Home添加三步骤
 
-| 英文 | 中文 | 说明 |
-| --- | --- | --- |
-| **Connecting...** | **连接中...** | iPhone 正在搜索并连接附近配件。 |
-| **Setup** | **设置中** | 正在建立配对并下发基础配置。 |
-| **Adding...** | **添加中...** | 正在把配件加入家庭并完成最后配置。 |
+| 步骤 | 英文 | 中文 | 说明 |
+|:---:| --- | --- | --- |
+| 1 | **Connecting...** | **连接中...** | iPhone 正在通过蓝牙搜索并连接附近配件。 |
+| 2 | **Setting Up...** | **设置中...** | 正在建立配对并下发基础配置。 |
+| 3 | **Adding to home...** | **正在添加到家庭...** | 正在把配件加入家庭并完成最后配置。 |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
