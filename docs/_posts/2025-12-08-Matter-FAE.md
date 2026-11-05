@@ -78,6 +78,8 @@ Matter 里一般有三个角色：控制器、中枢、配件。为了说得明�
 - 配件连接Android手机热点导致
 - 两个不同地理位置的房子共用同一个“家庭”，新购买HomePod添加后导致
 
+Apple官网的相关描述[如果 HomeKit 或 Matter 配件在“家庭”App 中没有响应][3]
+
 ## 5. 扫码以外的添加方式
 
 1. Matter配件除了可以扫码添加，也可以发现附近Matter配件并手动输入二维码下方代码方式进行添加。
@@ -103,3 +105,4 @@ Matter 里一般有三个角色：控制器、中枢、配件。为了说得明�
 </div>
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
+[3]: https://support.apple.com/zh-cn/102056
