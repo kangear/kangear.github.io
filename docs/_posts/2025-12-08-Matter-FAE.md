@@ -104,5 +104,14 @@ Apple官网的相关描述[如果 HomeKit 或 Matter 配件在“家庭”App �
   </div>
 </div>
 
+## 7. HA添加未认证Matter配件
+
+HA默认不支持添加未认证Matter设备，需要打印以下开关才可以添加。
+
+| [<img src="/assets/f7247bb781131087e77617c0d97d9afd.jpg" width="800"/>](/assets/f7247bb781131087e77617c0d97d9afd.jpg)|
+| :------------: | 
+|          原理    |
+
+
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
 [3]: https://support.apple.com/zh-cn/102056
