@@ -45,7 +45,7 @@ typora-root-url: ../
 | 30 | 大金(Daikin)                    | ARC480A32       | 待反馈       |   -           | -  |
 | 31 | 美的中央空调                     | RN10L2(B2HS)/BG | YES         |   -           | -  |
 | 32 | 三菱电机-柜机[`Power Inverter`]  | -              | YES         |   -        | -    |
-| 33 | 大金(Daikin)                     | ARC423A5        | 待反馈(NO) |   -           | -  |
+| 33 | 大金(Daikin)                     | ARC423A5        | NO |   YES  | -  |
 | 34 | 科龙                             | DG11J1-02(DF)   | YES        |   -           | -  |
 | 35 | 美的                             | RN08U1/BG       | YES        |   -           | -  |
 | 36 | 东芝(Toshiba)                    | WC-L03SE        | YES        |   -           | -  |
@@ -89,6 +89,7 @@ typora-root-url: ../
 | 74 | 日立                            | PC-P1KQN | ?   | ?  |  |
 | 77 | 大金(Daikin)                    | ARC433A75 | ?   | ?  |  |
 | 78 | 三菱电机(Mitsubishi Electric)   | KH18A 9338 | ?   | ?  |  |
+| 78 | 三菱电机(MSXY-FN18VE)  | - | ?   | YES |  |
 
 ## A库支持表
 
