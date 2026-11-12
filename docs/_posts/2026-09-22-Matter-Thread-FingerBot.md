@@ -38,12 +38,15 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 
 ## 5. 设置运行模式
 
-需要下载`Thread Doctor`工具App进行调节参数。
+需要下载`Thread Doctor`工具App进行调节参数。注意：该App仅为工具App，不修改参数可以不用下载安装，修改参数后可以卸载无需保留。
 
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;" border="1">
   <tr>
     <td style="text-align: center;">
       <img src="/assets/c91e40d258c3c0230c8f48577118be2b.jpg" alt="有帮助的截图" />
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/013665795531c0dba7fc2c30e5dbc3e6.jpg" alt="有帮助的截图" />
     </td>
     <td style="text-align: center;">
       <img src="/assets/ccc43c489d3d5297bdeaaf46ee7b99e0.jpg" alt="有帮助的截图" />
@@ -54,8 +57,9 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
   </tr>
   <tr>
     <td style="text-align: center;">Thread Doctor App</td>
-    <td style="text-align: center;">主界面 按Scan进行扫描</td>
-    <td style="text-align: center;">找到设备，修改Mode</td>
+    <td style="text-align: center;">主界面，按Scan进行扫描</td>
+    <td style="text-align: center;">Thread devices栏下找到设备</td>
+    <td style="text-align: center;">找到Configuration栏下的Mode进行修改</td>
   </tr>
 </table>
 
