@@ -89,7 +89,9 @@ typora-root-url: ../
 | 74 | 日立                            | PC-P1KQN | ?   | ?  |  |
 | 77 | 大金(Daikin)                    | ARC433A75 | ?   | ?  |  |
 | 78 | 三菱电机(Mitsubishi Electric)   | KH18A 9338 | ?   | ?  |  |
-| 78 | 三菱电机(MSXY-FN18VE)  | - | ?   | YES |  |
+| 79 | 三菱电机(MSXY-FN18VE)  | - | ?   | YES |  |
+| 80 | 大金(Daikin)   | BRC4C156 | NO   | YES |  |
+| 81 | 大金(Daikin)   | ARC466A41 | NO   | ? |  |
 
 ## A库支持表
 
