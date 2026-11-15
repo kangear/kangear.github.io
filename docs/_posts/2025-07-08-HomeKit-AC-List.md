@@ -91,7 +91,7 @@ typora-root-url: ../
 | 78 | 三菱电机(Mitsubishi Electric)   | KH18A 9338 | ?   | ?  |  |
 | 79 | 三菱电机(MSXY-FN18VE)  | - | ?   | YES |  |
 | 80 | 大金(Daikin)   | BRC4C156 | NO   | YES |  |
-| 81 | 大金(Daikin)   | ARC466A41 | NO   | ? |  |
+| 81 | 大金(Daikin)   | ARC466A41 | ?   | YES(DAIKIN216) |  |
 
 ## A库支持表
 
