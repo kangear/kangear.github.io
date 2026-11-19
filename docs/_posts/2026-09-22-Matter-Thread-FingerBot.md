@@ -36,7 +36,7 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
   <source src="https://homekit.oss-cn-beijing.aliyuncs.com/1ad741a4571be548649afa647052572e.mp4#t=0.001" type="video/mp4">
 </video>
 
-## 5. 设置运行模式
+## 5. 设置运行模式（可选步骤）
 
 需要下载`Thread Doctor`工具App进行调节参数。注意：该App仅为工具App，不修改参数可以不用下载安装，修改参数后可以卸载无需保留。
 
@@ -73,28 +73,10 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 | Elevator Mode (NoTouch) | 电梯模式，同时禁用设备上自带触摸，可以减少误动作 |
 
 
-## 6. 更新固件
+## 6. 常见问题
 
-连接电脑或者Mac可以更新固件，使用usb线连接设备到电脑上，然后使用Chrome打开网页[adafruit.github.io/Adafruit_WebSerial_ESPTool][2]
-
-| [<img src="/assets/bafdb7d23186ed1f822a1f603ec0ae5d.png" width="600"/>](/assets/bafdb7d23186ed1f822a1f603ec0ae5d.png)|
-| :------------: | 
-|    1    |
-
-| [<img src="/assets/7de43197d79e6ee51115fcef37c72f13.png" width="600"/>](/assets/7de43197d79e6ee51115fcef37c72f13.png)|
-| :------------: | 
-|    2    |
-
-| [<img src="/assets/1f38295b8cbb50cb3dc6e3d66255b681.png" width="600"/>](/assets/1f38295b8cbb50cb3dc6e3d66255b681.png)|
-| :------------: | 
-|    3    |
-
-
-| [<img src="/assets/7faa00cf404635f41d163e2104b1fa6f.png" width="600"/>](/assets/7faa00cf404635f41d163e2104b1fa6f.png)|
-| :------------: | 
-|    4    |
-
-然后拔掉充电线，再插拔一下充电线，这时指示开始闪烁，可以进行扫码添加。
+[Matter配件常见问题][3]
 
 [1]: /a/2025/07/08/HomeKit-AC-List.html
 [2]: https://adafruit.github.io/Adafruit_WebSerial_ESPTool/
+[3]: /a/2025/12/08/Matter-FAE.html
