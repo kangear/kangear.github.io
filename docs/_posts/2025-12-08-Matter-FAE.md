@@ -30,7 +30,7 @@ Matter 里一般有三个角色：控制器、中枢、配件。为了说得明�
 | 5 | **Unable to Add Accessory**<br>Failed with OSStatus code -6700 (kUnknownErr) | **无法添加配件**<br>Failed with OSStatus code -6700 (kUnknownErr) | 再次尝试添加。 |
 | 6 | - | **无法添加配件**<br>操作超时 | 一般是 HomePod 未响应导致。 |
 | 7 | - | **无法接入网络**<br>确保网络可覆盖配件，还原配件后再重新尝试添加到家中。 | 可以重启 HomePod 和 iPhone 后尝试。 |
-| 8 | **Thread Border Router Required**<br>To pair this accessory, your home network must include a Thread Border Router. | **要求 Thread 边界路由器**<br>若要配对此配件，家庭网络必须包含 Thread 边界路由器。 | 字面意思。 |
+| 8 | **Thread Border Router Required**<br>To pair this accessory, your home network must include a Thread Border Router. | **要求 Thread 边界路由器**<br>若要配对此配件，家庭网络必须包含 Thread 边界路由器。 | 需要HomePod2代或者 HomePod mini，如果有还提示需要将中枢调整到HomePod mini再次尝试配置 |
 | 9 | **Accessory Not Found**<br>You may need to restart your accessory before you can add it to your home. | - | 重启配件或者 iPhone。 |
 
 ## 3. 截图
@@ -114,6 +114,13 @@ HA默认不支持添加未认证Matter设备，需要打印以下开关才可以
 | :------------: | 
 |          原理    |
 
+## 8. Apple Home中三种状态
+
+| 步骤 | 英文 | 中文 | 说明 |
+|:---:| --- | --- | --- |
+| 1 | **未响应** | **未响应** | iPhone 正在通过蓝牙搜索并连接附近配件，如果卡在这一步，则一般是配件未上电 |
+| 2 | **不支持** | **不支持** | 正在建立配对并下发基础配置，如果卡在这一步，一般是HomePod和配件之间不互通 |
+| 3 | **不可用** | **不可用** | 正在把配件加入家庭并完成最后配置。 |
 
 [2]: /cloud/2024/11/15/HomeSpan-Light-Readme.html
 [3]: https://support.apple.com/zh-cn/102056
