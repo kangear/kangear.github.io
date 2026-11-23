@@ -72,8 +72,25 @@ Thread版本无需WiFi，支持接入Apple HomeKit、Google Home、Amazon Alexa�
 | Light Mode (No Touch)  | 开关模式，同时禁用设备上自带触摸，可以减少误动作 | 
 | Elevator Mode (NoTouch) | 电梯模式，同时禁用设备上自带触摸，可以减少误动作 |
 
+## 6. 滑道底座（可选配件）
 
-## 6. 常见问题
+| [<img src="/assets/ccf4108084074f5dab6f8f099a6e22f2.jpg" width="400"/>](/assets/ccf4108084074f5dab6f8f099a6e22f2.jpg)|
+| :------------: | 
+|         配件包    |
+
+| 模式 | 解释 |
+| --- | --- |
+| A | 粘贴在机器人底部 |
+| B | 粘贴在按钮旁边 |
+| C  | 超长打击锤 | 
+| D | 中长打击锤 |
+| E | 超短打击锤 |
+
+<video width="240" height="320" controls style="display: block; margin: 0 auto 16px;">
+  <source src="https://homekit.oss-cn-beijing.aliyuncs.com/007aaf847ce19fa76883cc04ec6efb07.mp4#t=0.001" type="video/mp4">
+</video>
+
+## 7. 常见问题
 
 [Matter配件常见问题][3]
 
