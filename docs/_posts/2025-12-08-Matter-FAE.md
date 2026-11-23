@@ -28,7 +28,7 @@ Matter 里一般有三个角色：控制器、中枢、配件。为了说得明�
 | 3 | **Unable to Add Accessory**<br>An unknown error occurred. | - | 可以重启 HomePod 和 iPhone 后尝试。 |
 | 4 | **Unable to Add Accessory**<br>Accessory is not reachable. | **无法添加配件**<br>配件不可连接。 | 确保 HomePod 状态正常，未出现异常。 |
 | 5 | **Unable to Add Accessory**<br>Failed with OSStatus code -6700 (kUnknownErr) | **无法添加配件**<br>Failed with OSStatus code -6700 (kUnknownErr) | 再次尝试添加。 |
-| 6 | - | **无法添加配件**<br>操作超时 | 一般是 HomePod 未响应导致。 |
+| 6 |  **Unable to Add Accessory**<br>Operation timed out. | **无法添加配件**<br>操作超时 | 一般是 HomePod 未响应导致，可以重启试下或者将HomePod切到2.4G WiFi下再试 |
 | 7 | - | **无法接入网络**<br>确保网络可覆盖配件，还原配件后再重新尝试添加到家中。 | 可以重启 HomePod 和 iPhone 后尝试。 |
 | 8 | **Thread Border Router Required**<br>To pair this accessory, your home network must include a Thread Border Router. | **要求 Thread 边界路由器**<br>若要配对此配件，家庭网络必须包含 Thread 边界路由器。 | 需要HomePod2代或者 HomePod mini，如果有还提示需要将中枢调整到HomePod mini再次尝试配置 |
 | 9 | **Accessory Not Found**<br>You may need to restart your accessory before you can add it to your home. | - | 重启配件或者 iPhone。 |
